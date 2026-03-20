@@ -1,13 +1,10 @@
-name: 🏛️ Pobierz licytacje KAS
+name: Pobierz licytacje KAS
 
 on:
-  # Uruchamia się codziennie o 8:00 czasu polskiego (6:00 UTC latem / 7:00 UTC zimą)
   schedule:
-    - cron: '0 6 * * *'   # lato (CEST = UTC+2)
-  # Możliwość ręcznego uruchomienia
+    - cron: '0 6 * * *'
   workflow_dispatch:
 
-# Uprawnienia do publikowania na GitHub Pages
 permissions:
   contents: write
   pages: write
@@ -19,27 +16,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: 📥 Pobierz repozytorium
+      - name: Pobierz repozytorium
         uses: actions/checkout@v4
 
-      - name: 🐍 Skonfiguruj Python 3.11
+      - name: Skonfiguruj Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
-      - name: 📦 Zainstaluj zależności
+      - name: Zainstaluj zaleznosci
         run: pip install -r kas-licytacje-agent/requirements.txt
 
-      - name: 🔍 Uruchom scrapera i wygeneruj raport
+      - name: Uruchom scrapera
         run: cd kas-licytacje-agent && python main.py
 
-    - name: 📤 Wyślij raport na GitHub Pages
+      - name: Wyslij raport na GitHub Pages
         run: |
-          git config --global user.name  "KAS Licytacje Bot"
-          git config --global user.email "bot@kas-licytacje"
+          git config --global user.name "KAS Bot"
+          git config --global user.email "bot@kas"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add docs/
-          git diff --cached --quiet || git commit -m "📊 Raport licytacji KAS — $(date +'%d.%m.%Y %H:%M')"
+          git diff --cached --quiet || git commit -m "Raport KAS $(date +'%d.%m.%Y')"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
