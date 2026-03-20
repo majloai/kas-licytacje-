@@ -194,6 +194,7 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
     try:
         resp = session.get(office["url"], headers=HEADERS, timeout=25)
         resp.raise_for_status()
+        resp.encoding = 'utf-8'
     except requests.RequestException as e:
         print(f"  ❌ Błąd {office['city']}: {e}")
         return []
