@@ -190,7 +190,84 @@ def extract_date(title: str) -> str:
 
 
 def scrape_ias(session: requests.Session, office: dict) -> list:
-    """Pobiera i parsuje stronę jednej IAS."""
+    """Pobiera i parsuje wszystkie strony jednej IAS."""
+    all_listings = []
+    page = 0
+    delta = 20  # standardowy rozmiar strony w Liferay
+
+    while True:
+        # Liferay używa parametru 'start' do paginacji
+        params = f"?delta={delta}&start={page * delta}" if page > 0 else ""
+        url = office["url"] + params
+
+        try:
+            resp = session.get(url, headers=HEADERS, timeout=25)
+            resp.raise_for_status()
+            resp.encoding = resp.apparent_encoding
+        except requests.RequestException as e:
+            print(f"  ❌ Błąd {office['city']} strona {page+1}: {e}")
+            break
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+
+        content_area = (
+            soup.find(id="main-content")
+            or soup.find(class_=re.compile(r"portlet-content|journal-content|asset-publisher"))
+            or soup.body
+        )
+
+        seen_on_page = 0
+        for a_tag in content_area.find_all("a", href=True):
+            href = a_tag.get("href", "")
+            title = a_tag.get_text(strip=True)
+
+            if not title or len(title) < 15:
+                continue
+            skip_keywords = [
+                "Przejdź do", "Izba Admin", "Urząd Skarbowy",
+                "Pierwsz", "Drugi ", "Trzeci ", "Czytaj więcej", "Czytaj wi"
+            ]
+            if any(title.startswith(sk) for sk in skip_keywords):
+                continue
+            if not any(kw in title.lower() for kw in [
+                "licytacj", "sprzedaż", "sprzedaz", "ruchom", "nieruchom",
+                "obwieszczen", "zawiadomien", "przetarg"
+            ]):
+                continue
+
+            # Sprawdź duplikaty globalnie
+            if title in {item["title"] for item in all_listings}:
+                continue
+
+            if href.startswith("http"):
+                full_url = href
+            elif href.startswith("/"):
+                full_url = office["base_url"] + href
+            else:
+                full_url = office["base_url"] + "/" + href
+
+            all_listings.append({
+                "region": office["region"],
+                "city":   office["city"],
+                "title":  title,
+                "url":    full_url,
+                "category": detect_category(title),
+                "type":     detect_type(title),
+                "date":     extract_date(title),
+                "source_url": office["url"],
+            })
+            seen_on_page += 1
+
+        # Jeśli strona zwróciła mniej niż delta wyników — to ostatnia strona
+        if seen_on_page < delta or page > 10:  # max 10 stron = 200 ogłoszeń/IAS
+            break
+
+        page += 1
+        time.sleep(0.5)
+
+    print(f"  ✅ {office['city']} ({office['region']}): {len(all_listings)} ogłoszeń")
+    return all_listings
+    
     try:
         resp = session.get(office["url"], headers=HEADERS, timeout=25)
         resp.raise_for_status()
