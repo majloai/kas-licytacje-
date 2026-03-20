@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-03-20T17:29:35.511014",
-  "total": 816,
+  "scraped_at": "2026-03-20T18:11:49.091315",
+  "total": 824,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -9,6 +9,26 @@
       "url": "https://www.dolnoslaskie.kas.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach",
       "category": "Inne ruchomości",
       "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Nowa lokalizacja Urzędu Skarbowego w Złotoryi",
+      "url": "https://www.dolnoslaskie.kas.gov.pl/web/ias-wroclaw/nowa-lokalizacja-urzedu-skarbowego-w-zlotoryi",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
     },
@@ -207,7 +227,7 @@
       "city": "Bydgoszcz",
       "title": "Obwieszczenie o drugiej licytacji 24 marca 2026 roku żelazka marki DOMOTEC",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-drugiej-licytacji-24-marca-2026-roku-zelazka-marki-domotec?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "II licytacja",
       "date": "24.03.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
@@ -217,7 +237,7 @@
       "city": "Bydgoszcz",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki samochodu osobowego marki Skoda Fabia Combi, od 27.03.2026 roku do 10.04.2026 roku w godz. 8-12.",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochodu-osobowego-marki-skoda-fabia-combi-od-27-03-2026-roku-do-10-04-2026-roku-w-godz-8-12?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
@@ -247,7 +267,7 @@
       "city": "Bydgoszcz",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości 22 kwietnia 2026 roku - sprzęt gospodarstwa domowego, meble, zastawa stołowa",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-22-kwietnia-2026-roku-sprzet-gospodarstwa-domowego-meble-zastawa-stolowa?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Sg9I_advancedSearch%3Dfalse%26_101_INSTANCE_Sg9I_keywords%3D%26_101_INSTANCE_Sg9I_delta%3D20%26_101_INSTANCE_Sg9I_cur%3D2%26_101_INSTANCE_Sg9I_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "22.04.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Sg9I&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Sg9I_delta=20&_101_INSTANCE_Sg9I_keywords=&_101_INSTANCE_Sg9I_advancedSearch=false&_101_INSTANCE_Sg9I_andOperator=true&cur=2"
@@ -577,7 +597,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości z wolnej ręki do 30 marca 2026 r. (telewizory - 100 pozycji)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-z-wolnej-reki-do-30-marca-2026-r-telewizory-100-pozycji?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -597,7 +617,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości z wolnej ręki do 30 marca 2026 r. (telewizory - 24 pozycje)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-z-wolnej-reki-do-30-marca-2026-r-telewizory-24-pozycje?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -647,7 +667,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Lubartowie o sprzedaży z wolnej ręki ruchomości od 25 marca do 15 kwietnia 2026 r. (samochód osobowy AUDI A4)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-lubartowie-o-sprzedazy-z-wolnej-reki-ruchomosci-od-25-marca-do-15-kwietnia-2026-r-samochod-osobowy-audi-a4?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "15.04.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -657,7 +677,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości (nóż o długości ok 30 cm)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-noz-o-dlugosci-ok-30-cm?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -667,7 +687,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości z wolnej ręki do 25 marca 2026 r. (samochód osobowy Volkswagen  Passat)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-z-wolnej-reki-do-25-marca-2026-r-samochod-osobowy-volkswagen-passat?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "25.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -717,7 +737,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości z wolnej ręki do 25 marca 2026 r. (Samochód marki Renault Clio)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-z-wolnej-reki-do-25-marca-2026-r-samochod-marki-renault-clio?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "25.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -757,7 +777,7 @@
       "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Białej Podlaskiej o pierwszej licytacji ruchomości 1 kwietnia 2026 r. (przyczepa lekka ciężarowa Fracht)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bialej-podlaskiej-o-pierwszej-licytacji-ruchomosci-1-kwietnia-2026-r-przyczepa-lekka-ciezarowa-fracht?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "01.04.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -767,7 +787,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Opolu Lubelskim o sprzedaży ruchomości 24 marca 2026 r. (samochód osobowy Renault Laguna)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-opolu-lubelskim-o-sprzedazy-ruchomosci-24-marca-2026-r-samochod-osobowy-renault-laguna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Ogłoszenie",
       "date": "24.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -827,7 +847,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Opolu Lubelskim o sprzedaży ruchomości 24 marca 2026 r. (samochód osobowy Mitsubishi Carisma)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-opolu-lubelskim-o-sprzedazy-ruchomosci-24-marca-2026-r-samochod-osobowy-mitsubishi-carisma?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Ogłoszenie",
       "date": "24.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -857,7 +877,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości z wolnej ręki do 25 marca 2026 r. (Volkswagen Passat, 1.9 TDI)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-z-wolnej-reki-do-25-marca-2026-r-volkswagen-passat-1-9-tdi?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "25.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -877,7 +897,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Chełmie o sprzedaży z wolnej ręki ruchomości od 20 do 27 marca 2026 r. (motorower Honda PAL 50 cm³)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-chelmie-o-sprzedazy-z-wolnej-reki-ruchomosci-od-20-do-27-marca-2026-r-motorower-honda-pal-50-cm%C2%B3?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -947,7 +967,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Puławach o sprzedaży z wolnej ręki ruchomości 20 marca 2026 r. (samochód osobowy marki FORD KA Hatchback)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-pulawach-o-sprzedazy-z-wolnej-reki-ruchomosci-20-marca-2026-r-samochod-osobowy-marki-ford-ka-hatchback?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "20.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -967,7 +987,7 @@
       "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Zamościu o pierwszej licytacji ruchomości 20 marca 2026 r. (Citroen C5)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-zamosciu-o-pierwszej-licytacji-ruchomosci-20-marca-2026-r-citroen-c5?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "I licytacja",
       "date": "20.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -977,7 +997,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Puławach o sprzedaży z wolnej ręki ruchomości od 17 do 23 marca 2026 r. (Volkswagen Passat)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-pulawach-o-sprzedazy-z-wolnej-reki-ruchomosci-od-17-do-23-marca-2026-r-volkswagen-passat?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1067,7 +1087,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Parczewie o sprzedaży z wolnej ręki ruchomości 16 marca 2026 r. (samochód FORD C-MAX)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-parczewie-o-sprzedazy-z-wolnej-reki-ruchomosci-16-marca-2026-r-samochod-ford-c-max?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "16.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1077,7 +1097,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Urzędu Skarbowego w Chełmie o sprzedaży z wolnej ręki ruchomości od 13 do 20 marca 2026 r. (samochód osobowy Opel Astra - G 1.8 benzyna)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-urzedu-skarbowego-w-chelmie-o-sprzedazy-z-wolnej-reki-ruchomosci-od-13-do-20-marca-2026-r-samochod-osobowy-opel-astra-g-1-8-benzyna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "20.03.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1217,7 +1237,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (TELEWIZOR LG)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-telewizor-lg?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1327,7 +1347,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (22 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-22-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1397,7 +1417,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom organizacyjnym ochrony zdrowia i pomocy społecznej, placówkom oświatowym, instytucjom kultury oraz...",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-telewizor-lg?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1407,7 +1427,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (mikser koloru białego Zelmer Typ 171.6)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-mikser-koloru-bialego-zelmer-typ-171-6?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1437,7 +1457,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (8 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-8-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1447,7 +1467,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży z wolnej ręki ruchomości (35 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-z-wolnej-reki-ruchomosci-35-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1477,7 +1497,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (waga - 2 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-waga-2-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1487,7 +1507,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom uprawnionym (8 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-uprawnionym-8-poz-1?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1517,7 +1537,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych (4 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-4-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1527,7 +1547,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom uprawnionym (4 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-uprawnionym-4-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1537,7 +1557,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży z wolnej ręki ruchomości (TELEWIZOR LG)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-z-wolnej-reki-ruchomosci-telewizor-lg?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1547,7 +1567,7 @@
       "city": "Lublin",
       "title": "Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży z wolej ręki ruchomości (13 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-z-wolej-reki-ruchomosci-13-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -1747,7 +1767,7 @@
       "city": "Zielona Góra",
       "title": "Druga licytacja ruchomości: naczepy ciężarowej KRONE",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/druga-licytacja-ruchomosci-naczepy-ciezarowej-krone?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "II licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
@@ -1817,7 +1837,7 @@
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Celno-Skarbowym",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-celno-skarbowym?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D3%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=3"
@@ -1827,7 +1847,7 @@
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Skarbowym w Zielonej Górze",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D3%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=3"
@@ -1968,6 +1988,16 @@
       "title": "Środy z KSeF. Branża nieruchomości",
       "url": "https://www.lodzkie.kas.gov.pl/web/us-belchatow/srody-z-ksef-branza-nieruchomosci",
       "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.lodzkie.kas.gov.pl/izba-administracji-skarbowej-w-lodzi/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lodzkie.kas.gov.pl/izba-administracji-skarbowej-w-lodzi/ogloszenia/obwieszczenia-o-licytacjach"
@@ -2757,7 +2787,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Samochód Osobowy Renault Laguna Rok prod. 2007 Termin: od 13 do 17 kwietnia 2026 roku w godzinach: od 9:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-renault-laguna-rok-prod-2007-termin-od-13-do-17-kwietnia-2026-roku-w-godzinach-od-9-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "17.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -2777,7 +2807,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY RUCHOMOŚCI po cenie oszacowania podmiotom prowadzącym działalność handlową, art. przemysłowe różne, Termin do 15 kwietnia 2026 roku",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa-art-przemyslowe-rozne-termin-do-15-kwietnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "15.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -2897,7 +2927,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy marki Nissan Micra, rok produkcji 2003, Termin od 26 marca 2026 rok, godz. 10.15 do 26 marca 2026 roku, godzina 10.30",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-marki-nissan-micra-rok-produkcji-2003-termin-od-26-marca-2026-rok-godz-10-15-do-26-marca-2026-roku-godzina-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "26.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -2907,7 +2937,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, samochód osobowy marki TOYOTA COROLLA VERSO, rok prod. 2006, Termin 27 marca 2026 r. od godziny 10:00 do 11:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-marki-toyota-corolla-verso-rok-prod-2006-termin-27-marca-2026-r-od-godziny-10-00-do-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -2927,7 +2957,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, Samochód osobowy Ford Focus, Rok prod.: 2002 r., Termin od 26 marca 2026 r. do 9 kwietnia 2025r. w godz. od 9:00 do 14:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-ford-focus-rok-prod-2002-r-termin-od-26-marca-2026-r-do-9-kwietnia-2025r-w-godz-od-9-00-do-14-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "26.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -2947,7 +2977,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, PEUGEOT 207, rok produkcji 2006, Termin od 26 do 31 marca 2026 roku od godz. 9:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-peugeot-207-rok-produkcji-2006-termin-od-26-do-31-marca-2026-roku-od-godz-9-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "31.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -2997,7 +3027,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy OPEL CORSA, Rok prod. 2006, Termin od 7.04.2026 roku od godz. 10:00 do 10.04.2026 roku do godz. 12:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-opel-corsa-rok-prod-2006-termin-od-7-04-2026-roku-od-godz-10-00-do-10-04-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "07.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -3017,7 +3047,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Mercedes-Benz Sprinter Autobus z 2005 r. - termin: 30 marca 2026 roku, od godz. 10:00 do godz. 14:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-mercedes-benz-sprinter-autobus-z-2005-r-termin-30-marca-2026-roku-od-godz-10-00-do-godz-14-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -3047,7 +3077,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o odwołaniu sprzedaży z wolnej ręki - samochód ciężarowy Ford Transit, rok prod. 2008 - wyznaczoną na 18-31 marca 2026 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-odwolaniu-sprzedazy-z-wolnej-reki-samochod-ciezarowy-ford-transit-rok-prod-2008-wyznaczona-na-18-31-marca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "31.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -3067,7 +3097,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o odwołaniu licytacji ruchomości - NACZEPA CIĘŻAROWA SCHMITZ CARGOBULL AG SKO 24/L-13.4 FP 60 COOL 2018 r. - wyznaczoną na dzień 25.03.2026 r. godzina 10.30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-odwolaniu-licytacji-ruchomosci-naczepa-ciezarowa-schmitz-cargobull-ag-sko-24-l-13-4-fp-60-cool-2018-r-wyznaczona-na-dzien-25-03-2026-r-godzina-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Odwołanie",
       "date": "25.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -3087,7 +3117,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości Piła Szablista Graphite, Przecinarka Kątowa Bosch oraz inne narzędzia Termin: 07.04.2026 rok, godz. 10:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-pila-szablista-graphite-przecinarka-katowa-bosch-oraz-inne-narzedzia-termin-07-04-2026-rok-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Maszyny/Sprzęt",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "07.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
@@ -3197,7 +3227,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości po cenie oszacowania: Obuwie Cole Haan Zero Grand, Plecak Zero Grand - 14 szt, Saszetki-3 szt Termin: do 8 kwietnia 2026 roku",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-po-cenie-oszacowania-obuwie-cole-haan-zero-grand-plecak-zero-grand-14-szt-saszetki-3-szt-termin-do-8-kwietnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "08.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
@@ -3227,7 +3257,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Piła Szablista BOSCH, klucz NEO TOOLS Termin: od 2.04.2026 roku od godz. 10:00 do 8.04.2026 roku do godz. 10:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-pila-szablista-bosch-klucz-neo-tools-termin-od-2-04-2026-roku-od-godz-10-00-do-8-04-2026-roku-do-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "02.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
@@ -3297,7 +3327,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Samochód osobowy Volkswagen Passat Termin: od 24.03.2026 r. do 24.03.2026 r. w godzinach 9:00-11:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-volkswagen-passat-termin-od-24-03-2026-r-do-24-03-2026-r-w-godzinach-9-00-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "24.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
@@ -3337,7 +3367,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Samochody osobowe 4 sztuki, Motorower Gilera Termin: 27 marca 2026 roku, od godz. 12:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochody-osobowe-4-sztuki-motorower-gilera-termin-27-marca-2026-roku-od-godz-12-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3397,7 +3427,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Samochód osobowy VOLKSWAGEN POLO Rok prod. 2003 Termin: Od 23 do 27 marca 2026 roku, od godz. 9:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-volkswagen-polo-rok-prod-2003-termin-od-23-do-27-marca-2026-roku-od-godz-9-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3437,7 +3467,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Motorower marki KYMCO AGILITY 50, rok produkcji 2012 - termin: od 23 do 31 marca 2026 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-motorower-marki-kymco-agility-50-rok-produkcji-2012-termin-od-23-do-31-marca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "31.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3447,7 +3477,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Samochód osobowy Audi A4 Kombi z 2008 r. - termin: 24 marca 2026 roku, od godz. 10:00 do godz. 14:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-osobowy-audi-a4-kombi-z-2008-r-termin-24-marca-2026-roku-od-godz-10-00-do-godz-14-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "24.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3457,7 +3487,7 @@
       "city": "Warszawa",
       "title": "OBWIESZCZENIE O II LICYTACJI RUCHOMOŚCI, Volvo S40, rok produkcji 2004, Termin 20 marca 2026 roku, godz. 11.00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-ii-licytacji-ruchomosci-volvo-s40-rok-produkcji-2004-termin-20-marca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "Licytacja",
       "date": "20.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3467,7 +3497,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o drugiej licytacji ruchomości - Naczepa ciężarowa chłodnia Lamberet LVF S3F-1R rok produkcji 2007 - termin: 23 marca 2026 roku, godz. 11.00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-drugiej-licytacji-ruchomosci-naczepa-ciezarowa-chlodnia-lamberet-lvf-s3f-1r-rok-produkcji-2007-termin-23-marca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "II licytacja",
       "date": "23.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3507,7 +3537,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy RENAULT LAGUNA KOMBI, Rok prod. 2000, Termin od 26.03.2026 roku od godz. 10:00 do 31.03.2026 roku do godz. 10:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-renault-laguna-kombi-rok-prod-2000-termin-od-26-03-2026-roku-od-godz-10-00-do-31-03-2026-roku-do-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "26.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
@@ -3537,7 +3567,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, Samochód osobowy marki SSANGYONG RODIUS, rok produkcji 2010, Termin od 19 do 31 marca 2026 roku od godz. 9:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-marki-ssangyong-rodius-rok-produkcji-2010-termin-od-19-do-31-marca-2026-roku-od-godz-9-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "31.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
@@ -3557,7 +3587,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Samochód Specjalny IVECO STRALIS z Przyczepą Ciężarową LOHR MULTILOHR - termin: 30 marca 2026 r. od godz. 9:00 do godz. 13:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-specjalny-iveco-stralis-z-przyczepa-ciezarowa-lohr-multilohr-termin-30-marca-2026-r-od-godz-9-00-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
@@ -3567,7 +3597,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ REKI ruchomości, Samochód osobowy Audi A4, Rok prod. 1996, Termin od 18 marca 2026r, godz. 10:00 do 18 marca 2026r, godz. 10:30",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-audi-a4-rok-prod-1996-termin-od-18-marca-2026r-godz-10-00-do-18-marca-2026r-godz-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
@@ -3687,7 +3717,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, samochód osobowy marki TOYOTA COROLLA VERSO, rok prod. 2006, Termin 19 marca 2026 r. od godziny 10:00 do 12:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-marki-toyota-corolla-verso-rok-prod-2006-termin-19-marca-2026-r-od-godziny-10-00-do-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "19.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
@@ -3857,7 +3887,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy BMW X3 KOMBI, Rok prod. 2006, Termin od 23.03.2026 roku od godz. 10:00 do 25.03.2026 roku do godz. 10:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-bmw-x3-kombi-rok-prod-2006-termin-od-23-03-2026-roku-od-godz-10-00-do-25-03-2026-roku-do-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
@@ -3877,7 +3907,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Samochód osobowy Skoda Octavia Rok prod. 2010, Termin: od 30.03.2026 roku od godz. 10:00 do 1.04.2026 roku do godz. 10:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-skoda-octavia-rok-prod-2010-termin-od-30-03-2026-roku-od-godz-10-00-do-1-04-2026-roku-do-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
@@ -4027,7 +4057,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Samochód osobowy CHRYSLER VOYAGER Rok produkcji 2006 - termin: 20 - 23 marca 2026 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-osobowy-chrysler-voyager-rok-produkcji-2006-termin-20-23-marca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
@@ -4037,7 +4067,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ REKI ruchomości, Samochód osobowy Skoda Octavia,rok 2002, Termin od 17 marca 2026r, godz. 10:00 do 17 marca 2026r, godz. 10:30",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-skoda-octavia-rok-2002-termin-od-17-marca-2026r-godz-10-00-do-17-marca-2026r-godz-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
@@ -4047,7 +4077,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy VOLKSWAGEN PASSAT 1.9 TDI KARETA (SEDAN), Rok prod. 2000, Termin od 20.03.2026 roku od godz. 10:00 do 27.03.2026 roku do godz....",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-volkswagen-passat-1-9-tdi-kareta-sedan-rok-prod-2000-termin-od-20-03-2026-roku-od-godz-10-00-do-27-03-2026-roku-do-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "20.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
@@ -4067,7 +4097,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości, ubrania, urządzenie WiFi, poszewka, Termin od 18 marca 2026 roku, godz.7.00 do 25 marca 2026 roku, godz.15.00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-ubrania-urzadzenie-wifi-poszewka-termin-od-18-marca-2026-roku-godz-7-00-do-25-marca-2026-roku-godz-15-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "18.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
@@ -4117,7 +4147,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Motorower Longjia Digita Rok prod. 2018, Termin: 17 marca 2026 roku, godz. 9:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-motorower-longjia-digita-rok-prod-2018-termin-17-marca-2026-roku-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "17.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
@@ -4237,7 +4267,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości - PRZYCZEPA LEKKA CIĘŻAROWA K.T.S. SUSKI Rok prod. 2015 - termin: 9.04.2026 rok, godz. 12:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-przyczepa-lekka-ciezarowa-k-t-s-suski-rok-prod-2015-termin-9-04-2026-rok-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D8%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "09.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=8"
@@ -4287,7 +4317,7 @@
       "city": "Warszawa",
       "title": "ZAWIADOMIENIE O SPRZEDAŻY Z WOLNEJ RĘKI ruchomości, Samochód osobowy RENAULT MEGANE SCENIC, Rok prod. 2001, Termin od 16.03.2026 roku od godz. 10:00 do 18.03.2026 roku do godz. 12:00",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-renault-megane-scenic-rok-prod-2001-termin-od-16-03-2026-roku-od-godz-10-00-do-18-03-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D8%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "16.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=8"
@@ -4367,7 +4397,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - pojazd marki Mazda 6, rok produkcji: 2005 - termin: 8 kwietnia 2026 rok, od godz. 10:00 do godz. 10:30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-pojazd-marki-mazda-6-rok-produkcji-2005-termin-8-kwietnia-2026-rok-od-godz-10-00-do-godz-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D9%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "08.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=9"
@@ -4387,7 +4417,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości - NACZEPA CIĘŻAROWA SCHMITZ CARGOBULL AG SKO 24/L-13.4 FP 60 COOL 2018r. - termin: 25 marca 2026 roku, godz. 10:30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-naczepa-ciezarowa-schmitz-cargobull-ag-sko-24-l-13-4-fp-60-cool-2018r-termin-25-marca-2026-roku-godz-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D9%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "25.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=9"
@@ -4397,7 +4427,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenia o drugiej licytacji ruchomości - garnki, patelnie, czajniki, ładowarki, grille, termosy, radia, latarki i inne - termin: 9 kwietnia 2026 roku, godz. 09:30 - 13:30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-drugiej-licytacji-ruchomosci-garnki-patelnie-czajniki-ladowarki-grille-termosy-radia-latarki-i-inne-termin-9-kwietnia-2026-roku-godz-09-30-13-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D9%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Maszyny/Sprzęt",
+      "category": "Inne ruchomości",
       "type": "II licytacja",
       "date": "09.04.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=9"
@@ -4507,7 +4537,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości - HYMER S690 Przyczepa specjalna, rok prod. 2012 - termin: 25 marca 2026 roku, godz. 11:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-hymer-s690-przyczepa-specjalna-rok-prod-2012-termin-25-marca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D10%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "25.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=10"
@@ -4517,7 +4547,7 @@
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości - KARO K450 Przyczepa ciężarowa platforma, rok prod. 1988 - termin: 25 marca 2026 roku, godz. 10:30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-karo-k450-przyczepa-ciezarowa-platforma-rok-prod-1988-termin-25-marca-2026-roku-godz-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D10%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "25.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=10"
@@ -4547,7 +4577,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Naczepa ciężarowa platforma KOEGEL Rok prod. 2008 - termin: 24 marca 2026 roku, od godz. 10.00 do godz. 12.00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-naczepa-ciezarowa-platforma-koegel-rok-prod-2008-termin-24-marca-2026-roku-od-godz-10-00-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D10%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "24.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=10"
@@ -4597,7 +4627,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Mazda Demio rok produkcji 2001, Honda CBR 600 rok produkcji 1997 i Honda HF02E HI rok produkcji 1999 - termin: 23 marca 2026 rok, od. godz. 11:00 do godz....",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-mazda-demio-rok-produkcji-2001-honda-cbr-600-rok-produkcji-1997-i-honda-hf02e-hi-rok-produkcji-1999-termin-23-marca-2026-rok-od-godz-11-00-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D10%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=10"
@@ -5177,7 +5207,7 @@
       "city": "Warszawa",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki - Samochód ciężarowy wielozadaniowy VOLKSWAGEN CADDY 1.9 SDI, Rok prod. 2002 - termin: od 19.12.2025 roku od godz. 10:00 do 22.12.2025 roku do godz. 12:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-ciezarowy-wielozadaniowy-volkswagen-caddy-1-9-sdi-rok-prod-2002-termin-od-19-12-2025-roku-od-godz-10-00-do-22-12-2025-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D14%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "19.12.2025",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=14"
@@ -5257,7 +5287,7 @@
       "city": "Opole",
       "title": "Obwieszczenie Urzędu Skarbowego w Nysie o drugiej licytacji-MAZDA, termin 26 marca 2026 roku godz. 12.00",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-urzedu-skarbowego-w-nysie-o-drugiej-licytacji-mazda-termin-26-marca-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "II licytacja",
       "date": "26.03.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5307,7 +5337,7 @@
       "city": "Opole",
       "title": "Zawiadomienie Pierwszego Urzędu Skarbowy w Opolu o sprzedaży z wolnej ręki ruchomości (samochód osobowy Opel Signum), termin 20 marca 2026r. godz. od 9.00 do 9.30",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/zawiadomienie-pierwszego-urzedu-skarbowy-w-opolu-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-osobowy-opel-signum-termin-20-marca-2026r-godz-od-9-00-do-9-30?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5317,7 +5347,7 @@
       "city": "Opole",
       "title": "Obwieszczenie Urzędu Skarbowego w Kędzierzynie-Koźlu o pierwszej licytacji-Nissan Qashqai, termin 23 marca 2026 roku, godz. 11.30",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-urzedu-skarbowego-w-kedzierzynie-kozlu-o-pierwszej-licytacji-nissan-qashqai-termin-23-marca-2026-roku-godz-11-30?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "I licytacja",
       "date": "23.03.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5327,7 +5357,7 @@
       "city": "Opole",
       "title": "Zawiadomienie Urzędu Skarbowego w Nysie o sprzedaży z wolnej ręki-Volkswagen Passat 1,9 TDI, termin od 30 marca 2026 roku, od godz. 11.00 do 31 marca 2026 r. do godz. 14.00",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/zawiadomienie-urzedu-skarbowego-w-nysie-o-sprzedazy-z-wolnej-reki-volkswagen-passat-1-9-tdi-termin-od-30-marca-2026-roku-od-godz-11-00-do-31-marca-2026-r-do-godz-14-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5583,12 +5613,42 @@
       "source_url": "https://www.podkarpackie.kas.gov.pl/izba-administracji-skarbowej-w-rzeszowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.podkarpackie.kas.gov.pl/izba-administracji-skarbowej-w-rzeszowie/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
       "region": "Podlaskie",
       "city": "Białystok",
       "title": "Obwieszczenia o licytacjach",
       "url": "https://www.podlaskie.kas.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach",
       "category": "Inne ruchomości",
       "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.podlaskie.kas.gov.pl/izba-administracji-skarbowej-w-bialymstoku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Bez „prawka” za kółkiem. Mieszkaniec gminy Michałowo wpadł podczas kontroli podlaskiej KAS",
+      "url": "https://www.podlaskie.kas.gov.pl/web/ias-bialystok/bez-prawka-za-kolkiem-mieszkaniec-gminy-michalowo-wpadl-podczas-kontroli-podlaskiej-kas",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.podlaskie.kas.gov.pl/izba-administracji-skarbowej-w-bialymstoku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.podlaskie.kas.gov.pl/izba-administracji-skarbowej-w-bialymstoku/ogloszenia/obwieszczenia-o-licytacjach"
     },
@@ -5637,7 +5697,7 @@
       "city": "Gdańsk",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki (samochód osobowy marki Ford Fiesta, rok prod. 2006). Termin od 23 marca 2026 roku do 25 marca 2026 roku. Urząd skarbowy w Kartuzach",
       "url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Ozp4/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-osobowy-marki-ford-fiesta-rok-prod-2006-termin-od-23-marca-2026-roku-do-25-marca-2026-roku-urzad-skarbowy-w-kartuzach?redirect=https%3A%2F%2Fwww.pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-gdansku%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Ozp4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5647,7 +5707,7 @@
       "city": "Gdańsk",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki (VW Passat Kombi, rok prod. 2001). Termin od 23 marca 2026 roku do 30 kwietnia 2026 roku. Urząd Skarbowy w Słupsku",
       "url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Ozp4/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-vw-passat-kombi-rok-prod-2001-termin-od-23-marca-2026-roku-do-30-kwietnia-2026-roku-urzad-skarbowy-w-slupsku?redirect=https%3A%2F%2Fwww.pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-gdansku%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Ozp4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "23.03.2026",
       "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
@@ -5807,7 +5867,7 @@
       "city": "Gdańsk",
       "title": "Obwieszczenie o drugiej licytacji ruchomości (MAZDA 3). Termin 23 marca 2026 roku. Urząd Skarbowy w Człuchowie",
       "url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Ozp4/content/obwieszczenie-o-drugiej-licytacji-ruchomosci-mazda-3-termin-23-marca-2026-roku-urzad-skarbowy-w-czluchowie?redirect=https%3A%2F%2Fwww.pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-gdansku%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Ozp4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Ozp4_advancedSearch%3Dfalse%26_101_INSTANCE_Ozp4_keywords%3D%26_101_INSTANCE_Ozp4_delta%3D20%26_101_INSTANCE_Ozp4_cur%3D2%26_101_INSTANCE_Ozp4_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "II licytacja",
       "date": "23.03.2026",
       "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Ozp4&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Ozp4_delta=20&_101_INSTANCE_Ozp4_keywords=&_101_INSTANCE_Ozp4_advancedSearch=false&_101_INSTANCE_Ozp4_andOperator=true&cur=2"
@@ -5867,7 +5927,7 @@
       "city": "Gdańsk",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości (motorower Junak 806, rok prod. 2014), Termin od 20 marca 2026 do 3 kwietnia 2026, Urząd Skarbowy w Starogardzie Gdańskim",
       "url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Ozp4/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-motorower-junak-806-rok-prod-2014-termin-od-20-marca-2026-do-3-kwietnia-2026-urzad-skarbowy-w-starogardzie-gdanskim?redirect=https%3A%2F%2Fwww.pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-gdansku%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Ozp4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Ozp4_advancedSearch%3Dfalse%26_101_INSTANCE_Ozp4_keywords%3D%26_101_INSTANCE_Ozp4_delta%3D20%26_101_INSTANCE_Ozp4_cur%3D2%26_101_INSTANCE_Ozp4_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "20.03.2026",
       "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Ozp4&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Ozp4_delta=20&_101_INSTANCE_Ozp4_keywords=&_101_INSTANCE_Ozp4_advancedSearch=false&_101_INSTANCE_Ozp4_andOperator=true&cur=2"
@@ -6067,7 +6127,7 @@
       "city": "Gdańsk",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki (samochód osobowy FORD EXPEDITION, rok prod. 2005). Termin od 30 marca 2026 roku do 10 kwietnia 2026 roku. Pierwszy Urząd Skarbowy w Gdańsku",
       "url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Ozp4/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-osobowy-ford-expedition-rok-prod-2005-termin-od-30-marca-2026-roku-do-10-kwietnia-2026-roku-pierwszy-urzad-skarbowy-w-gdansku?redirect=https%3A%2F%2Fwww.pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-gdansku%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Ozp4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Ozp4_advancedSearch%3Dfalse%26_101_INSTANCE_Ozp4_keywords%3D%26_101_INSTANCE_Ozp4_delta%3D20%26_101_INSTANCE_Ozp4_cur%3D3%26_101_INSTANCE_Ozp4_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "30.03.2026",
       "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Ozp4&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Ozp4_delta=20&_101_INSTANCE_Ozp4_keywords=&_101_INSTANCE_Ozp4_advancedSearch=false&_101_INSTANCE_Ozp4_andOperator=true&cur=3"
@@ -6733,12 +6793,32 @@
       "source_url": "https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
       "region": "Świętokrzyskie",
       "city": "Kielce",
       "title": "Obwieszczenia o licytacjach",
       "url": "https://www.swietokrzyskie.kas.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach",
       "category": "Inne ruchomości",
       "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.swietokrzyskie.kas.gov.pl/izba-administracji-skarbowej-w-kielcach/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.swietokrzyskie.kas.gov.pl/izba-administracji-skarbowej-w-kielcach/ogloszenia/obwieszczenia-o-licytacjach"
     },
@@ -6777,7 +6857,7 @@
       "city": "Olsztyn",
       "title": "I licytacja ruchomości (urządzenie rejestrujące/monitoring, Pendrive PLAY Online Huawei)- 30 marca 2026 r.",
       "url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4jLy/content/i-licytacja-ruchomosci-urzadzenie-rejestrujace-monitoring-pendrive-play-online-huawei-30-marca-2026-r?redirect=https%3A%2F%2Fwww.warminsko-mazurskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-olsztynie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4jLy%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Maszyny/Sprzęt",
+      "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "30.03.2026",
       "source_url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -7027,7 +7107,7 @@
       "city": "Olsztyn",
       "title": "I licytacja ruchomości (Suzuki Vitara)- 20 marca 2026 r.",
       "url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4jLy/content/i-licytacja-ruchomosci-suzuki-vitara-20-marca-2026-r?redirect=https%3A%2F%2Fwww.warminsko-mazurskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-olsztynie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4jLy%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4jLy_advancedSearch%3Dfalse%26_101_INSTANCE_4jLy_keywords%3D%26_101_INSTANCE_4jLy_delta%3D20%26_101_INSTANCE_4jLy_cur%3D2%26_101_INSTANCE_4jLy_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
+      "category": "Pojazdy",
       "type": "Licytacja",
       "date": "20.03.2026",
       "source_url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4jLy&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4jLy_delta=20&_101_INSTANCE_4jLy_keywords=&_101_INSTANCE_4jLy_advancedSearch=false&_101_INSTANCE_4jLy_andOperator=true&cur=2"
@@ -7537,7 +7617,7 @@
       "city": "Poznań",
       "title": "SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM PROWADZĄCYM SKUP PRZEDMIOTÓW UŻYWANYCH LUB SUROWCÓW WTÓRNYCH: PILARKA PILEX, PILARKA MAKITA, NACZEPA LANGENDORF, NACZEPA FAYMONVILLE - od 23 marca do 30 kwietnia 2026 r....",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-ruchomosci-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych-pilarka-pilex-pilarka-makita-naczepa-langendorf-naczepa-faymonville-od-23-marca-do-30-kwietnia-2026-r-w-godzinach-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "30.04.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
@@ -7597,7 +7677,7 @@
       "city": "Szczecin",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki samochód osobowy Opel Corsa C, rok prod. 2003, 26 marca 2026 r. godz. 10:00, Pierwszy Urząd Skarbowy w Koszalinie",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-opel-corsa-c-rok-prod-2003-26-marca-2026-r-godz-10-00-pierwszy-urzad-skarbowy-w-koszalinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "26.03.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -7617,7 +7697,7 @@
       "city": "Szczecin",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki samochód osobowy marki Opel  Vectra kombi, rok produkcji  2003, 27 marca 2026 r. od godz. 8.30 do godz. 10.30, Urząd Skarbowy w Gryficach",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-marki-opel-vectra-kombi-rok-produkcji-2003-27-marca-2026-r-od-godz-8-30-do-godz-10-30-urzad-skarbowy-w-gryficach?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.03.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
@@ -7797,7 +7877,7 @@
       "city": "Szczecin",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości wózek jezdniowy podnośnikowy z mechanicznym napędem podnoszenia JLG3614RS wraz z osprzętem 27 marca 2026 roku, godz. 10.30 Stargard, ul. Partyzantów 5,...",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-wozek-jezdniowy-podnosnikowy-z-mechanicznym-napedem-podnoszenia-jlg3614rs-wraz-z-osprzetem-27-marca-2026-roku-godz-10-30-stargard-ul-partyzantow-5-pok-104?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_mKP7_advancedSearch%3Dfalse%26_101_INSTANCE_mKP7_keywords%3D%26_101_INSTANCE_mKP7_delta%3D20%26_101_INSTANCE_mKP7_cur%3D2%26_101_INSTANCE_mKP7_andOperator%3Dtrue",
-      "category": "Maszyny/Sprzęt",
+      "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "27.03.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_mKP7&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_mKP7_delta=20&_101_INSTANCE_mKP7_keywords=&_101_INSTANCE_mKP7_advancedSearch=false&_101_INSTANCE_mKP7_andOperator=true&cur=2"
@@ -7847,7 +7927,7 @@
       "city": "Szczecin",
       "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki, samochód osobowy marki Jeep Grand Cherokee Liberty, rok prod. 2005, termin od 24 marca 2026 roku od godz. 11.30 do 26 marca 2026 roku do godz.12.00...",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-marki-jeep-grand-cherokee-liberty-rok-prod-2005-termin-od-24-marca-2026-roku-od-godz-11-30-do-26-marca-2026-roku-do-godz-12-00-miejsce-urzad-skarbowy-w-swinoujsciu-ul-pulaskiego-7-72-600-swinoujscie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_mKP7_advancedSearch%3Dfalse%26_101_INSTANCE_mKP7_keywords%3D%26_101_INSTANCE_mKP7_delta%3D20%26_101_INSTANCE_mKP7_cur%3D2%26_101_INSTANCE_mKP7_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "24.03.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_mKP7&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_mKP7_delta=20&_101_INSTANCE_mKP7_keywords=&_101_INSTANCE_mKP7_advancedSearch=false&_101_INSTANCE_mKP7_andOperator=true&cur=2"
@@ -7997,7 +8077,7 @@
       "city": "Szczecin",
       "title": "Obwieszczenie o licytacji ruchomości, przyczepa lekka RYDWAN A750, rok produkcji 2022, przyczepa lekka RYDWAN A750, rok produkcji 2018, przyczepa ciężarowa /najazd/ RYDWAN B2600, rok produkcji 2018, ...",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-licytacji-ruchomosci-przyczepa-lekka-rydwan-a750-rok-produkcji-2022-przyczepa-lekka-rydwan-a750-rok-produkcji-2018-przyczepa-ciezarowa-najazd-rydwan-b2600-rok-produkcji-2018-termin-24-marca-2026-roku-godz-12-00-miejsce-smardzko-5-78-300-swidwin-%E2%80%93-stacja-paliw-cpn?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_mKP7_advancedSearch%3Dfalse%26_101_INSTANCE_mKP7_keywords%3D%26_101_INSTANCE_mKP7_delta%3D20%26_101_INSTANCE_mKP7_cur%3D3%26_101_INSTANCE_mKP7_andOperator%3Dtrue",
-      "category": "Pojazdy",
+      "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_mKP7&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_mKP7_delta=20&_101_INSTANCE_mKP7_keywords=&_101_INSTANCE_mKP7_advancedSearch=false&_101_INSTANCE_mKP7_andOperator=true&cur=3"
@@ -8007,7 +8087,7 @@
       "city": "Szczecin",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki, samochód osobowy marki Audi A6, rok produkcji 2003, termin: Od 13 marca 2026 roku do 27 marca 2026 roku, w godz. od 9.00 do 14.00, miejsce: Urząd Skarbowy w...",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-samochod-osobowy-marki-audi-a6-rok-produkcji-2003-termin-od-13-marca-2026-roku-do-27-marca-2026-roku-w-godz-od-9-00-do-14-00-miejsce-urzad-skarbowy-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pokoj-numer-104?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_mKP7_advancedSearch%3Dfalse%26_101_INSTANCE_mKP7_keywords%3D%26_101_INSTANCE_mKP7_delta%3D20%26_101_INSTANCE_mKP7_cur%3D3%26_101_INSTANCE_mKP7_andOperator%3Dtrue",
-      "category": "Nieruchomości",
+      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "13.03.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_mKP7&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_mKP7_delta=20&_101_INSTANCE_mKP7_keywords=&_101_INSTANCE_mKP7_advancedSearch=false&_101_INSTANCE_mKP7_andOperator=true&cur=3"
@@ -8164,27 +8244,26 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 1,
+    "Dolnośląskie": 3,
     "Kujawsko-Pomorskie": 54,
     "Lubelskie": 100,
     "Lubuskie": 40,
-    "Łódzkie": 2,
+    "Łódzkie": 3,
     "Małopolskie": 74,
     "Mazowieckie": 252,
     "Opolskie": 34,
-    "Podkarpackie": 1,
-    "Podlaskie": 1,
+    "Podkarpackie": 2,
+    "Podlaskie": 3,
     "Pomorskie": 111,
-    "Śląskie": 3,
-    "Świętokrzyskie": 1,
+    "Śląskie": 4,
+    "Świętokrzyskie": 2,
     "Warmińsko-Mazurskie": 71,
     "Wielkopolskie": 12,
     "Zachodniopomorskie": 59
   },
   "by_category": {
-    "Inne ruchomości": 119,
-    "Pojazdy": 271,
-    "Nieruchomości": 422,
-    "Maszyny/Sprzęt": 4
+    "Inne ruchomości": 154,
+    "Nieruchomości": 351,
+    "Pojazdy": 319
   }
 }
