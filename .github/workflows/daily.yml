@@ -33,10 +33,11 @@ jobs:
       - name: 🔍 Uruchom scrapera i wygeneruj raport
         run: cd kas-licytacje-agent && python main.py
 
-      - name: 📤 Wyślij raport na GitHub Pages
+    - name: 📤 Wyślij raport na GitHub Pages
         run: |
           git config --global user.name  "KAS Licytacje Bot"
           git config --global user.email "bot@kas-licytacje"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git add docs/
           git diff --cached --quiet || git commit -m "📊 Raport licytacji KAS — $(date +'%d.%m.%Y %H:%M')"
           git push
