@@ -28,10 +28,10 @@ jobs:
           python-version: '3.11'
 
       - name: 📦 Zainstaluj zależności
-        run: pip install -r requirements.txt
+        run: pip install -r kas-licytacje-agent/requirements.txt
 
       - name: 🔍 Uruchom scrapera i wygeneruj raport
-        run: python main.py
+        run: cd kas-licytacje-agent && python main.py
 
       - name: 📤 Wyślij raport na GitHub Pages
         run: |
