@@ -228,14 +228,14 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
             ]
             if any(title.startswith(sk) for sk in skip_keywords):
                 continue
-            if not any(kw in title.lower() for kw in [
-    "licytacj", "sprzedaż", "sprzedaz", "ruchom", "nieruchom",
-    "obwieszczen", "zawiadomien", "przetarg", "samochód", "samochod",
-    "pojazd", "nieruchom", "mieszkan", "działk", "grunt", "lokal",
-    "maszyn", "sprzęt", "naczepa", "przyczepa", "motocykl", "ciągnik",
-    "traktor", "autobus", "ciężar", "osobowy", "dom ", "budynek"
-]):
-    continue
+             if not any(kw in title.lower() for kw in [
+                "licytacj", "sprzedaż", "sprzedaz", "ruchom", "nieruchom",
+                "obwieszczen", "zawiadomien", "przetarg", "samochód", "samochod",
+                "pojazd", "mieszkan", "działk", "grunt", "lokal",
+                "maszyn", "sprzęt", "naczepa", "przyczepa", "motocykl", "ciągnik",
+                "traktor", "autobus", "ciężar", "osobowy", "dom ", "budynek"
+            ]):
+                continue
             if title in seen_titles:
                 continue
 
