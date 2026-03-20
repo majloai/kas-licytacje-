@@ -35,6 +35,6 @@ jobs:
           git config --global user.name "KAS Bot"
           git config --global user.email "bot@kas"
           git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git add docs/
+          git add kas-licytacje-agent/docs/
           git diff --cached --quiet || git commit -m "Raport KAS $(date +'%d.%m.%Y')"
           git push
