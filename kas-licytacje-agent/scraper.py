@@ -190,22 +190,20 @@ def extract_date(title: str) -> str:
 
 
 def scrape_ias(session: requests.Session, office: dict) -> list:
-    """Pobiera i parsuje wszystkie strony jednej IAS."""
+    """Pobiera i parsuje wszystkie strony jednej IAS z obsługą paginacji."""
     all_listings = []
-    page = 0
-    delta = 20  # standardowy rozmiar strony w Liferay
+    seen_titles = set()
+    current_url = office["url"]
+    page = 1
 
-    while True:
-        # Liferay używa parametru 'start' do paginacji
-        params = f"?delta={delta}&start={page * delta}" if page > 0 else ""
-        url = office["url"] + params
-
+    while current_url:
+        print(f"    📄 Strona {page}: {current_url}")
         try:
-            resp = session.get(url, headers=HEADERS, timeout=25)
+            resp = session.get(current_url, headers=HEADERS, timeout=25)
             resp.raise_for_status()
             resp.encoding = resp.apparent_encoding
         except requests.RequestException as e:
-            print(f"  ❌ Błąd {office['city']} strona {page+1}: {e}")
+            print(f"  ❌ Błąd {office['city']} strona {page}: {e}")
             break
 
         soup = BeautifulSoup(resp.text, "html.parser")
@@ -216,7 +214,8 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
             or soup.body
         )
 
-        seen_on_page = 0
+        # Zbierz ogłoszenia z bieżącej strony
+        found_on_page = 0
         for a_tag in content_area.find_all("a", href=True):
             href = a_tag.get("href", "")
             title = a_tag.get_text(strip=True)
@@ -234,10 +233,10 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
                 "obwieszczen", "zawiadomien", "przetarg"
             ]):
                 continue
-
-            # Sprawdź duplikaty globalnie
-            if title in {item["title"] for item in all_listings}:
+            if title in seen_titles:
                 continue
+
+            seen_titles.add(title)
 
             if href.startswith("http"):
                 full_url = href
@@ -247,25 +246,43 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
                 full_url = office["base_url"] + "/" + href
 
             all_listings.append({
-                "region": office["region"],
-                "city":   office["city"],
-                "title":  title,
-                "url":    full_url,
-                "category": detect_category(title),
-                "type":     detect_type(title),
-                "date":     extract_date(title),
-                "source_url": office["url"],
+                "region":     office["region"],
+                "city":       office["city"],
+                "title":      title,
+                "url":        full_url,
+                "category":   detect_category(title),
+                "type":       detect_type(title),
+                "date":       extract_date(title),
+                "source_url": current_url,
             })
-            seen_on_page += 1
+            found_on_page += 1
 
-        # Jeśli strona zwróciła mniej niż delta wyników — to ostatnia strona
-        if seen_on_page < delta or page > 10:  # max 10 stron = 200 ogłoszeń/IAS
-            break
+        # Szukaj linku do następnej strony
+        next_url = None
+        for a_tag in soup.find_all("a", href=True):
+            text = a_tag.get_text(strip=True).lower()
+            href = a_tag.get("href", "")
+            # Liferay używa "»", "Następna", "Next" lub numerów stron
+            if text in ["»", "następna", "next", str(page + 1)]:
+                if href.startswith("http"):
+                    next_url = href
+                elif href.startswith("/"):
+                    next_url = office["base_url"] + href
+                else:
+                    next_url = office["base_url"] + "/" + href
+                break
 
+        # Zabezpieczenie — max 15 stron na IAS
+        if page >= 15:
+            print(f"  ⚠️ Osiągnięto limit 15 stron dla {office['city']}")
+            next_url = None
+
+        current_url = next_url
         page += 1
-        time.sleep(0.5)
+        if current_url:
+            time.sleep(0.5)
 
-    print(f"  ✅ {office['city']} ({office['region']}): {len(all_listings)} ogłoszeń")
+    print(f"  ✅ {office['city']} ({office['region']}): {len(all_listings)} ogłoszeń ({page-1} stron)")
     return all_listings
     
     try:
