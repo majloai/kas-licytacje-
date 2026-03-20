@@ -224,7 +224,7 @@ def scrape_ias(session: requests.Session, office: dict) -> list:
         if title in seen_titles:
             continue
         # Pomijamy menu / stopkę
-        skip_keywords = ["Przejdź do", "Izba Admin", "Urząd Skarbowy", "Pierwsz", "Drugi ", "Trzeci "]
+        skip_keywords = ["Przejdź do", "Izba Admin", "Urząd Skarbowy", "Pierwsz", "Drugi ", "Trzeci ", "Czytaj więcej", "Czytaj wi"]
         if any(title.startswith(sk) for sk in skip_keywords):
             continue
         # Musi zawierać słowa kluczowe typowe dla licytacji
