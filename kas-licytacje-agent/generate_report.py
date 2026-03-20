@@ -1,12 +1,12 @@
 """
 Generator raportu HTML dla licytacji KAS.
-Rozbudowane filtry, podkategorie, inteligentna wyszukiwarka.
+Rozbudowane filtry, podkategorie, województwa, inteligentna wyszukiwarka.
 """
-
+ 
 import json
 import sys
 from datetime import datetime
-
+ 
 SUBCATEGORY_MAP = {
     "Mieszkanie":         ["mieszkan", "lokal mieszk", "apartament"],
     "Dom":                ["dom jednorodzinn", "dom mieszk", "budynek mieszk"],
@@ -34,16 +34,23 @@ SUBCATEGORY_MAP = {
     "Komórka lokatorska": ["komórka lokatorska", "piwnica", "schowek"],
     "Inne ruchomości":    [],
 }
-
+ 
 SUBCATEGORY_ORDER = {
     "Nieruchomości":   ["Mieszkanie","Dom","Działka","Lokal użytkowy","Kamienica","Garaż","Inna nieruchomość"],
     "Pojazdy":         ["Samochód osobowy","Samochód ciężarowy","Bus / Van","Motocykl","Traktor / Ciągnik","Inne pojazdy"],
     "Inne ruchomości": ["Przyczepa","Naczepa","Maszyna / Sprzęt","Biżuteria","Elektronika","Komórka lokatorska","Inne ruchomości"],
 }
-
+ 
 SALE_TYPES = ["I licytacja","II licytacja","Wolna ręka","Przetarg","Odwołanie","Licytacja","Ogłoszenie"]
-
-
+ 
+REGIONS = [
+    "Dolnośląskie","Kujawsko-Pomorskie","Lubelskie","Lubuskie","Łódzkie",
+    "Małopolskie","Mazowieckie","Opolskie","Podkarpackie","Podlaskie",
+    "Pomorskie","Śląskie","Świętokrzyskie","Warmińsko-Mazurskie",
+    "Wielkopolskie","Zachodniopomorskie",
+]
+ 
+ 
 def detect_category(title):
     tl = title.lower()
     if any(k.lower() in tl for k in ["nieruchom","mieszkan","lokal","działk","grunt","budynek","kamienica","garaż"]):
@@ -53,8 +60,8 @@ def detect_category(title):
         "Nissan","Volvo","Suzuki","Dacia","Sprinter","Transit","Vivaro","Boxer","Ducato","Kangoo","Berlingo"]):
         return "Pojazdy"
     return "Inne ruchomości"
-
-
+ 
+ 
 def detect_subcategory(title, category):
     tl = title.lower()
     for sub in SUBCATEGORY_ORDER.get(category, []):
@@ -63,8 +70,8 @@ def detect_subcategory(title, category):
     if category == "Nieruchomości": return "Inna nieruchomość"
     if category == "Pojazdy":       return "Inne pojazdy"
     return "Inne ruchomości"
-
-
+ 
+ 
 def detect_type(title):
     tl = title.lower()
     if "pierwsz" in tl and "licytacj" in tl: return "I licytacja"
@@ -74,21 +81,21 @@ def detect_type(title):
     if "odwołan" in tl:      return "Odwołanie"
     if "licytacj" in tl:     return "Licytacja"
     return "Ogłoszenie"
-
-
+ 
+ 
 def generate_html(data):
     scraped_at = datetime.fromisoformat(data["scraped_at"]).strftime("%d.%m.%Y, %H:%M")
     listings = data["listings"]
-
+ 
     for item in listings:
         if "category" not in item:
             item["category"] = detect_category(item["title"])
         if "type" not in item:
             item["type"] = detect_type(item["title"])
         item["subcategory"] = detect_subcategory(item["title"], item["category"])
-
+ 
     total = len(listings)
-
+ 
     cat_colors = {
         "Nieruchomości":   ("#1e40af","#dbeafe"),
         "Pojazdy":         ("#065f46","#d1fae5"),
@@ -103,21 +110,19 @@ def generate_html(data):
         "Licytacja":    ("#15803d","#dcfce7"),
         "Ogłoszenie":   ("#374151","#f9fafb"),
     }
-
+ 
     def badge(text, fg, bg):
         return (f'<span style="background:{bg};color:{fg};padding:2px 8px;'
                 f'border-radius:999px;font-size:0.72rem;font-weight:600;white-space:nowrap">{text}</span>')
-
+ 
     by_region = {}
     by_type   = {}
-    by_subcat = {}
     by_cat    = {}
     for item in listings:
         by_region[item["region"]] = by_region.get(item["region"], 0) + 1
         by_type[item["type"]]     = by_type.get(item["type"], 0) + 1
-        by_subcat[item["subcategory"]] = by_subcat.get(item["subcategory"], 0) + 1
         by_cat[item["category"]]  = by_cat.get(item["category"], 0) + 1
-
+ 
     rows_html = ""
     for item in listings:
         cat = item["category"]; sub = item["subcategory"]; typ = item["type"]
@@ -144,7 +149,7 @@ def generate_html(data):
           <td style="padding:10px 12px;border-bottom:1px solid #f0f0f0">{badge(typ,fg_t,bg_t)}</td>
           <td style="padding:10px 12px;border-bottom:1px solid #f0f0f0">{date_cell}</td>
         </tr>"""
-
+ 
     region_stats = ""
     for region, count in sorted(by_region.items(), key=lambda x: -x[1]):
         pct = int(count/total*100) if total else 0
@@ -155,7 +160,7 @@ def generate_html(data):
               <div style="width:{pct}%;height:100%;background:#2563eb;border-radius:3px"></div></div>
             <span style="font-size:0.78rem;font-weight:700;color:#1e40af;min-width:18px;text-align:right">{count}</span>
           </div></div>"""
-
+ 
     type_stats = ""
     for typ in SALE_TYPES:
         count = by_type.get(typ, 0)
@@ -163,11 +168,15 @@ def generate_html(data):
         fg, bg = type_colors.get(typ, ("#374151","#f9fafb"))
         type_stats += f"""<div style="display:flex;justify-content:space-between;align-items:center;padding:5px 0;border-bottom:1px solid #f3f4f6">
           <span>{badge(typ,fg,bg)}</span><span style="font-size:0.82rem;font-weight:700;color:{fg}">{count}</span></div>"""
-
+ 
+    region_chips = "\n".join(
+        f'<div class="chip teal" data-region="{r}">{r}</div>' for r in REGIONS
+    )
+ 
     nierucho = by_cat.get("Nieruchomości", 0)
     pojazdy  = by_cat.get("Pojazdy", 0)
     inne     = by_cat.get("Inne ruchomości", 0)
-
+ 
     html = f"""<!DOCTYPE html>
 <html lang="pl">
 <head>
@@ -177,7 +186,7 @@ def generate_html(data):
 *{{box-sizing:border-box;margin:0;padding:0}}
 body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;background:#f8fafc;color:#1e293b;min-height:100vh}}
 #modal-overlay{{position:fixed;inset:0;background:rgba(0,0,0,.6);display:flex;align-items:center;justify-content:center;z-index:1000;padding:16px}}
-#modal{{background:white;border-radius:20px;padding:32px;max-width:700px;width:100%;box-shadow:0 20px 60px rgba(0,0,0,.3);max-height:90vh;overflow-y:auto}}
+#modal{{background:white;border-radius:20px;padding:32px;max-width:720px;width:100%;box-shadow:0 20px 60px rgba(0,0,0,.3);max-height:90vh;overflow-y:auto}}
 #modal h2{{font-size:1.4rem;font-weight:800;color:#1e3a8a;margin-bottom:6px}}
 #modal p{{font-size:.85rem;color:#6b7280;margin-bottom:22px}}
 .modal-section{{margin-bottom:20px}}
@@ -190,6 +199,7 @@ body{{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
 .chip.purple.active{{border-color:#7c3aed;background:#7c3aed}}
 .chip.amber.active{{border-color:#d97706;background:#d97706}}
 .chip.red.active{{border-color:#dc2626;background:#dc2626}}
+.chip.teal.active{{border-color:#0f766e;background:#0f766e}}
 #modal-apply{{width:100%;padding:13px;background:#1e40af;color:white;border:none;border-radius:12px;font-size:1rem;font-weight:700;cursor:pointer;margin-top:8px;transition:background .15s}}
 #modal-apply:hover{{background:#1d4ed8}}
 #modal-reset{{display:block;text-align:center;margin-top:10px;font-size:.82rem;color:#9ca3af;cursor:pointer;background:none;border:none;width:100%}}
@@ -225,11 +235,12 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
 .footer{{text-align:center;padding:16px;font-size:.75rem;color:#9ca3af}}
 @media(max-width:768px){{.main{{flex-direction:column;padding:0 16px 24px}}.sidebar{{width:100%}}.stats-row{{padding:14px 16px}}.header{{padding:18px 16px}}}}
 </style></head><body>
-
+ 
 <div id="modal-overlay">
   <div id="modal">
     <h2>🏛️ Licytacje KAS</h2>
     <p>Wybierz co Cię interesuje — możesz zaznaczyć wiele opcji. Możesz też pominąć i zobaczyć wszystkie.</p>
+ 
     <div class="modal-section">
       <h3>🏠 Nieruchomości</h3>
       <div class="chip-group">
@@ -242,6 +253,7 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
         <div class="chip" data-sub="Inna nieruchomość">Inne</div>
       </div>
     </div>
+ 
     <div class="modal-section">
       <h3>🚗 Pojazdy</h3>
       <div class="chip-group">
@@ -253,6 +265,7 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
         <div class="chip green" data-sub="Inne pojazdy">Inne pojazdy</div>
       </div>
     </div>
+ 
     <div class="modal-section">
       <h3>📦 Inne ruchomości</h3>
       <div class="chip-group">
@@ -265,6 +278,7 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
         <div class="chip purple" data-sub="Inne ruchomości">Inne</div>
       </div>
     </div>
+ 
     <div class="modal-section">
       <h3>⚖️ Typ sprzedaży</h3>
       <div class="chip-group">
@@ -275,11 +289,19 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
         <div class="chip red" data-type="Odwołanie">Odwołanie</div>
       </div>
     </div>
+ 
+    <div class="modal-section">
+      <h3>🗺️ Województwo</h3>
+      <div class="chip-group">
+        {region_chips}
+      </div>
+    </div>
+ 
     <button id="modal-apply">Pokaż ogłoszenia →</button>
     <button id="modal-reset">Pokaż wszystkie bez filtrów</button>
   </div>
 </div>
-
+ 
 <div id="app" style="display:none">
   <div class="header">
     <h1>🏛️ Licytacje KAS — Krajowa Administracja Skarbowa</h1>
@@ -334,52 +356,57 @@ tbody tr:hover{{background:#f0f7ff;cursor:pointer}}
   </div>
   <div class="footer">Dane z BIP Izb Administracji Skarbowej &nbsp;·&nbsp; Aktualizacja codziennie o 8:00 &nbsp;·&nbsp; <a href="https://www.kas.gov.pl" target="_blank" style="color:#9ca3af">kas.gov.pl</a></div>
 </div>
-
+ 
 <script>
-let activeSubs=new Set(),activeTypes=new Set();
-
+let activeSubs=new Set(),activeTypes=new Set(),activeRegions=new Set();
+ 
 document.querySelectorAll(".chip[data-sub]").forEach(c=>c.addEventListener("click",()=>c.classList.toggle("active")));
 document.querySelectorAll(".chip[data-type]").forEach(c=>c.addEventListener("click",()=>c.classList.toggle("active")));
-
+document.querySelectorAll(".chip[data-region]").forEach(c=>c.addEventListener("click",()=>c.classList.toggle("active")));
+ 
 document.getElementById("modal-apply").addEventListener("click",()=>{{
   activeSubs=new Set([...document.querySelectorAll(".chip[data-sub].active")].map(c=>c.dataset.sub));
   activeTypes=new Set([...document.querySelectorAll(".chip[data-type].active")].map(c=>c.dataset.type));
+  activeRegions=new Set([...document.querySelectorAll(".chip[data-region].active")].map(c=>c.dataset.region));
   document.getElementById("modal-overlay").style.display="none";
   document.getElementById("app").style.display="block";
   renderChips(); applyFilters();
 }});
-
+ 
 document.getElementById("modal-reset").addEventListener("click",()=>{{
-  activeSubs.clear(); activeTypes.clear();
+  activeSubs.clear(); activeTypes.clear(); activeRegions.clear();
   document.getElementById("modal-overlay").style.display="none";
   document.getElementById("app").style.display="block";
   renderChips(); applyFilters();
 }});
-
+ 
 document.getElementById("btn-filters").addEventListener("click",()=>{{
   document.getElementById("modal-overlay").style.display="flex";
   document.getElementById("app").style.display="none";
   document.querySelectorAll(".chip[data-sub]").forEach(c=>c.classList.toggle("active",activeSubs.has(c.dataset.sub)));
   document.querySelectorAll(".chip[data-type]").forEach(c=>c.classList.toggle("active",activeTypes.has(c.dataset.type)));
+  document.querySelectorAll(".chip[data-region]").forEach(c=>c.classList.toggle("active",activeRegions.has(c.dataset.region)));
 }});
-
+ 
 function renderChips(){{
   const w=document.getElementById("active-filters"); w.innerHTML="";
   activeSubs.forEach(s=>{{const d=document.createElement("div");d.className="active-chip";d.innerHTML=`${{s}} <span onclick="removeSub('${{s}}')" title="Usuń">✕</span>`;w.appendChild(d);}});
   activeTypes.forEach(t=>{{const d=document.createElement("div");d.className="active-chip";d.innerHTML=`${{t}} <span onclick="removeType('${{t}}')" title="Usuń">✕</span>`;w.appendChild(d);}});
+  activeRegions.forEach(r=>{{const d=document.createElement("div");d.className="active-chip";d.innerHTML=`${{r}} <span onclick="removeRegion('${{r}}')" title="Usuń">✕</span>`;w.appendChild(d);}});
 }}
-
+ 
 function removeSub(s){{activeSubs.delete(s);renderChips();applyFilters();}}
 function removeType(t){{activeTypes.delete(t);renderChips();applyFilters();}}
-function resetAll(){{activeSubs.clear();activeTypes.clear();document.getElementById("search").value="";renderChips();applyFilters();}}
-
+function removeRegion(r){{activeRegions.delete(r);renderChips();applyFilters();}}
+function resetAll(){{activeSubs.clear();activeTypes.clear();activeRegions.clear();document.getElementById("search").value="";renderChips();applyFilters();}}
+ 
 function score(row,kws){{
   if(!kws.length)return 1;
   const t=row.dataset.search; let s=0;
   kws.forEach(k=>{{if(t.includes(k))s++;if(t.substring(0,120).includes(k))s++;}});
   return s;
 }}
-
+ 
 function applyFilters(){{
   const raw=document.getElementById("search").value.toLowerCase().trim();
   const kws=raw?raw.split(/\s+/).filter(k=>k.length>1):[];
@@ -388,9 +415,10 @@ function applyFilters(){{
   rows.forEach(row=>{{
     const mS=activeSubs.size===0||activeSubs.has(row.dataset.subcategory);
     const mT=activeTypes.size===0||activeTypes.has(row.dataset.type);
+    const mR=activeRegions.size===0||activeRegions.has(row.dataset.region);
     const sc=score(row,kws);
     const mQ=kws.length===0||sc>0;
-    const show=mS&&mT&&mQ;
+    const show=mS&&mT&&mR&&mQ;
     row.style.display=show?"":"none";
     if(show)scored.push({{row,sc}});
   }});
@@ -398,12 +426,12 @@ function applyFilters(){{
   document.getElementById("count").textContent=scored.length+" ogłoszeń";
   document.getElementById("empty-row").style.display=scored.length===0?"":"none";
 }}
-
+ 
 document.getElementById("search").addEventListener("input",applyFilters);
 </script></body></html>"""
     return html
-
-
+ 
+ 
 if __name__ == "__main__":
     input_file  = sys.argv[1] if len(sys.argv) > 1 else "data.json"
     output_file = sys.argv[2] if len(sys.argv) > 2 else "docs/index.html"
