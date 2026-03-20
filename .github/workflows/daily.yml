@@ -1,0 +1,44 @@
+name: 🏛️ Pobierz licytacje KAS
+
+on:
+  # Uruchamia się codziennie o 8:00 czasu polskiego (6:00 UTC latem / 7:00 UTC zimą)
+  schedule:
+    - cron: '0 6 * * *'   # lato (CEST = UTC+2)
+  # Możliwość ręcznego uruchomienia
+  workflow_dispatch:
+
+# Uprawnienia do publikowania na GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  scrape-and-deploy:
+    name: Scraping i generowanie raportu
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Pobierz repozytorium
+        uses: actions/checkout@v4
+
+      - name: 🐍 Skonfiguruj Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Zainstaluj zależności
+        run: pip install -r requirements.txt
+
+      - name: 🔍 Uruchom scrapera i wygeneruj raport
+        run: python main.py
+
+      - name: 📤 Wyślij raport na GitHub Pages
+        run: |
+          git config --global user.name  "KAS Licytacje Bot"
+          git config --global user.email "bot@kas-licytacje"
+          git add docs/
+          git diff --cached --quiet || git commit -m "📊 Raport licytacji KAS — $(date +'%d.%m.%Y %H:%M')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
