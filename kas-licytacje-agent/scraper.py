@@ -1,7 +1,9 @@
 """
-Scraper licytacji KAS - obsługuje dwa systemy:
-1. gov.pl        - nowy portal rządowy (czyste linki z tytułami)
-2. kas.gov.pl    - stary system Liferay (linki "Czytaj więcej »")
+Scraper licytacji KAS v5
+- Obsługuje dwa systemy: gov.pl i kas.gov.pl
+- Dla kas.gov.pl: automatycznie odkrywa wszystkie Urzędy Skarbowe w regionie
+  i scrapuje każdy z nich osobno
+- Pełna paginacja + globalna deduplication
 """
  
 import requests
@@ -20,8 +22,8 @@ HEADERS = {
     "Accept-Language": "pl-PL,pl;q=0.9",
 }
  
-# Każde województwo ma DWIE adresy — gov.pl i kas.gov.pl
-# system: "govpl" lub "kaspl"
+# Dla kas.gov.pl scraper sam odkrywa wszystkie US z menu
+# Dla gov.pl strona IAS już agreguje wszystko
 IAS_OFFICES = [
     {
         "region": "Dolnośląskie", "city": "Wrocław",
@@ -107,7 +109,7 @@ IAS_OFFICES = [
  
 CONTENT_KEYWORDS = [
     "licytacj", "sprzedaż", "sprzedaz", "ruchom", "nieruchom",
-    "obwieszczen", "zawiadomien", "przetarg", "informacja roczna",
+    "obwieszczen", "zawiadomien", "przetarg",
     "samochód", "samochod", "pojazd", "mieszkan", "działk",
     "grunt", "lokal", "maszyn", "naczepa", "przyczepa",
     "motocykl", "ciągnik", "traktor", "autobus", "ciężar",
@@ -125,6 +127,9 @@ NAV_SKIP = [
     "Bip.gov", "Gov.pl", "YouTube", "Twitter", "RSS",
     "Serwis Służby", "Elektronicz", "Strona główna",
     "Rada Ministrów", "Ministerst", "Kancelaria",
+    "Załatwianie", "Informacje podatkowe", "Działalność",
+    "Ogłoszenia", "Redakcja", "Depozyty", "Nabór",
+    "Zbędne", "Szkolenia", "Oferty likwidacyjne",
 ]
  
  
@@ -142,7 +147,7 @@ def clean_title(raw):
         if t.lower().startswith(prefix.lower()):
             extracted = t[len(prefix):].strip()
             return extracted if len(extracted) > 10 else None
-    return t
+    return t if len(t) > 10 else None
  
  
 def detect_category(title):
@@ -206,118 +211,135 @@ def extract_date(title):
     return ""
  
  
-# ── Parser dla gov.pl ─────────────────────────────────────────────────────
-def parse_govpl(soup, office):
+def discover_us_urls(session, office):
     """
-    gov.pl ma listę artykułów w strukturze:
-    <article> lub <div class="article-..."> z bezpośrednim linkiem tytułu.
+    Dla kas.gov.pl: pobiera stronę IAS i wyciąga linki do wszystkich
+    Urzędów Skarbowych z menu nawigacyjnego.
+    Zwraca listę URLi stron licytacji każdego US.
     """
-    listings = []
+    try:
+        resp = session.get(office["url"], headers=HEADERS, timeout=25)
+        resp.raise_for_status()
+        resp.encoding = resp.apparent_encoding
+    except Exception as e:
+        print(f"  ❌ Błąd odkrywania US dla {office['city']}: {e}")
+        return []
  
-    # Szukaj linków w głównej treści
+    soup = BeautifulSoup(resp.text, "html.parser")
+    base = office["base_url"]
+    us_urls = []
+    seen = set()
+ 
+    for a_tag in soup.find_all("a", href=True):
+        href = a_tag.get("href", "")
+        text = a_tag.get_text(strip=True)
+ 
+        # Szukamy linków do urzędów skarbowych w menu
+        # Typowy pattern: /urzad-skarbowy-X lub /pierwszy-urzad-skarbowy-X
+        if not re.search(r"urzad-skarbowy|urzad skarbowy", href, re.IGNORECASE):
+            continue
+ 
+        # Pomiń linki do urzędów celno-skarbowych
+        if "celno" in href.lower():
+            continue
+ 
+        # Zbuduj URL do strony licytacji tego US
+        if href.startswith("http"):
+            us_base = href.rstrip("/")
+        elif href.startswith("/"):
+            us_base = base + href.rstrip("/")
+        else:
+            continue
+ 
+        # Usuń zagnieżdżone ścieżki — chcemy tylko korzeń US
+        # np. /urzad-skarbowy-w-kaliszu (nie /urzad-skarbowy-w-kaliszu/kontakt)
+        parts = us_base.replace(base, "").split("/")
+        parts = [p for p in parts if p]
+        if len(parts) > 1:
+            us_base = base + "/" + parts[0]
+ 
+        licytacje_url = us_base + "/ogloszenia/obwieszczenia-o-licytacjach"
+ 
+        if licytacje_url not in seen:
+            seen.add(licytacje_url)
+            us_name = text.strip() if text else parts[0] if parts else "?"
+            us_urls.append({
+                "url":  licytacje_url,
+                "name": us_name,
+            })
+ 
+    print(f"  🗺️  Odkryto {len(us_urls)} Urzędów Skarbowych w {office['region']}")
+    return us_urls
+ 
+ 
+def fetch_page(session, url):
+    try:
+        resp = session.get(url, headers=HEADERS, timeout=20)
+        resp.raise_for_status()
+        resp.encoding = resp.apparent_encoding
+        return resp.text
+    except Exception:
+        return None
+ 
+ 
+def parse_kaspl_page(html, base_url):
+    """Parsuje jedną stronę kas.gov.pl — zwraca listę (title, url)."""
+    soup = BeautifulSoup(html, "html.parser")
+    content = (
+        soup.find(id="main-content")
+        or soup.find(class_=re.compile(r"portlet-content|journal-content|asset-publisher"))
+        or soup.body
+    )
+    results = []
+    for a_tag in content.find_all("a", href=True):
+        href = a_tag.get("href", "").strip()
+        raw = a_tag.get_text(strip=True)
+        if not raw or len(raw) < 10:
+            continue
+        if is_nav(raw):
+            continue
+        title = clean_title(raw)
+        if not title or not is_content(title):
+            continue
+        if href.startswith("http"):
+            full_url = href
+        elif href.startswith("/"):
+            full_url = base_url + href
+        else:
+            continue
+        results.append((title, full_url))
+    return results, soup
+ 
+ 
+def parse_govpl_page(html, base_url):
+    """Parsuje jedną stronę gov.pl — zwraca listę (title, url)."""
+    soup = BeautifulSoup(html, "html.parser")
     main = (
         soup.find("main")
         or soup.find(id=re.compile(r"main|content"))
-        or soup.find(class_=re.compile(r"content|article|listing"))
         or soup.body
     )
- 
+    results = []
     for a_tag in main.find_all("a", href=True):
         href = a_tag.get("href", "").strip()
-        title = a_tag.get_text(strip=True)
- 
+        title = a_tag.get_text(strip=True).rstrip("»›> ").strip()
         if not title or len(title) < 10:
             continue
         if is_nav(title):
             continue
         if not is_content(title):
             continue
- 
-        # Na gov.pl tytuły są bezpośrednie — nie ma "Czytaj więcej"
-        title = title.rstrip("»›> ").strip()
- 
         if href.startswith("http"):
             full_url = href
         elif href.startswith("/"):
-            full_url = office["base_url"] + href
+            full_url = base_url + href
         else:
             continue
- 
-        listings.append({
-            "title": title,
-            "url":   full_url,
-        })
- 
-    return listings
+        results.append((title, full_url))
+    return results, soup
  
  
-# ── Parser dla kas.gov.pl ─────────────────────────────────────────────────
-def parse_kaspl(soup, office):
-    """
-    kas.gov.pl (Liferay) ma linki "Czytaj więcej o TYTUŁ »"
-    lub bezpośrednie linki z tytułem.
-    """
-    listings = []
- 
-    content_area = (
-        soup.find(id="main-content")
-        or soup.find(class_=re.compile(r"portlet-content|journal-content|asset-publisher"))
-        or soup.body
-    )
- 
-    for a_tag in content_area.find_all("a", href=True):
-        href = a_tag.get("href", "").strip()
-        raw = a_tag.get_text(strip=True)
- 
-        if not raw or len(raw) < 10:
-            continue
-        if is_nav(raw):
-            continue
- 
-        title = clean_title(raw)
-        if not title or len(title) < 10:
-            continue
-        if not is_content(title):
-            continue
- 
-        if href.startswith("http"):
-            full_url = href
-        elif href.startswith("/"):
-            full_url = office["base_url"] + href
-        else:
-            full_url = office["base_url"] + "/" + href
- 
-        listings.append({
-            "title": title,
-            "url":   full_url,
-        })
- 
-    return listings
- 
- 
-# ── Paginacja gov.pl ──────────────────────────────────────────────────────
-def get_next_govpl(soup, base_url, current_url, page):
-    """gov.pl używa ?page=N lub linków 'Następna'."""
-    for a_tag in soup.find_all("a", href=True):
-        text = a_tag.get_text(strip=True).lower()
-        href = a_tag.get("href", "")
-        if text in ["następna", "next", "›", "»"]:
-            if href.startswith("http"):
-                return href
-            return base_url + href
- 
-    # Spróbuj ?page=N
-    if "?" not in current_url:
-        next_url = current_url + f"?page={page + 1}"
-    else:
-        next_url = re.sub(r"page=\d+", f"page={page + 1}", current_url)
-        if f"page={page + 1}" not in next_url:
-            next_url = current_url + f"&page={page + 1}"
-    return next_url
- 
- 
-# ── Paginacja kas.gov.pl ──────────────────────────────────────────────────
-def get_next_kaspl(soup, base_url, page):
+def get_next_page_kaspl(soup, base_url, page):
     for a_tag in soup.find_all("a", href=True):
         text = a_tag.get_text(strip=True).lower().strip()
         href = a_tag.get("href", "")
@@ -329,114 +351,154 @@ def get_next_kaspl(soup, base_url, page):
     return None
  
  
-# ── Główna funkcja scrapowania ─────────────────────────────────────────────
-def scrape_ias(session, office):
-    all_listings = []
-    seen_urls   = set()
-    seen_titles = set()
-    current_url = office["url"]
-    page = 1
-    empty_pages = 0
+def get_next_page_govpl(soup, base_url, current_url, page):
+    for a_tag in soup.find_all("a", href=True):
+        text = a_tag.get_text(strip=True).lower()
+        href = a_tag.get("href", "")
+        if text in ["następna", "next", "›", "»"]:
+            if href.startswith("http"):
+                return href
+            return base_url + href
+    return None
  
-    while current_url and page <= 25:
-        print(f"    📄 Strona {page}: {current_url}")
-        try:
-            resp = session.get(current_url, headers=HEADERS, timeout=25)
-            resp.raise_for_status()
-            resp.encoding = resp.apparent_encoding
-        except requests.RequestException as e:
-            print(f"  ❌ Błąd {office['city']} str.{page}: {e}")
+ 
+def scrape_url(session, url, base_url, system, region, city, seen_urls, seen_titles):
+    """
+    Scrapuje jeden URL (IAS lub US) ze wszystkimi stronami.
+    Zwraca listę nowych ogłoszeń.
+    """
+    listings = []
+    current_url = url
+    page = 1
+    empty_streak = 0
+ 
+    while current_url and page <= 30:
+        html = fetch_page(session, current_url)
+        if not html:
             break
  
-        soup = BeautifulSoup(resp.text, "html.parser")
- 
-        if office["system"] == "govpl":
-            raw_listings = parse_govpl(soup, office)
+        if system == "govpl":
+            raw, soup = parse_govpl_page(html, base_url)
         else:
-            raw_listings = parse_kaspl(soup, office)
+            raw, soup = parse_kaspl_page(html, base_url)
  
         found = 0
-        for item in raw_listings:
-            title_key = re.sub(r"\s+", " ", item["title"].lower().strip())
-            if item["url"] in seen_urls or title_key in seen_titles:
+        for title, full_url in raw:
+            title_key = re.sub(r"\s+", " ", title.lower().strip())
+            if full_url in seen_urls or title_key in seen_titles:
                 continue
-            seen_urls.add(item["url"])
+            seen_urls.add(full_url)
             seen_titles.add(title_key)
- 
-            all_listings.append({
-                "region":     office["region"],
-                "city":       office["city"],
-                "title":      item["title"],
-                "url":        item["url"],
-                "category":   detect_category(item["title"]),
-                "type":       detect_type(item["title"]),
-                "date":       extract_date(item["title"]),
+            listings.append({
+                "region":     region,
+                "city":       city,
+                "title":      title,
+                "url":        full_url,
+                "category":   detect_category(title),
+                "type":       detect_type(title),
+                "date":       extract_date(title),
                 "source_url": current_url,
             })
             found += 1
  
         if found == 0:
-            empty_pages += 1
-            if empty_pages >= 2:
+            empty_streak += 1
+            if empty_streak >= 2:
                 break
         else:
-            empty_pages = 0
+            empty_streak = 0
  
-        # Następna strona
-        if office["system"] == "govpl":
-            next_url = get_next_govpl(soup, office["base_url"], current_url, page)
-            # Weryfikacja — jeśli ta sama strona, stop
+        if system == "govpl":
+            next_url = get_next_page_govpl(soup, base_url, current_url, page)
             if next_url == current_url:
                 break
         else:
-            next_url = get_next_kaspl(soup, office["base_url"], page)
+            next_url = get_next_page_kaspl(soup, base_url, page)
  
         current_url = next_url
         page += 1
         if current_url:
+            time.sleep(0.4)
+ 
+    return listings
+ 
+ 
+def scrape_ias(session, office, seen_urls, seen_titles):
+    """Scrapuje IAS i wszystkie US w regionie."""
+    all_listings = []
+ 
+    if office["system"] == "govpl":
+        # gov.pl już agreguje wszystkie US — scrapujemy tylko IAS
+        print(f"  📥 Scrapuję IAS ({office['system']})...")
+        listings = scrape_url(
+            session, office["url"], office["base_url"],
+            office["system"], office["region"], office["city"],
+            seen_urls, seen_titles
+        )
+        all_listings.extend(listings)
+        print(f"  ✅ IAS: {len(listings)} nowych ogłoszeń")
+ 
+    else:
+        # kas.gov.pl: scrapuj IAS + odkryj i scrapuj każdy US osobno
+        print(f"  📥 Scrapuję IAS ({office['system']})...")
+        ias_listings = scrape_url(
+            session, office["url"], office["base_url"],
+            office["system"], office["region"], office["city"],
+            seen_urls, seen_titles
+        )
+        all_listings.extend(ias_listings)
+        print(f"  ✅ IAS: {len(ias_listings)} nowych ogłoszeń")
+ 
+        # Odkryj wszystkie US
+        us_list = discover_us_urls(session, office)
+        time.sleep(0.5)
+ 
+        for i, us in enumerate(us_list, 1):
+            print(f"  📋 US {i}/{len(us_list)}: {us['name']}")
+            us_listings = scrape_url(
+                session, us["url"], office["base_url"],
+                office["system"], office["region"], us["name"],
+                seen_urls, seen_titles
+            )
+            all_listings.extend(us_listings)
+            if us_listings:
+                print(f"     → {len(us_listings)} nowych ogłoszeń")
             time.sleep(0.5)
  
-    print(f"  ✅ {office['city']} ({office['region']}): "
-          f"{len(all_listings)} ogłoszeń ({page-1} stron, {office['system']})")
     return all_listings
  
  
 def run_scraper():
     session = requests.Session()
     all_listings = []
+    # Globalne zbiory do deduplication — wspólne dla wszystkich regionów
+    seen_urls   = set()
+    seen_titles = set()
  
     print(f"\n🔍 Start scrapowania KAS — {datetime.now().strftime('%Y-%m-%d %H:%M')}\n")
  
     for office in IAS_OFFICES:
-        print(f"📌 {office['city']} ({office['region']}) [{office['system']}]...")
-        listings = scrape_ias(session, office)
+        print(f"\n📌 {office['city']} ({office['region']}) [{office['system']}]")
+        listings = scrape_ias(session, office, seen_urls, seen_titles)
         all_listings.extend(listings)
+        print(f"  🏁 Region łącznie: {len(listings)} ogłoszeń")
         time.sleep(1)
- 
-    # Globalna deduplication
-    seen_global = set()
-    unique = []
-    for item in all_listings:
-        key = re.sub(r"\s+", " ", item["title"].lower().strip())
-        if key not in seen_global:
-            seen_global.add(key)
-            unique.append(item)
  
     by_region   = {}
     by_category = {}
-    for item in unique:
+    for item in all_listings:
         by_region[item["region"]]     = by_region.get(item["region"], 0) + 1
         by_category[item["category"]] = by_category.get(item["category"], 0) + 1
  
     result = {
         "scraped_at":  datetime.now().isoformat(),
-        "total":       len(unique),
-        "listings":    unique,
+        "total":       len(all_listings),
+        "listings":    all_listings,
         "by_region":   by_region,
         "by_category": by_category,
     }
  
-    print(f"\n📊 Łącznie: {len(unique)} unikalnych ogłoszeń")
+    print(f"\n📊 GOTOWE — {len(all_listings)} unikalnych ogłoszeń z całej Polski")
     return result
  
  
