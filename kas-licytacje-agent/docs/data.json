@@ -1,36 +1,536 @@
 {
-  "scraped_at": "2026-03-21T10:16:35.911461",
-  "total": 834,
+  "scraped_at": "2026-03-21T10:29:15.522459",
+  "total": 1177,
   "listings": [
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
       "title": "Obwieszczenia o licytacjach",
-      "url": "https://www.dolnoslaskie.kas.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "Nowa lokalizacja Urzędu Skarbowego w Złotoryi",
-      "url": "https://www.dolnoslaskie.kas.gov.pl/web/ias-wroclaw/nowa-lokalizacja-urzedu-skarbowego-w-zlotoryi",
+      "title": "Obwieszczenie o III licytacji nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-ruchomosci",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości (nieruchomość gruntowa, niezabudowana działka gruntu nr 328/604 o pow. 31 218 m2, położona w gminie Miłkowice, obręb ewidencyjny Gniewomirowice, pow. legnicki, woj. dolnośląskie, KW nr LE1L/00084021/1)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci-nieruchomosc-gruntowa-niezabudowana-dzialka-gruntu-nr-328604-o-pow-31-218-m2-polozonej-w-gminie-milkowice-obreb-ewidencyjny-gniewomirowice-pow-legnicki-woj-dolnoslaskie-kw-nr-le1l000840211",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "I licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,4650 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
+      "url": "https://www.gov.pl/web/ias-wroclaw/i-licytacja-ulamkowej-czesci-n-249-3",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "I licytacja ułamkowej części 1/2 nieruchomości gruntowej niezabudowanej o powierzchni 0,3725 ha, w Gminie Stronie Śląskie, dz. nr 249/4, obręb 0013 Stary Gierałtów",
+      "url": "https://www.gov.pl/web/ias-wroclaw/i-licytacja-ulamkowej-czesci-nieruchomosci-tj-udzial",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości (gruntowej, zabudowanej niedokończonymi budynkami, położonej w gminie Rudna)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci9",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości (nieruchomość gruntowa niezabudowana oznaczona jako działki nr 37, 39, 42/2, 42/7, 43, 44 AM-1 obręb 0032 Szczawina o łącznej powierzchni 11,16 ha, położona w gm. Bystrzyca Kłodzka, pow. kłodzki, KW nr SW1K/00045760/1)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci-nieruchomosc-gruntowa-niezabudowana-oznaczona-jako-dzialki-nr-37-39-422-427-43-44-am-1-obreb-0032-szczawina-o-lacznej-powierzcni-1116-ha-polozona-w-gm-bystrzyca-klodzka-pow-klodzki-kw-nr-sw1k000457601",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji nieruchomości stanowiącej prawo własności do lokalu niemieszkalnego nr 4 położonego w Piławie Górnej przy ul. Piastowskiej 58 wraz z udziałem wynoszącym 25/100 w nieruchomości wspólnej",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-nieruchomosci6",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości (nieruchomość gruntowa - działka gruntu nr 25 o pow. 1,333 ha położonej w Jedlinie Zdroju obręb Jedlinka, dla której Sąd Rejonowy w Wałbrzychu prowadzi KW nr SW1W/00032051/4)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci-nieruchomosc-gruntowa---dzialka-gruntu-nr-25-o-pow-1333-ha-polozonej-w-jedlinie-zdroju-obreb-jedlinka-dla-ktorej-sad-rejonowy-w-walbrzychu-prowadzi-kw-nr-sw1w000320514",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości (lokalu mieszkalnego nr 7 o pow. 129 m 2 położonej w Wałbrzychu przy ul. Lelewela 4, dla której Sąd Rejonowy w Wałbrzychu prowadzi KW nr SW1W/00084473/7)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci-lokalu-mieszkalnego-nr-7-o-pow-129-m-2-polozonej-w-walbrzychu-przy-ul-lelewela-4-dla-ktorej-sad-rejonowy-w-walbrzychu-prowadzi-kw-nr-sw1w000844737",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci9",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji udziału 9/10 w nieruchomości - grunt oddany w użytkowanie wieczyste, budynek i urządzenie stanowiące odrębną nieruchomość, położonej w gminie Brzeg Dolny, w miejscowości Radecz",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci10",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości (lokalu mieszkalnego nr 2 o pow. 108,40 m 2 położonej w Wałbrzychu przy ul. Armii Krajowej 27, dla której Sąd Rejonowy w Wałbrzychu prowadzi KW nr SW1W/00079837/9)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci-o-iii-licytacji-nieruchomosci-lokalu-mieszkalnego-nr-2-o-pow-10840-m-2-polozonej-w-walbrzychu-przy-ul-armii-krajowej-27-dla-ktorej-sad-rejonowy-w-walbrzychu-prowadzi-kw-nr-sw1w000798379",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości (użytkowanie wieczyste działki gruntu oraz budynki i urządzenia stanowiące odrębną nieruchomość, stanowiące działkę ew. nr 91 o pow. 0,0979 ha, położoną w Strzegomiu, przy ul. Górniczej 2a, obręb 0005, Grabina Pd Nr 5, pow. świdnicki, woj. dolnośląskie, KW nr SW1S/00019906/3)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci-uzytkowanie-wieczyste-dzialki-gruntu-oraz-budynki-i-urzadzenia-stanowiace-odrebna-nieruchomosc-stanowiace-dzialke-ew-nr-91-o-pow-00979-ha-polozona-w-strzegomiu-przy-ul-gorniczej-2a-obreb-0005-grabina-pd-nr-5-pow-swidnicki-woj-dolnoslaskie-kw-nr-sw1s000199063",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (samochód osobowy SUBARU FORESTER, rok pr. 2010)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod-osobowy-subaru-forester-rok-pr-2010",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (samochód ciężarowy MERCEDES BENZ 814D, rok pr. 1998)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samocho-ciezarowy-mercedes-benz-814d-rok-pr-1998",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (Samochód osobowy SKODA SUPERB )",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod-osobowy-skoda-superb-",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (Samochód Renault Clio)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci-samochod-renault-clio-hatchback",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (samochód osobowy)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci-samochod4",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości (nieruchomość gruntowa niezabudowana oznaczona jako działka nr 120/7, nr ewidencyjny 022302_2.0020 Kiełczów o powierzchni 0,0734 ha, położona w gm. Długołęka, pow. wrocławski, KW nr WR1E/00094838/2)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci-nieruchomosc-gruntowa-niezabudowana-oznaczona-jako-dzialka-nr-1207-nr-ewidencyjny-02230220020-kielczow-o-powierzchni-00734-ha-polozona-w-gm-dlugoleka-pow-wroclawski-kw-nr-wr1e000948382",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (Samochód osobowy MERCEDES BENZ DAIMLER CHRYSLER E220)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod-osobowy-mercedes-benz-daimler-chrysler-e220",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Sprzedaż z wolnej ręki ruchomości (FORD MONDEO KOMBI)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/sprzedaz-z-wolnej-reki-ruchomosci14",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (Laptop marki ASUS model GL 503Vr)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci-l",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości - samochód",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci---samochod49",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (KRONE NACZEPA CIĘŻAROWA PLATFORMA)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci-krone-naczepa-ciezarowa-platforma-2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (samochód osobowy Toyota Yaris)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci77",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Sprzedaż z wolnej ręki ruchomości (Toyota Corolla kombi)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/sprzedaz-z-wolnej-reki-ruchomosci13",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (samochód osobowy VOLKSWAGEN LUPO, hatchback, rok pr. 1999)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod-osobowy-volkswagen-lupo-hatchback-rok-pr-1999",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (Drzwi przednie prawe do pojazdu Mercedes-Benz KLASA E i akcesoria)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci35",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości - przyczepa",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci---przyczepa",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (Koparka kołowa ATLAS 1504)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-k2",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości - motorower",
+      "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci---motorower2",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (Samochód ciężarowy IVECO 150E21)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/iveco",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (samochód osobowy wielozadaniowy FORD ECOSPORT, rok pr. 2020)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod-osobowy-wielozadaniowy-ford-ecosport-rok-pr-2020",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (MOTOROWER TNT MOTOR)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-motorower-tnt-motor",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości - samochód",
+      "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci---samochod27",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci5",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
     },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
-      "url": "https://etoll.gov.pl/",
-      "category": "Pojazdy",
+      "title": "Obwieszczenie o terminie opisu i szacowania nieruchomości gruntowej położonej w Trójcy gm. Zgorzelec",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-szacowania-nieruchomosci-polozonej-w",
+      "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.dolnoslaskie.kas.gov.pl/izba-administracji-skarbowej-we-wroclawiu/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości położonej w Pisarzowicach gmina Lubań",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej-w-pisarzowicach",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Świdnica)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-swidnica2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (I US Wrocław)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-i-us-wroclaw",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Bolesławiec)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-boleslawiec",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Oława)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-olawa2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o ruchomościach sprzedanych przez Naczelnika Urzędu Skarbowego Głogów w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
+      "url": "https://www.gov.pl/web/ias-wroclaw/in",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław - Krzyki)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw---krzyki",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Ząbkowice Śląskie)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-zabkowice-slaskie2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a.(US Dzierżoniów)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Jawor)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-jawor",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lwówek Śląski)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-lwowek-slaski2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wołów)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wolow2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław-Śródmieście)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw-srodmiescie2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Środa Śląska)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-sroda-slaska",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Strzelin)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-strzelin2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=6"
     },
     {
       "region": "Kujawsko-Pomorskie",
@@ -1415,7 +1915,7 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "ęcejo Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom organizacyjnym ochrony zdrowia i pomocy społecznej, placówkom oświatowym, instytucjom kultury oraz organizacjom charytatywnym (24 poz.)",
+      "title": "Czytaj więcejo Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości jednostkom organizacyjnym ochrony zdrowia i pomocy społecznej, placówkom oświatowym, instytucjom kultury oraz organizacjom charytatywnym (24 poz.)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-24-poz?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -1655,7 +2155,7 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "ęcejo Druga licytacja ruchomości: samochodu osobowego Volkswagen Golf",
+      "title": "Czytaj więcejo Druga licytacja ruchomości: samochodu osobowego Volkswagen Golf",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/druga-licytacja-ruchomosci-samochodu-osobowego-volkswagen-golf?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "II licytacja",
@@ -1995,7 +2495,7 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "ęcejo Informacja roczna o sprzedaży ruchomości w 2025 roku",
+      "title": "Czytaj więcejo Informacja roczna o sprzedaży ruchomości w 2025 roku",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-roczna-o-sprzedazy-ruchomosci-w-2025-roku?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D3%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -2155,12 +2655,672 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Środy z KSeF. Branża nieruchomości",
-      "url": "https://www.lodzkie.kas.gov.pl/web/us-belchatow/srody-z-ksef-branza-nieruchomosci",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 25.06.2026 r. (Przatów Dolny 52A, gm. Szadek, pow. zduńskowolski)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-25062026-r-przatow-dolny-52a-gm-szadek-pow-zdunskowolski",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "25.06.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 24.06.2026 r. (Sanie, działka nr 52/3 )",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-24062026-r-sanie-dzialka-nr-523-",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "24.06.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 18.06.2026 r. (Sanie, działka nr 14/6)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-18062026-r-sanie-dzialka-nr-146",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "18.06.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 10.06.2026 r. (działka o numerze 133/5, położona w Aleksandrowie Łódzkim).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-10062026-r-dzialka-o-numerze-1335-polozona-w-aleksandrowie-lodzkim",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "10.06.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 28.05.2026 r. (Kwilno,ul. Sosnowa 11, gmina Zgierz)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-28052026-r-kwilnoul-sosnowa-11-gmina-zgierz",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "28.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 26.05.2026 r. (Chociszew, gmina Parzęczew, pow. 8,00 ha)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-26052026-r-chociszew-gmina-parzeczew-pow-800-ha",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "26.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 21.05.2026 r. (Kolonia Gomulin, Wola Krzysztoporska)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-21052026-r-kolonia-gomulin-wola-krzysztoporska",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "21.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 21.05.2026 r. (Samotnik, gm. Zgierz)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-21052026-r-samotnik-gm-zgierz",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "21.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji nieruchomości 14.05.2026 r. (Zduńska Wola, ul. Jałowcowej 8)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-nieruchomosci-14052026-r-zdunska-wola-ul-jalowcowej-8",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "14.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 12.05.2026 r. (Stefanów, gmina Rogów, powiat brzeziński)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-12052026-r-stefanow-gmina-rogow-powiat-brzezinski",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "12.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 29.04.2026 r. (Rzgów,ul. Reymonta 10 nr 1)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-29042026-r-rzgowul-reymonta-10",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "29.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 29.04.2026 r. (Rzgów,ul. Reymonta 10 nr 2)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-29042026-r-rzgowul-reymonta-10-nr-2",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "29.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 21.04.2026 r. (Konopnica gm. Konopnica pow. wieluński).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-21042026-r-konopnica-gm-konopnica-pow-wielunski",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "21.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o zmianie terminu opisu i oszacowania nieruchomości 16.04.2026 r. (Łódź, ul. Lorentza 8 m. 62)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-zmianie-terminu-opisu-i-oszacowania-nieruchomosci-16042026-r-lodz-ul-lorentza-8-m-62",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
+      "date": "16.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Ogłoszenie o przetargu ofert na zakup ruchomości w terminie do 15.04.2026 r. (VW Touran rok prod. 2014)",
+      "url": "https://www.gov.pl/web/ias-lodz/ogloszenie-o-przetargu-ofert-na-zakup-ruchomosci-w-terminie-do-15042026-r-vw-touran-rok-prod-2000",
+      "category": "Pojazdy",
+      "type": "Przetarg",
+      "date": "15.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o trzeciej licytacji nieruchomości 14.04.2026 r. (Łódź, ul.Adama Próchnika 40)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-14042026-r-lodz-uladama-prochnika-40",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "14.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 14.04.2026 r. (Opel Agila rok prod. 2009)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-14042026-r-opel-agila-rok-prod-2009",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "14.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 9.04.2026 r. (Opel Astra rok prod. 2007)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-9042026-r-opel-astra-rok-prod-2007",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "09.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 8.04.2026 r. (Śliwniki Nowe)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-8042026-r-sliwniki-nowe",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "08.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 1.04.2026 r. (Dąbie nr 12, gmina Łęczyca)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-1042026-r-dabie-nr-12-gmina-leczyca",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "01.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji ruchomości 1.04.2026 r. (Opel Zafira, rok prod. 2003).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-ruchomosci-1042026-r-opel-zafira-rok-prod-2003",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "01.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 1.04.2026 r. (Fiat Punto rok prod. 2018)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-1042026-r-fiat-punto-rok-prod-2018",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "01.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji ruchomości 1.04.2026 r. (Opel Mokka, rok prod. 2014).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-ruchomosci-1042026-r-opel-mokka-rok-prod-2014",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "01.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 1.04.2026 r. (Opel Corsa prod. 2000)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-1042026-r-opel-corsa-prod-2000",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "01.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 31.03.2026 r. (Pszczonów 181, gm. Maków)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-31032026-r-pszczonow-181-gm-makow",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "31.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji nieruchomości 31.03.2026 r. (Łódź, ul. Niemojewskiego 7)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-nieruchomosci-31032026-r-lodz-ul-niemojewskiego-7",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "31.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o II licytacji ruchomości 31.03.2026 r. (Opel Vivaro).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-ii-licytacji-ruchomosci-31032026-r-opel-vivaro",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "31.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji ruchomości 31.03.2026 r. (Volkswagen Caddy).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-ruchomosci-31032026-r-volkswagen-caddy",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "31.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 31.03.2026 r. (Toyota MR2 rok prod. 2000)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-31032026-r-toyota-mr2-rok-prod-2000",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "31.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 30.03.2026 r. (Samochód ciężarowy MAN rok prod. 2001)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-30032026-r-samochod-ciezarowy-man-rok-prod-2001",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "30.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 30.03.2026 r. (VW Crafter rok prod. 2009)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-30032026-r-vw-crafter-rok-prod-2009",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "30.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 27.03.2026 r. (Samochód ciężarowy Scania rok prod. 1998)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-27032026-r-samochod-ciezarowy-scania-rok-prod-1998",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "27.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 27.03.2026 r. (biżuteria)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-27032026-r-bizuteria",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "27.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 27.03.2026 r. (Fiat Ducato rok prod. 2018)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-27032026-r-fiat-ducato-rok-prod-2018",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "27.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji ruchomości 26.03.2026 r. (FORD S-MAX VAN rok prod. 2006)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-ruchomosci-26032026-r-ford-s-max-van-rok-prod-2006",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 26.03.2026 r. (Ciagnik siodłowy rok prod. 2015)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-26032026-r-ciagnik-siodlowy-rok-prod-2015",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 26.03.2026 r. (Przyczepa ciężarowa Niewiadów rok prod. 2023)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-26032026-r-przyczepa-ciezarowa-niewiadow-rok-prod-2023",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 26.03.2026 r. (Samochód Ciężarowy Renault Master rok prod. 2021)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-26032026-r-samochod-ciezarowy-renault-master-rok-prod-2021",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o II licytacji ruchomości 26.03.2026 r. (Dodge Caliber, rok prod. 2007).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-ii-licytacji-ruchomosci-26032026-r-dodge-caliber-rok-prod-2007",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o II licytacji ruchomości 26.03.2026 r. (VW Golf, rok prod. 1998).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-ii-licytacji-ruchomosci-26032026-r-vw-golf-rok-prod-1998",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 26.03.2026 r. (KIA Picanto rok prod. 2005)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-26032026-r-kia-picanto-rok-prod-2005",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki od 25.03.2026 r. do 27.03.2026 r. (Mercedes Benz Vario 614D rok. prod. 2001)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-z-wolnej-reki-od-25032026-r-do-27032026-r-mercedes-benz-vario-614d-rok-prod-2001",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o II licytacji ruchomości 25.03.2026 r. (Volkswagen Passat Kombi, rok prod. 1997)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-ii-licytacji-ruchomosci-25032026-r-volkswagen-passat-kombi-rok-prod-1997",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 25.03.2026 r. (BMW 318 rok prod. 2006)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-25032026-r-bmw-318-rok-prod-2006",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 25.03.2026 r. (Microcar rok prod. 2017)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-25032026-r-microcar-rok-prod-2017",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki 25-27.03.2026 r. ruchomości (Audi A4, rok produkcji 1995).",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-z-wolnej-reki-25-27032026-r-ruchomosci-audi-a4-rok-produkcji-1995",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "27.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości od 24.03.2026 do 25.06.2026 r. (Łódź, ul. Wici 36/47)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-24032026-do-25062026-r-lodz-ul-wici-3647",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 24.03.2026 r. (ciągnik rolniczy kołowy Case IH Farmall 85A rok produkcji - 2018)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-24032026-r-ciagnik-rolniczy-kolowy-case-ih-farmall-85a-rok-produkcji--2018",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 24.03.2026 r. - 30.03.2026 r. (Opel Astra rok prod. 1997)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-24032026-r---30032026-r-opel-astra-rok-prod-1997",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 24.03.2026 r. (Kia Ceed rok prod. 2013)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-24032026-r-kia-ceed-rok-prod-2013",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 24.03.2026 r. (BMW 316 rok prod. 1992)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-24032026-r-bmw-316-rok-prod-1992",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 24.03.2026 r. - 7.04.2026 r. (Fiat Doblo rok prod. 2008)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-24032026-r---7042026-r-fiat-doblo-rok-prod-2008",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 24.03.2026 r. (Citroen C3 rok prod. 2002)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-24032026-r-citroen-c3-rok-prod-2002",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 24.03.2026 r. (Alfa Romeo GT Coupe rok prod. 2005)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-24032026-r-alfa-romeo-gt-coupe-rok-prod-2005",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 23.03.2026 r. (m.in. lampa LED, programator czasowy)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-ruchomosci-23032026-r-min-lampa-led-programator-czasowy",
+      "category": "Inne ruchomości",
+      "type": "II licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 23.03.2026 r. (Audi A4 kombi rok prod. 2004)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-23032026-r-audi-a4-kombi-rok-prod-2004",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 23.03.2026 r. (Opel Vectra 2,0 Kareta Sedan rok prod. 2002)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-23032026-r-opel-vectra-20-kareta-sedan-rok-prod-2002",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 23.03.2026 r. (Ford Fiesta rok prod. 2006)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-23032026-r-ford-fiesta-rok-prod-2006",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 23.03.2026 r. (VW Golf rok prod. 2004)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-23032026-r-vw-golf-rok-prod-2004",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości od 18.03.2026 do 20.05.2026 r. (Zgierz, ul. Piątkowskiej 83W m. 43)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-18032026-do-20052026-r-zgierz-ul-piatkowskiej-83w-m-43",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "18.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości od 18.03.2026 do 20.05.2026 r. (Zgierz, ul. Piątkowskiej 83W m. 42)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-18032026-do-20052026-r-zgierz-ul-piatkowskiej-83w-m-42",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "18.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości od 18.03.2026 do 14.05.2026 r. (Zgierz, ul. Mikołaja Reja 31)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-18032026-do-14052026-r-zgierz-ul-mikolaja-reja-31",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "18.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży podmiotom uprawnionym w terminie 16.03.2026 r. - 27.03.2026 r. (maszyny szwalnicze)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-podmiotom-uprawnionym-w-terminie-16032026-r---27032026-r-maszyny-szwalnicze",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "16.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 27.02.2026 r. -27.03.2026 r. (Audi Q7 TDI rok prod. 2006)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-27022026-r--27032026-r-audi-q7-tdi-rok-prod-2006",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "27.02.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 27.02.2026 r. -27.03.2026 r. (Mercedes Benz rok prod. 1999)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-27022026-r--27032026-r-mercedes-benz-rok-prod-1999",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "27.02.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 16.04.2026 r. (samochód ciężarowy SCANIA rok prod. 2002, samochód osobowy Mazda 6 rok prod. 2006)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-ruchomosci-16042026-r-samochod-ciezarowy-scania-rok-prod-2002-samochod-osobowy-mazda-6-rok-prod-2006",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "16.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
+      "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.lodzkie.kas.gov.pl/izba-administracji-skarbowej-w-lodzi/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=7"
     },
     {
       "region": "Małopolskie",
@@ -4515,7 +5675,7 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "ęcejo Obwieszczenie o pierwszej licytacji nieruchomości: prawo użytkowania wieczystego nieruchomości gruntowej położonej w miejscowości Pionki przy ulicy Radomskiej 39, gmina Pionki, powiat radomski - termin: 10 lipca 2026 r., godz. 9:30.",
+      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości: prawo użytkowania wieczystego nieruchomości gruntowej położonej w miejscowości Pionki przy ulicy Radomskiej 39, gmina Pionki, powiat radomski - termin: 10 lipca 2026 r., godz. 9:30.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-uzytkowania-wieczystego-nieruchomosci-gruntowej-polozonej-w-miejscowosci-pionki-przy-ulicy-radomskiej-39-gmina-pionki-powiat-radomski-termin-10-lipca-2026-r-godz-9-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D9%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
@@ -4795,7 +5955,7 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "ęcejo Obwieszczenie o terminie opisu i oszacowania: niezabudowana nieruchomość rolna położona w Wierzbicy, powiat radomski - termin: 26 marca 2026 r. - 19 maja 2026 r.",
+      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania: niezabudowana nieruchomość rolna położona w Wierzbicy, powiat radomski - termin: 26 marca 2026 r. - 19 maja 2026 r.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-niezabudowana-nieruchomosc-rolna-polozona-w-wierzbicy-powiat-radomski-termin-26-marca-2026-r-19-maja-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D10%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -5145,7 +6305,7 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "ęcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku.",
+      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-19?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D12%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -5245,7 +6405,7 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "ęcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku",
+      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-8?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D13%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -5773,14 +6933,594 @@
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Y5Dq&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Y5Dq_delta=20&_101_INSTANCE_Y5Dq_keywords=&_101_INSTANCE_Y5Dq_advancedSearch=false&_101_INSTANCE_Y5Dq_andOperator=true&cur=2"
     },
     {
-      "region": "Podlaskie",
-      "city": "Białystok",
-      "title": "Bez „prawka” za kółkiem. Mieszkaniec gminy Michałowo wpadł podczas kontroli podlaskiej KAS",
-      "url": "https://www.podlaskie.kas.gov.pl/web/ias-bialystok/bez-prawka-za-kolkiem-mieszkaniec-gminy-michalowo-wpadl-podczas-kontroli-podlaskiej-kas",
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 27 maja 2026 roku - nieruchomość gruntowa położona w miejscowości Dąbrowa, gmina Świlcza, powiat rzeszowski, województwo podkarpackie,",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-27-maja-2026-roku---nieruchomosc-gruntowa-polozona-w-miejscowosci-dabrowa-gmina-swilcza-powiat-rzeszowski-wojewodztwo-podkarpackie",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "27.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości od 28 kwietnia 2026 roku do 28 maja 2026 roku - nieruchomość gruntowa rolna położna w miejscowości Bajdy",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-28-kwietnia-2026-roku-do-28-maja-2026-roku---nieruchomosc-gruntowa-rolna-polozna-w-miejscowosci-bajdy",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
+      "date": "28.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 10 kwietnia 2026 roku - narzędzia",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-10-kwietnia-2026-roku---narzedzia",
+      "category": "Inne ruchomości",
+      "type": "II licytacja",
+      "date": "10.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 10 kwietnia 2026 roku - wykrywacze metalu, słuchawki, łopata",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-10-kwietnia-2026-roku---wykrywacze-metalu-sluchawki-lopata",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "10.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 27 marca 2026 roku - samochód marki Toyota Yaris, samochód marki Peugeot 206",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-27-marca-2026-roku---samochod-marki-toyota-yaris-samochod-marki-peugeot-206",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "27.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 26 marca 2026 roku - samochód marki BMW 318",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-26-marca-2026-roku---samochod-marki-bmw-318",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 26 marca 2026 roku - samochód marki Volkswagen Passat",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-26-marca-2026-roku---samochod-marki-volksawgen-passat",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 26 marca 2026 roku - samochód osobowy Ford Fiesta",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-26-marca-2026-roku---samochod-osobowy-ford-fiesta",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 26 marca 2026 roku - samochód osobowy marki Opel Corsa",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-26-marca-2026-roku---samochod-osobowy-marki-opel-corsa",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 26 marca 2026 roku - samochód marki Renault Laguna",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-26-marca-2026-roku---samochod-marki-renault-laguna",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 26 marca 2026 roku - samochód Citroen Jumper",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-26-marca-2026-roku---samochod-citroen-jumper",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 26 marca 2026 roku samochody ciężarowe marki: Fiat Ducato Van 2018, Fiat Doblo Van 2013, Fiat Doblo Van 2013",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-26-marca-2026-roku-samochody-ciezarowe-marki-fiat-ducato-van-2018-fiat-doblo-van-2013-fiat-doblo-van-2013",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki 26 marca 2026 roku - samochód osobowy Citroen Berlingo",
+      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-26-marca-2026-roku---samochod-osobowy-citroen-berlingo",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki 26 marca 2026 roku - samochód marki Peugeot 207",
+      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-26-marca-2026-roku---samochod-marki-peugeot-207",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "26.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 25 marca 2026 roku - samochód marki Daewoo Matiz",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-25-marca-2026-roku---samochod-marki-daewoo-matiz",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 25 marca 2026 roku - samochód osobowy marki Ford Focus",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-25-marca-2026-roku---samochod-osobowy-marki-ford-focus",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji 25 marca 2026 roku - samochód marki Opel Astra",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-25-marca-2026-roku---samochod-marki-opel-astra",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "25.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 24 marca 2026 roku - samochód osobowy KIA Picanto",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-24-marca-2026-roku---samochod-osobowy-kia-picanto",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 24 marca 2026 roku - samochód osobowy Alfa Romeo 159",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-24-marca-2026-roku---samochod-osobowy-alfa-romeo-159",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o pierwszej licytacji ruchomości 24 marca 2026 roku - przedmioty różne",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-ruchomosci-24-marca-2026-roku---przedmioty-rozne",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "24.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki 23 marca 2026 roku - samochód marki Toyota Corolla",
+      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-23-marca-2026-roku---samochod-marki-toyota-corolla",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 23 marca 2026 roku samochód marki Audi A4 Kombi",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-23-marca-2026-roku-samochod-marki-audi-a4-kombi",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "23.03.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 23 mara 2026 roku - samochód marki Honda Jazz",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-23-mara-2026-roku---samochod-marki-honda-jazz",
+      "category": "Pojazdy",
+      "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.podlaskie.kas.gov.pl/izba-administracji-skarbowej-w-bialymstoku/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o I licytacji nieruchomości 23 kwietnia 2026 r. o godz. 9:00 w miejscowości Jarosław",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-i-licytacji-nieruchomosci-23-kwietnia-2026-r-o-godz-900-w-miejscowosci-jaroslaw",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "23.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o I Licytacji nieruchomości 23 kwietnia 2026 r. o godz. 10:00 w miejscowości Jarosław",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-i-licytacji-nieruchomosci-23-kwietnia-2026-r-o-godz-1000-w-miejscowosci-jaroslaw",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "23.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o I Licytacji nieruchomości 23 kwietnia 2026 r. o godz. 11:00 w miejscowości Jarosław",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-i-licytacji-nieruchomosci-23-kwietnia-2026-r-o-godz-1100-w-miejscowosci-jaroslaw",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "23.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o I licytacji nieruchomości gruntowej położonej w miejscowości Dąbrowa, gmina Świlcza, powiat rzeszowski, woj. podkarpackie 22 maja 2026 r.",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-i-licytacji-nieruchomosci-gruntowej-polozonej-w-miejscowosci-dabrowa-gmina-swilcza-powiat-rzeszowski-woj-podkarpackie-22-maja-2026-r",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "22.05.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości od 14 kwietnia 2026 r. o godz. 11:00 do 14 maja 2026 r. o godz. 11:00 - nieruchomość położona w miejscowości Równe, woj. podkarpackie",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-14-kwietnia-2026-r-o-godz-1100-do-14-maja-2026-r-o-godz-1100--nieruchomosc-polozona-w-miejscowosci-rowne-woj-podkarpackie",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "14.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o odwołaniu opisu i oszacowania wartości nieruchomości rozpoczynającej się 14 kwietnia 2026 roku dotyczy udziału we właśności lokalu mieszkalengo w Krośnie",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-odwolaniu-opisu-i-oszacowania-wartosci-nieruchomosci-rozpoczynajacej-sie-14-kwietnia-2026-roku-dotyczy-udzialu-we-wlasnosci-lokalu-mieszkalengo-w-krosnie",
+      "category": "Nieruchomości",
+      "type": "Odwołanie",
+      "date": "14.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości od 28 kwietnia 2026 roku do 28 maja 2026 roku - nieruchomość gruntowa rolna w miejscowości Łączki Jagiellońskie",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-28-kwietnia-2026-roku-do-28-maja-2026-roku---nieruchomosc-gruntowa-rolna-w-miejscowosci-laczki-jagiellonskie",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "28.04.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "KIA Sportage, 2010 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/kia-sportage-2010-r---pierwsza-licytacja-2042026-r",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "TOYOTA Avensis, 2006 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/toyota-avensis-2007-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "DAF FA LF55.180E15/ZF, 2008 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/daf-fa-lf55180e15zf-2008-r---pierwsza-licytacja",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Olej napędowy 1260 litrów - przetarg ofert.",
+      "url": "https://www.gov.pl/web/ias-bialystok/olej-napedowy-1260-litrow--przetarg-ofert",
+      "category": "Inne ruchomości",
+      "type": "Przetarg",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "BMW 320i, 2001 r., pojazd niesprawny - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/bmw-320i-2001-r-pojazd-niesprawny---druga-licytacja",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Renault Megane Scenic, 2005 r. - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/renault-megane-scenic-2005-r---druga-licytacja",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Volkswagen Passat, 2008 r. - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/volkswagen-passat-2008-r---druga-licytacja",
+      "category": "Inne ruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "SEAT Altea, 2010 r. - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/seat-altea-2010-r---druga-licytacja",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Audi A4 2004 r., Mercedes Sprinter 316 CDI 2005 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/audi-a4-2004-r-mercedes-sprinter-316-cdi-2005-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Lokal mieszkalny, ul. Szarych Szeregów, Białystok - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/lokal-mieszkalny-ul-szarych-szeregow-bialystok---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Lokal mieszkalny, udział 35/147 części, ul. Zachodnia, Białystok - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/lokal-mieszkalny-udzial-35147-czesci-ul-zachodnia-bialystok---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Citroen Jumper, skrzynia, 2015 r.; maszyna do malowania desek Ceetec P40, 2018 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/citroen-jumper-skrzynia-2015-r-maszyna-do-malowania-desek-ceetec-p40-2018-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość gruntowa 0,0850 ha, Bakałarzewo, udział 1/2 - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-gruntowa-00850-ha-bakalarzewo-udzial-12---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Opel Corsa, 2007 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/opel-corsa-2007-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Opel Astra kombi, 2006 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/opel-astra-kombi-2006-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "TOYOTA Camry, 2020 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/toyota-camry-2020-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość gruntowa, Waniewo gm. Sokoły - trzecia licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-gruntowa-waniewo-gm-sokoly---trzecia-licytacja",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Mercedes-Benz AMG GLE 43, 2017 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/mercedes-benz-amg-gle-43-2017-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Mercedes-Benz Sprinter 308 CDI, 2007 r. - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/mercedes-benz-sprinter-308-cdi-2007-r---pierwsza-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość zabudowana (2 działki, dom, 3 budynki gospodarcze), Gródek - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-zabudowana-2-dzialki-dom-3-budynki-gospodarcze-grodek---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Działka (udział 1/2 części w nieruchomości), Bagnówka Białystok - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/dzialka-udzial-12-czesci-w-nieruchomosci-bagnowka-bialystok---druga-licytacja",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość zabudowana, dom, Rafałówka gm. Zabłudów - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-zabudowana-dom-rafalowka-gm-zabludow---druga-licytacja",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Działka niezabudowana (udział 1/3 części w nieruchomości), Sokołda gm. Supraśl - trzecia licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/dzialka-niezabudowana-udzial-13-czesci-w-nieruchomosci-sokolda-gm-suprasl---trzecia-licytacja",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość rolna, udział 1/4, obręb Wierzchlesie, Słójka, Rowek gm. Szudziałowo - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-rolna-udzial-14-wierzchlesie-slojka-rowek-gm-szudzialowo--druga-licytacja",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość zabudowana, dom, Studzianki, gm. Wasilków - trzecia licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-zabudowana-dom-studzianki-gm-wasilkow---trzecia-licytacja",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość, działka leśna, Ogrodniczki, gm. Supraśl - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-dzialka-lesna-ogrodniczki-gm-suprasl---druga-licytacja",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość zabudowana, dom, ul. Dworcowa, Gródek - trzecia licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-zabudowana-dom-ul-dworcowa-grodek---trzecia-licytacja",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
+      "url": "https://www.gov.pl/web/ias-bialystok/informacja-roczna-za-2025-rok-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Informacja o ruchomościach sprzedanych w 2024 r. w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
+      "url": "https://www.gov.pl/web/ias-bialystok/informacja-o-ruchomosciach-sprzedanych-w-2024-r-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=3"
     },
     {
       "region": "Pomorskie",
@@ -6885,22 +8625,1722 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Licytacja wodzisławskich brylantów odwołana",
-      "url": "https://www.slaskie.kas.gov.pl/web/ias-katowice/licytacja-wodzislawskich-brylantow-odwolana",
-      "category": "Inne ruchomości",
-      "type": "Odwołanie",
+      "title": "I licytacja nieruchomości położonej w Częstochowie, ul. Witaminowa 6A",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-czestochowie-ul-witaminowa-6a",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Wodzisławskie brylanty. Z gruzowiska na licytację urzędu skarbowego",
-      "url": "https://www.slaskie.kas.gov.pl/web/ias-katowice/wodzislawskie-brylanty-z-gruzowiska-na-licytacje-urzedu-skarbowego",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
+      "title": "II licytacja części nieruchomości położonej w Toszku w pobliżu ul. Gliwickiej (działki nr 466/73, 487/73, 493/73) oraz w Pisarzowicach (działka nr 8/1)",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-czesci-nieruchomosci-polozonej-w-toszku-w-poblizu-ul-gliwickiej-dzialki-nr-46673-48773-49373-oraz-w-pisarzowicach-dzialka-nr-81",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.slaskie.kas.gov.pl/izba-administracji-skarbowej-w-katowicach/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Toszku przy ul. Bocznej (działka nr 559/52 )",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-toszku-przy-ul-bocznej-dzialka-nr-55952-",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "III Licytacja nieruchomości położonej w Chełmie Śląskim przy ul. Czerniny",
+      "url": "https://www.gov.pl/web/ias-katowice/iii-licytacja-nieruchomosci-polozonej-w-chelmie-slaskim-przy-ul-czerniny",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Wodzisławiu Śląskim w rejonie ul. ks. Kardynała Bolesława Kominka (działka nr 3947/126)",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-wodzislawiu-slaskim-w-rejonie-ul-ks-kardynala-boleslawa-kominka-dzialka-nr-3947126",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Bielsku-Białej, ul. Gołębia 46",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-ul-golebia-46",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy kombi Fiat Doblo",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-kombi-fiat-doblo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w w miejscowości Korzonek, gm. Konopiska",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-w-miejscowosci-korzonek-gm-konopiska",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja udziału 2/6 części w nieruchomości położonej w Kłomnicach, ul. Targowa 7",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-udzialu-26-czesci-w-nieruchomosci-polozonej-w-klomnicach-ul-targowa-7",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości 1/2 udziału w nieruchomości położonej w miejscowości Zawiercie",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-12-udzialu-w-nieruchomosci-polozonej-w-miejscowosci-zawiercie",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pyskowicach przy ul. Szopena Bocznej 1/III/6",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pyskowicach-przy-ul-szopena-bocznej-1iii6",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "III licytacja nieruchomości położonych w Rybniku przy ulicy Gołębia (działki nr 1649/83, 1652/82 i 1655/82).",
+      "url": "https://www.gov.pl/web/ias-katowice/iii-licytacja-nieruchomosci-polozonych-w-rybniku-przy-ulicy-golebia-dzialki-nr-164983-165282-i-165582",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Zawierciu, ul. Okólna 10",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-zawierciu-ul-okolna-10",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Jaworzynce",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-jaworzynce",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Bielsku-Białej przy ul. Antycznej 36",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-antycznej-36",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Maksymiliana Chroboka 16/9",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-maksymiliana-chroboka-169",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód ciężarowy furgon Volkswagen Transporter",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-furgon-volkswagen-transporter",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Będzinie, ul. Bursztynowa 5",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-bedzinie-ul-bursztynowa-5",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Bystrzańska 114",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-bystrzanska-114",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Harbutowicach (działka nr 269/3)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-harbutowicach-dzialka-nr-2693",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Olsztynie (działka nr 2762/6)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-olsztynie-dzialka-nr-27626",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja udziału 1/2 w nieruchomości położonej w Ustroniu przy ulicy Katowickiej",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-udzialu-12-w-nieruchomosci-polozonej-w-ustroniu-przy-ulicy-katowickiej",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonych w miejscowości. Drochlin",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonych-w-miejscowosci-drochlin",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Zawiercie - Blanowice, ulica Gliniana 43",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zawiercie--blanowice-ulica-gliniana-43",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - koparko-ładowarka JCB 3CX/SUPER",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---koparko-ladowarka-jcb-3cxsuper",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Drogomyślu",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-drogomyslu",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 2 samochody osobowe Fiat Fiorino",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---2-samochody-osobowe-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości 1/2 udziału (działka nr 1303/1) oraz 1/8 udziału (działka nr 1306/1) w nieruchomościach położonych w Mikołowie przy ulicy Plebiscytowej",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-12-udzialu-dzialka-nr-13031-oraz-18-udzialu-dzialka-nr-13061-w-nieruchomosciach-polozonych-w-mikolowie-przy-ulicy-plebiscytowej",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy BMW X1 SDRIVE 181",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-bmw-x1-sdrive-181",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód Volkswagen Passat",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-volkswagen-passat",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bełku przy ulicy Karola Miarki 45",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-belku-przy-ulicy-karola-miarki-45",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Skrzetuskiego 18",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-skrzetuskiego-18",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód ciężarowy van Renault Master",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-van-renault-master",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Volkswagen Golf",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-volkswagen-golf2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja udziału 1/2 w nieruchomości położonej w Częstochowie, ul. Czartoryskiego",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-udzialu-12-w-nieruchomosci-polozonej-w-czestochowie-ul-czartoryskiego",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w miejscowości Koniaków",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-miejscowosci-koniakow",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Gilowice",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-gilowice",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 2 samochody ciężarowe oraz 1 samochód osobowy",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---2-samochody-ciezarowe-oraz-1-samochod-osobowy",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Vectra (sedan)",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-vectra-sedan",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "III licytacja nieruchomości położonej w Sosnowcu, obręb 0005, Ostrowy Górnicze",
+      "url": "https://www.gov.pl/web/ias-katowice/iii-licytacja-nieruchomosci-polozonej-w-sosnowcu-obreb-0005-ostrowy-gornicze",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Fiat Fiorino",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "III licytacja nieruchomości położonej w Częstochowie, ul. Meliorantów i ul. Połaniecka",
+      "url": "https://www.gov.pl/web/ias-katowice/iii-licytacja-nieruchomosci-polozonej-w-czestochowie-ul-meliorantow-i-ul-polaniecka",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód ciężarowy van Peugeot Partner",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-ciezarowy-van-peugeot-partner",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Volkswagen Golf",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-volkswagen-golf",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja udziału 1/2 w nieruchomości położonej w miejscowości Witkowice, ul. Wąska 8; ul. Polna",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-udzialu-12-w-nieruchomosci-polozonej-w-miejscowosci-witkowice-ul-waska-8-ul-polna",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód Skoda Rapid",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-skoda-rapid",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Opel Meriva",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-opel-meriva",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Sosnowcu, obręb Porąbka (działka nr 263)",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-sosnowcu-obreb-porabka-dzialka-nr-263",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Sosnowcu, obręb Kazimierz (działka nr 1303)",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-sosnowcu-obreb-kazimierz-dzialka-nr-1303",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Chrysler 300C",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-chrysler-300c",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Jeep Renegade",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-jeep-renegade",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Mercedes A 160",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-mercedes-a-160",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Astra",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-astra2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Mercedes A170",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-mercedes-a170",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - ciągnik rolniczy JOHN DEERE",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---ciagnik-rolniczy-john-deere",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w gminie Świerklaniec, przy ulicy Kościelnej 40",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-gminie-swierklaniec-przy-ulicy-koscielnej-40",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Mercedes -Benz A 160L",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-mercedes--benz-a-160l",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód ciężarowy - wywrotka Renault Mascott",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy---wywrotka-renault-mascott",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Opel Astra",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-opel-astra2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Volvo S40 Sedan",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-volvo-s40-sedan",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Fiat Seicento",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-seicento",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja udziału 3/4 w nieruchomości położonej w miejscowości Łojki przy ul. Długiej 71",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-udzialu-34-w-nieruchomosci-polozonej-w-miejscowosci-lojki-przy-ul-dlugiej-71",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Częstochowie, ul. Jurajska 18/20",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-czestochowie-ul-jurajska-1820",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Ford Focus kombi",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-ford-focus-kombi",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Vectra-C Diesel",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-vectra-c-diesel",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Peugeot 206+",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-peugeot-206",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - motocykl SUZUKI BURGMAN",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---motocykl-suzuki-burgman",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy VOLKSWAGEN POLO",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-volkswagen-polo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - ciągnik rolniczy CFMOTO, CFORCE 600",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---ciagnik-rolniczy-cfmoto-cforce-600",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej przy ul. Głównej 188 oraz ul. Tatrzańskiej w Częstochowie",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-przy-ul-glownej-188-oraz-ul-tatrzanskiej-w-czestochowie",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Audi A3",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-audi-a4",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - biżuteria złota i diamenty",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---bizuteria-zlota-i-diamenty",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 2 samochody ciężarowe",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---2-samochody-ciezarowe",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - odzież i obuwie użytkowe",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---odziez-i-obuwie-uzytkowe",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Audi A5",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-audi-a5",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 2 samochody ciężarowe oraz 2 samochody osobowe",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---2-samochody-ciezarowe-oraz-2-samochody-osobowe",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Fiat Doblo",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-doblo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Insignia",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-insignia",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód ciężarowy Fiat Fiorino",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Mazda 6 Kombi",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-mazda-6-kombi",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Vectra oraz skuter PIAGGIO X9",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-vectra-oraz-skuter-piaggio-x9",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - rower Jubilat 2",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---rower-jubilat-2",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Będzinie",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bedzinie",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w miejscowości Wysoka Lelowska",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-miejscowosci-wysoka-lelowska",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja udziału 1/2 w nieruchomości położonej w Częstochowie, Aleja Pokoju 6 m 34",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-udzialu-12-w-nieruchomosci-polozonej-w-czestochowie-aleja-pokoju-6-m-34",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Czerwionce-Leszczynach przy ulicy Odrodzenia 25",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-czerwionce-leszczynach-przy-ulicy-odrodzenia-25",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - ciągnik Ursus",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---ciagnik-ursus",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Nissan Qashqai",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-nissan-qashqai",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w sołectwie Wieszowa, przy ulicy Racławickiej",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-solectwie-wieszowa-przy-ulicy-raclawickiej",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - skuter Yamaha",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---skuter-yamaha",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Meriva",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-meriva",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Zafira",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-zafira",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Citroen C5",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-citroen-c5",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Fiat Bravo",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-fiat-bravo",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 2 samochody ciężarowe RENAULT PREMIUM",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---2-samochody-ciezarowe-renault-premium",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - motorower/skuter KYMCO Super 8",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---motorowerskuter-kymco-super-8",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Renault Megane Scenic",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-renault-megane-scenic2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód Fiat Panda",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-fiat-panda",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości 2/3 udziału w nieruchomości położonej w Zawierciu (Kromołów)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-23-udzialu-w-nieruchomosci-polozonej-w-zawierciu-kromolow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Zawierciu przy ulicy Dmowskiego 9/10",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zawierciu-przy-ulicy-dmowskiego-910",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Hyundai i30",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-hyundai-i31",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy CITROEN C4 oraz 2 samochody ciężarowe CITROEN BERLINGO",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-citroen-c4-oraz-2-samochody-ciezarowe-citroen-berlingo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Renault Scenic",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-renault-scenic",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód ciężarowy Citroen Nemo",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-ciezarowy-citroen-nemo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód TOYOTA RAV 4",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-toyota-rav-4",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochodowa przyczepa lekka ciężarowa",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochodowa-przyczepa-lekka-ciezarowa",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja licytacja nieruchomości położonej w Gliwicach przy ul. Witkiewicza 20a",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-licytacja-nieruchomosci-polozonej-w-gliwicach-przy-ul-witkiewicza-20a",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - walec drogowy WACKER oraz ładowarka KOMATSU",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---walec-drogowy-wacker-oraz-ladowarka-komatsu",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy BMW X6",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-bmw-x6",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Saab",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-saab",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód Volkswagen New Beetle",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-volkswagen-new-beetle",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Ford Focus",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-ford-focus2",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód ciężarowy Fiat Doblo",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-ciezarowy-fiat-doblo",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości w Sopotni Małej",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-w-sopotni-malej",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Renault Trafic",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-renault-trafic",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód ciężarowy FIAT DUCATO",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-fiat-ducato",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Volkswagen Golf",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-volkswagen-golf",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=12"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - naczepa ciężarowa JANMIL",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---naczepa-ciezarowa-janmil",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie, Al. Armii Krajowej 66",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-al-armii-krajowej-66",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - 1/2 udziału w samochodzie Volvo V50",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---12-udzialu-w-samochodzie-volvo-v50",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żabnicy",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zabnicy",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja udziału 1/4 w nieruchomości położonej w Rudzie Śląskiej przy ul. Szyb Andrzeja 97 (udział nr 3)",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-udzialu-14-w-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-szyb-andrzeja-97-udzial-nr-3",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy BMW 318",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-bmw-318",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie, Grabówka",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-grabowka",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 43",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-43",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 47",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-47",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=13"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 34",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-34",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 41",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-41",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód Van Volkswagen CADDY",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-van-volkswagen-caddy2",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Skoda Kamiq",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-skoda-kamiq",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód ciężarowy Mercedes-Benz ML270CDI",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-ciezarowy-mercedes-benz-ml270cdi",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód Fiat Croma",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-fiat-croma",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy MERCEDES-BENZ A140",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-mercedes-benz-a140",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rybniku przy ul. Małachowskiego 130",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rybniku-przy-ul-malachowskiego-130",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Katowicach przy ulicy Tysiąclecia 86 „B”",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-katowicach-przy-ulicy-tysiaclecia-86-b",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=14"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Masłońskie ul. Letniskowa 50",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-maslonskie-ul-letniskowa-50",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Myszkowie ul. Pawia 87",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-myszkowie-ul-pawia-87",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Węglowa 11",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-weglowa-11",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, obręb Rój",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-obreb-roj",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Górnicza",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-gornicza",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Górnicza 8",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-gornicza-8",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie, Brzeziny Małe",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-brzeziny-male",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Kopalni Karol",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-kopalni-karol",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Kopalni Karol 3",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-kopalni-karol-3",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Bytomskiej i ul. Kopalni Karol 3 (działki nr 3011/116 i 1414/48 oraz budynki i urządzenia)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-bytomskiej-i-ul-kopalni-karol-3-dzialki-nr-3011116-i-141448-oraz-budynki-i-urzadzenia",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Korzonek, gm. Konopiska",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-korzonek-gm-konopiska",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Boronów",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-boronow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości udziału 1/2 w nieruchomości położonej ul. Polna, Wrzosowa, gm. Poczesna",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-udzialu-12-w-nieruchomosci-polozonej-ul-polna-wrzosowa-gm-poczesna",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Koszęcin, ul. Korczaka 5 m. 2",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-koszecin-ul-korczaka-5-m-2",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Panoszów",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-panoszow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Solarnia",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-solarnia",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Piasek, ul. Wolności 12",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-piasek-ul-wolnosci-12",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w miejscowości Chwostek, Plac Kopernika 49 m. 2",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-chwostek-plac-kopernika-49-m-2",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=16"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowania wartości nieruchomości położonej w Woźnikach, ul. Słoneczna 11",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowania-wartosci-nieruchomosci-polozonej-w-woznikach-ul-sloneczna-11",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=17"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
+      "url": "https://www.gov.pl/web/ias-katowice/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji---rok-2025",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=17"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "NIERUCHOMOŚĆ GRUNTOWA POŁ. W MIEJSCOWOŚCI GÓRKI SZCZUKOWSKIE I SZCZUKOWICE O POW. 1,4100 HA - OPIS I OSZACOWANIE",
+      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-gruntowa-pol-w-miejscowosci-gorki-szczukockie-i-szczukowice-o-pow-14100-ha-kw-nr-ki1l000637292---opis-i-oszacowanie",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "NIERUCHOMOŚĆ KIELCE - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-kielce---i-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "OPIS I OSZACOWANIE WARTOŚCI NIERUCHOMOŚCI - DOBRÓW GM. TUCZĘPY",
+      "url": "https://www.gov.pl/web/ias-kielce/opis-i-oszacowanie-wartosci-nieruchomosci---dobrow-gm-tuczepy",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "NIERUCHOMOŚĆ GRUNTOWA POŁOŻONA W MIEJSCOWOŚCI BRODY GM. KOŃSKIE - III licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-gruntowa-polozona-w-miejscowosci-brody-gm-konskie---iii-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "LOKAL MIESZKLANY W KIELCACH O POW. 43M2 - III licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/lokal-mieszklany-w-kielcach-o-pow-43m2---iii-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "SKODA FABIA - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/skoda-fabia---i-licytacja5",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "HONDA JAZZ - II licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/honda-jazz---ii-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "VOLKSWAGEN PASSAT - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/volkswagen-passat---i-licytacja6",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "MOTOCYKL HONDA - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/motocykl-honda---i-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "HYUNDAI i40 - II licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/hyundai-i40---ii-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "BMW 118D- I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/bmw-118d--i-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "MERCEDES-BENZ SPRINTER 316 CDI AMBULANS - II Licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/obwieszczenie-naczelnika-us-w-pinczowie-o-ii-licymercedes-benz-sprinter-316-cdi-ambulans",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "AUDI A4 - I Licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/audi-a4---i-licytacja5",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "SCANIA R400 E5 - II Licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/scania-r400-e5---ii-licytacja",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "MERCEDES - BENZ 1836 ACTROS E6 - II Licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/mercedes---benz-1836-actros-e6---ii-licytacja",
+      "category": "Pojazdy",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
+      "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2"
     },
     {
       "region": "Warmińsko-Mazurskie",
@@ -7515,7 +10955,7 @@
     {
       "region": "Warmińsko-Mazurskie",
       "city": "Olsztyn",
-      "title": "ęcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
+      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
       "url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4jLy/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji-1?redirect=https%3A%2F%2Fwww.warminsko-mazurskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-olsztynie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4jLy%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4jLy_advancedSearch%3Dfalse%26_101_INSTANCE_4jLy_keywords%3D%26_101_INSTANCE_4jLy_delta%3D20%26_101_INSTANCE_4jLy_cur%3D4%26_101_INSTANCE_4jLy_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -7551,16 +10991,6 @@
       "type": "I licytacja",
       "date": "24.03.2026",
       "source_url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4jLy&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4jLy_delta=20&_101_INSTANCE_4jLy_keywords=&_101_INSTANCE_4jLy_advancedSearch=false&_101_INSTANCE_4jLy_andOperator=true&cur=4"
-    },
-    {
-      "region": "Warmińsko-Mazurskie",
-      "city": "Olsztyn",
-      "title": "Zasady sprzedaży licytacyjnej",
-      "url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4jLy/content/zasady-sprzedazy-licytacyjnej?redirect=https%3A%2F%2Fwww.warminsko-mazurskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-olsztynie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4jLy%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4jLy_advancedSearch%3Dfalse%26_101_INSTANCE_4jLy_keywords%3D%26_101_INSTANCE_4jLy_delta%3D20%26_101_INSTANCE_4jLy_cur%3D8%26_101_INSTANCE_4jLy_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.warminsko-mazurskie.kas.gov.pl/izba-administracji-skarbowej-w-olsztynie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4jLy&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4jLy_delta=20&_101_INSTANCE_4jLy_keywords=&_101_INSTANCE_4jLy_advancedSearch=false&_101_INSTANCE_4jLy_andOperator=true&cur=8"
     },
     {
       "region": "Wielkopolskie",
@@ -8335,7 +11765,7 @@
     {
       "region": "Zachodniopomorskie",
       "city": "Szczecin",
-      "title": "ęcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
+      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji-6?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_mKP7_advancedSearch%3Dfalse%26_101_INSTANCE_mKP7_keywords%3D%26_101_INSTANCE_mKP7_delta%3D20%26_101_INSTANCE_mKP7_cur%3D3%26_101_INSTANCE_mKP7_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -8344,24 +11774,26 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 3,
+    "Dolnośląskie": 53,
     "Kujawsko-Pomorskie": 53,
     "Lubelskie": 100,
     "Lubuskie": 59,
-    "Łódzkie": 1,
+    "Łódzkie": 67,
     "Małopolskie": 73,
     "Mazowieckie": 255,
     "Opolskie": 33,
-    "Podlaskie": 1,
+    "Podkarpackie": 30,
+    "Podlaskie": 29,
     "Pomorskie": 110,
-    "Śląskie": 2,
-    "Warmińsko-Mazurskie": 66,
+    "Śląskie": 156,
+    "Świętokrzyskie": 16,
+    "Warmińsko-Mazurskie": 65,
     "Wielkopolskie": 20,
     "Zachodniopomorskie": 58
   },
   "by_category": {
-    "Inne ruchomości": 133,
-    "Nieruchomości": 364,
-    "Pojazdy": 337
+    "Inne ruchomości": 175,
+    "Nieruchomości": 503,
+    "Pojazdy": 499
   }
 }
