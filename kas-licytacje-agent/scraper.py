@@ -1,9 +1,8 @@
 """
-Scraper licytacji KAS v6
-- Dla kas.gov.pl: odkrywa wszystkie US z menu, wchodzi na stronę każdego US,
-  szuka tam linku do licytacji i go scrapuje
-- Dla gov.pl: IAS już agreguje wszystko
-- Paginacja + globalna deduplication
+Scraper licytacji KAS v7 - kompletny
+- gov.pl: paginacja ?page=N&size=10, parsowanie artykułów
+- kas.gov.pl: odkrywa wszystkie US z menu, wchodzi na każdy osobno
+- Globalna deduplication, pełna paginacja
 """
  
 import requests
@@ -27,6 +26,7 @@ IAS_OFFICES = [
         "region": "Dolnośląskie", "city": "Wrocław",
         "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-wroclaw",
     },
     {
         "region": "Kujawsko-Pomorskie", "city": "Bydgoszcz",
@@ -47,6 +47,7 @@ IAS_OFFICES = [
         "region": "Łódzkie", "city": "Łódź",
         "url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-lodz",
     },
     {
         "region": "Małopolskie", "city": "Kraków",
@@ -67,11 +68,13 @@ IAS_OFFICES = [
         "region": "Podkarpackie", "city": "Rzeszów",
         "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-rzeszow",
     },
     {
         "region": "Podlaskie", "city": "Białystok",
         "url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-bialystok",
     },
     {
         "region": "Pomorskie", "city": "Gdańsk",
@@ -82,11 +85,13 @@ IAS_OFFICES = [
         "region": "Śląskie", "city": "Katowice",
         "url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-katowice",
     },
     {
         "region": "Świętokrzyskie", "city": "Kielce",
         "url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach",
         "base_url": "https://www.gov.pl", "system": "govpl",
+        "ias_slug": "ias-kielce",
     },
     {
         "region": "Warmińsko-Mazurskie", "city": "Olsztyn",
@@ -107,7 +112,7 @@ IAS_OFFICES = [
  
 CONTENT_KEYWORDS = [
     "licytacj", "sprzedaż", "sprzedaz", "ruchom", "nieruchom",
-    "obwieszczen", "zawiadomien", "przetarg",
+    "obwieszczen", "zawiadomien", "przetarg", "opis i oszacow",
     "samochód", "samochod", "pojazd", "mieszkan", "działk",
     "grunt", "lokal", "maszyn", "naczepa", "przyczepa",
     "motocykl", "ciągnik", "traktor", "autobus", "ciężar",
@@ -117,7 +122,7 @@ CONTENT_KEYWORDS = [
     "nissan", "volvo", "dacia", "kawasaki", "yamaha", "suzuki",
 ]
  
-NAV_SKIP = [
+NAV_SKIP_STARTS = [
     "Przejdź do", "Mapa strony", "Wersja kontrastowa",
     "Izba Administracji", "Urząd Celno", "Wiadomości",
     "Aktualności", "Organizacja", "Kierownictwo", "Regulamin",
@@ -129,7 +134,10 @@ NAV_SKIP = [
     "Ogłoszenia", "Redakcja", "Depozyty", "Nabór",
     "Zbędne", "Szkolenia", "Oferty likwidacyjne",
     "Umów wizytę", "Zgłoś", "Przydatne", "Zasady",
-    "Skargi", "Stan spraw", "Rejestr",
+    "Skargi", "Stan spraw", "Rejestr", "Logowanie",
+    "Usługi dla", "Profil zaufany", "Baza wiedzy",
+    "Co robimy", "Załatw sprawę", "Jak załatwić",
+    "O izbie", "Informacje o izbie", "Struktura",
 ]
  
  
@@ -138,10 +146,12 @@ def is_content(title):
  
  
 def is_nav(title):
-    return any(title.startswith(s) for s in NAV_SKIP)
+    t = title.strip()
+    return any(t.startswith(s) for s in NAV_SKIP_STARTS) or len(t) < 15
  
  
-def clean_title(raw):
+def clean_title_kaspl(raw):
+    """Wyciąga tytuł z 'Czytaj więcej o TYTUŁ»' lub zwraca jak jest."""
     t = raw.strip().rstrip("»›> ").strip()
     for prefix in ["Czytaj więcej o ", "Czytaj wiecej o ", "czytaj więcej o "]:
         if t.lower().startswith(prefix.lower()):
@@ -162,16 +172,17 @@ def detect_category(title):
                               "mazda", "nissan", "volvo", "suzuki", "dacia",
                               "sprinter", "transit", "vivaro", "boxer", "ducato",
                               "kangoo", "berlingo", "citroen", "kawasaki", "yamaha",
-                              "ciężar", "autobus", "bus ", "van "]):
+                              "ciężar", "autobus", "bus ", "van ", "naczepa",
+                              "przyczepa"]):
         return "Pojazdy"
     return "Inne ruchomości"
  
  
 def detect_type(title):
     tl = title.lower()
-    if ("pierwsz" in tl or "i licytacj" in tl) and "licytacj" in tl:
+    if ("pierwsz" in tl or " i licytacj" in tl) and "licytacj" in tl:
         return "I licytacja"
-    if ("drug" in tl or "ii licytacj" in tl) and "licytacj" in tl:
+    if ("drug" in tl or " ii licytacj" in tl) and "licytacj" in tl:
         return "II licytacja"
     if "trzeci" in tl and "licytacj" in tl:
         return "III licytacja"
@@ -213,82 +224,128 @@ def extract_date(title):
  
 def fetch_html(session, url):
     try:
-        resp = session.get(url, headers=HEADERS, timeout=20)
+        resp = session.get(url, headers=HEADERS, timeout=25)
         resp.raise_for_status()
         resp.encoding = resp.apparent_encoding
         return resp.text
-    except Exception:
+    except Exception as e:
+        print(f"    ⚠️ Błąd HTTP: {e}")
         return None
  
  
-def find_licytacje_link(soup, base_url):
-    """
-    Szuka na stronie US linku do podstrony z licytacjami.
-    Zwraca URL lub None.
-    """
-    keywords = ["licytacj", "obwieszczen"]
-    for a_tag in soup.find_all("a", href=True):
-        text = a_tag.get_text(strip=True).lower()
-        href = a_tag.get("href", "")
-        if any(kw in text for kw in keywords) or any(kw in href for kw in keywords):
-            if href.startswith("http"):
-                return href
-            elif href.startswith("/"):
-                return base_url + href
-    return None
+# ══════════════════════════════════════════════════════════════════
+# PARSER GOV.PL
+# ══════════════════════════════════════════════════════════════════
  
- 
-def get_us_list(session, ias_url, base_url):
+def parse_govpl_articles(html, base_url, ias_slug):
     """
-    Pobiera stronę IAS i wyciąga listę (nazwa, url_homepage) wszystkich US.
+    Parsuje stronę gov.pl z listą artykułów.
+    Zwraca listę (title, url) i obiekt soup.
     """
-    html = fetch_html(session, ias_url)
-    if not html:
-        return []
- 
     soup = BeautifulSoup(html, "html.parser")
-    us_list = []
-    seen_hrefs = set()
+    results = []
  
+    # Artykuły na gov.pl są w liście <ul> lub <ol> z linkami
+    # Każdy artykuł to <li><a href="/web/ias-X/slug">Tytuł</a></li>
     for a_tag in soup.find_all("a", href=True):
         href = a_tag.get("href", "").strip()
-        text = a_tag.get_text(strip=True)
+        title = a_tag.get_text(strip=True)
  
-        # Szukamy linków do US — zawierają "urzad-skarbowy" w href
-        if not re.search(r"urzad.skarbowy", href, re.IGNORECASE):
+        if not title or len(title) < 15:
             continue
-        # Pomijamy urzędy celno-skarbowe
-        if "celno" in href.lower():
+        if is_nav(title):
             continue
-        # Pomijamy linki do podstron (mają więcej niż jeden segment po basename)
+        if not is_content(title):
+            continue
+ 
+        # Linki artykułów na gov.pl mają format /web/ias-X/slug-artykulu
+        # Muszą zawierać slug IAS i być dłuższe niż sama strona główna
+        if ias_slug not in href:
+            continue
+        # Pomiń link do samej strony licytacji (menu)
+        if href.endswith("/obwieszczenia-o-licytacjach"):
+            continue
+ 
+        title = title.rstrip("»›> ").strip()
+ 
         if href.startswith("http"):
-            path = href.replace(base_url, "").strip("/")
+            full_url = href
         elif href.startswith("/"):
-            path = href.strip("/")
+            full_url = base_url + href
         else:
             continue
  
-        segments = [s for s in path.split("/") if s]
-        # Chcemy tylko 1-segmentowe linki (homepage US), nie podstrony
-        if len(segments) != 1:
+        results.append((title, full_url))
+ 
+    return results, soup
+ 
+ 
+def get_max_page_govpl(soup):
+    """Wykrywa liczbę stron na gov.pl z linków paginacji."""
+    max_page = 1
+    for a_tag in soup.find_all("a", href=True):
+        href = a_tag.get("href", "")
+        m = re.search(r"[?&]page=(\d+)", href)
+        if m:
+            p = int(m.group(1))
+            if p > max_page:
+                max_page = p
+    return max_page
+ 
+ 
+def scrape_govpl(session, base_url, start_url, ias_slug, region, city, seen_urls, seen_titles):
+    """Scrapuje wszystkie strony gov.pl dla danej IAS."""
+    listings = []
+ 
+    # Pierwsza strona — wykryj max liczbę stron
+    html = fetch_html(session, start_url)
+    if not html:
+        return listings
+ 
+    raw, soup = parse_govpl_articles(html, base_url, ias_slug)
+    max_page = get_max_page_govpl(soup)
+    print(f"    📄 gov.pl — wykryto {max_page} stron")
+ 
+    # Dodaj wyniki ze strony 1
+    for title, url in raw:
+        title_key = re.sub(r"\s+", " ", title.lower().strip())
+        if url not in seen_urls and title_key not in seen_titles:
+            seen_urls.add(url)
+            seen_titles.add(title_key)
+            listings.append({
+                "region": region, "city": city, "title": title, "url": url,
+                "category": detect_category(title), "type": detect_type(title),
+                "date": extract_date(title), "source_url": start_url,
+            })
+ 
+    # Pobierz pozostałe strony
+    for page in range(2, max_page + 1):
+        page_url = f"{start_url}?page={page}&size=10"
+        time.sleep(0.4)
+        html = fetch_html(session, page_url)
+        if not html:
             continue
+        raw, _ = parse_govpl_articles(html, base_url, ias_slug)
+        for title, url in raw:
+            title_key = re.sub(r"\s+", " ", title.lower().strip())
+            if url not in seen_urls and title_key not in seen_titles:
+                seen_urls.add(url)
+                seen_titles.add(title_key)
+                listings.append({
+                    "region": region, "city": city, "title": title, "url": url,
+                    "category": detect_category(title), "type": detect_type(title),
+                    "date": extract_date(title), "source_url": page_url,
+                })
  
-        if href.startswith("http"):
-            full_url = href.rstrip("/")
-        else:
-            full_url = base_url + "/" + segments[0]
+    return listings
  
-        if full_url in seen_hrefs:
-            continue
-        seen_hrefs.add(full_url)
  
-        name = text.strip() if text else segments[0]
-        us_list.append({"name": name, "homepage": full_url})
- 
-    return us_list
- 
+# ══════════════════════════════════════════════════════════════════
+# PARSER KAS.GOV.PL
+# ══════════════════════════════════════════════════════════════════
  
 def parse_kaspl_page(html, base_url):
+    """Parsuje stronę kas.gov.pl. Zwraca (wyniki, soup)."""
     soup = BeautifulSoup(html, "html.parser")
     content = (
         soup.find(id="main-content")
@@ -303,7 +360,7 @@ def parse_kaspl_page(html, base_url):
             continue
         if is_nav(raw):
             continue
-        title = clean_title(raw)
+        title = clean_title_kaspl(raw)
         if not title or not is_content(title):
             continue
         if href.startswith("http"):
@@ -316,30 +373,8 @@ def parse_kaspl_page(html, base_url):
     return results, soup
  
  
-def parse_govpl_page(html, base_url):
-    soup = BeautifulSoup(html, "html.parser")
-    main = soup.find("main") or soup.find(id=re.compile(r"main|content")) or soup.body
-    results = []
-    for a_tag in main.find_all("a", href=True):
-        href = a_tag.get("href", "").strip()
-        title = a_tag.get_text(strip=True).rstrip("»›> ").strip()
-        if not title or len(title) < 10:
-            continue
-        if is_nav(title):
-            continue
-        if not is_content(title):
-            continue
-        if href.startswith("http"):
-            full_url = href
-        elif href.startswith("/"):
-            full_url = base_url + href
-        else:
-            continue
-        results.append((title, full_url))
-    return results, soup
- 
- 
 def get_next_kaspl(soup, base_url, page):
+    """Zwraca URL następnej strony lub None."""
     for a_tag in soup.find_all("a", href=True):
         text = a_tag.get_text(strip=True).lower().strip()
         href = a_tag.get("href", "")
@@ -351,21 +386,10 @@ def get_next_kaspl(soup, base_url, page):
     return None
  
  
-def get_next_govpl(soup, base_url, current_url, page):
-    for a_tag in soup.find_all("a", href=True):
-        text = a_tag.get_text(strip=True).lower()
-        href = a_tag.get("href", "")
-        if text in ["następna", "next", "›", "»"]:
-            if href.startswith("http"):
-                return href
-            return base_url + href
-    return None
- 
- 
-def scrape_single_url(session, url, base_url, system, region, city, seen_urls, seen_titles):
-    """Scrapuje jeden URL ze wszystkimi stronami paginacji."""
+def scrape_kaspl_url(session, start_url, base_url, region, city, seen_urls, seen_titles):
+    """Scrapuje jeden URL kas.gov.pl ze wszystkimi stronami."""
     listings = []
-    current_url = url
+    current_url = start_url
     page = 1
     empty_streak = 0
  
@@ -373,28 +397,19 @@ def scrape_single_url(session, url, base_url, system, region, city, seen_urls, s
         html = fetch_html(session, current_url)
         if not html:
             break
- 
-        if system == "govpl":
-            raw, soup = parse_govpl_page(html, base_url)
-        else:
-            raw, soup = parse_kaspl_page(html, base_url)
+        raw, soup = parse_kaspl_page(html, base_url)
  
         found = 0
-        for title, full_url in raw:
+        for title, url in raw:
             title_key = re.sub(r"\s+", " ", title.lower().strip())
-            if full_url in seen_urls or title_key in seen_titles:
+            if url in seen_urls or title_key in seen_titles:
                 continue
-            seen_urls.add(full_url)
+            seen_urls.add(url)
             seen_titles.add(title_key)
             listings.append({
-                "region":     region,
-                "city":       city,
-                "title":      title,
-                "url":        full_url,
-                "category":   detect_category(title),
-                "type":       detect_type(title),
-                "date":       extract_date(title),
-                "source_url": current_url,
+                "region": region, "city": city, "title": title, "url": url,
+                "category": detect_category(title), "type": detect_type(title),
+                "date": extract_date(title), "source_url": current_url,
             })
             found += 1
  
@@ -405,13 +420,7 @@ def scrape_single_url(session, url, base_url, system, region, city, seen_urls, s
         else:
             empty_streak = 0
  
-        if system == "govpl":
-            next_url = get_next_govpl(soup, base_url, current_url, page)
-            if next_url == current_url:
-                break
-        else:
-            next_url = get_next_kaspl(soup, base_url, page)
- 
+        next_url = get_next_kaspl(soup, base_url, page)
         current_url = next_url
         page += 1
         if current_url:
@@ -420,63 +429,131 @@ def scrape_single_url(session, url, base_url, system, region, city, seen_urls, s
     return listings
  
  
+# ══════════════════════════════════════════════════════════════════
+# ODKRYWANIE URZĘDÓW SKARBOWYCH (KAS.GOV.PL)
+# ══════════════════════════════════════════════════════════════════
+ 
+def discover_all_us(session, ias_url, base_url):
+    """
+    Pobiera stronę IAS i wyciąga linki do WSZYSTKICH Urzędów Skarbowych.
+    Następnie dla każdego US wchodzi na jego stronę i szuka linku do licytacji.
+    Zwraca listę dict: {name, licytacje_url}
+    """
+    html = fetch_html(session, ias_url)
+    if not html:
+        return []
+ 
+    soup = BeautifulSoup(html, "html.parser")
+    us_homepages = {}  # url -> name
+ 
+    for a_tag in soup.find_all("a", href=True):
+        href = a_tag.get("href", "").strip()
+        text = a_tag.get_text(strip=True)
+ 
+        if not re.search(r"urzad.skarbowy", href, re.IGNORECASE):
+            continue
+        if "celno" in href.lower():
+            continue
+ 
+        # Zbuduj URL homepage US
+        if href.startswith("http"):
+            us_url = href.rstrip("/")
+        elif href.startswith("/"):
+            us_url = base_url + href.rstrip("/")
+        else:
+            continue
+ 
+        # Chcemy tylko homepage US — usuń zagnieżdżone ścieżki
+        # Przykład: https://base.kas.gov.pl/urzad-skarbowy-w-x
+        path_after_base = us_url.replace(base_url, "").strip("/")
+        segments = [s for s in path_after_base.split("/") if s]
+ 
+        if not segments:
+            continue
+        # Bierzemy tylko 1-segmentowe (homepage) lub pomijamy głębsze podstrony
+        if len(segments) > 1:
+            continue
+ 
+        us_homepage = base_url + "/" + segments[0]
+        if us_homepage not in us_homepages:
+            us_homepages[us_homepage] = text.strip() or segments[0]
+ 
+    results = []
+    for us_homepage, us_name in us_homepages.items():
+        # Wejdź na stronę US i znajdź link do licytacji
+        time.sleep(0.3)
+        us_html = fetch_html(session, us_homepage)
+        if not us_html:
+            continue
+ 
+        us_soup = BeautifulSoup(us_html, "html.parser")
+        licytacje_url = None
+ 
+        # Szukaj linku do licytacji w nawigacji i treści
+        for a_tag in us_soup.find_all("a", href=True):
+            href = a_tag.get("href", "")
+            text = a_tag.get_text(strip=True).lower()
+            if "licytacj" in href.lower() or "licytacj" in text or "obwieszczen" in href.lower():
+                if href.startswith("http"):
+                    licytacje_url = href
+                elif href.startswith("/"):
+                    licytacje_url = base_url + href
+                if licytacje_url:
+                    break
+ 
+        # Fallback — standardowa ścieżka
+        if not licytacje_url:
+            licytacje_url = us_homepage + "/ogloszenia/obwieszczenia-o-licytacjach"
+ 
+        results.append({"name": us_name, "url": licytacje_url})
+ 
+    return results
+ 
+ 
+# ══════════════════════════════════════════════════════════════════
+# GŁÓWNA FUNKCJA
+# ══════════════════════════════════════════════════════════════════
+ 
 def scrape_ias(session, office, seen_urls, seen_titles):
     all_listings = []
  
     if office["system"] == "govpl":
-        # gov.pl agreguje wszystko — scrapuj tylko IAS
-        print(f"  📥 gov.pl — scrapuję IAS...")
-        listings = scrape_single_url(
-            session, office["url"], office["base_url"],
-            office["system"], office["region"], office["city"],
+        # gov.pl: IAS agreguje wszystko, używamy paginacji ?page=N&size=10
+        print(f"  📥 gov.pl — scrapuję {office['city']}...")
+        listings = scrape_govpl(
+            session, office["base_url"], office["url"],
+            office["ias_slug"], office["region"], office["city"],
             seen_urls, seen_titles
         )
         all_listings.extend(listings)
         print(f"  ✅ {len(listings)} ogłoszeń")
  
     else:
-        # kas.gov.pl — scrapuj IAS + każdy US osobno
- 
-        # 1. Scrapuj stronę zbiorczą IAS
-        print(f"  📥 Scrapuję stronę IAS...")
-        ias_listings = scrape_single_url(
+        # kas.gov.pl: scrapuj IAS + odkryj i scrapuj każdy US
+        print(f"  📥 Scrapuję stronę IAS ({office['city']})...")
+        ias_listings = scrape_kaspl_url(
             session, office["url"], office["base_url"],
-            office["system"], office["region"], office["city"],
+            office["region"], office["city"],
             seen_urls, seen_titles
         )
         all_listings.extend(ias_listings)
         print(f"  ✅ IAS: {len(ias_listings)} ogłoszeń")
  
-        # 2. Pobierz listę wszystkich US w regionie
-        us_list = get_us_list(session, office["url"], office["base_url"])
-        print(f"  🗺️  Znaleziono {len(us_list)} Urzędów Skarbowych")
+        # Odkryj wszystkie US
+        print(f"  🗺️  Odkrywam Urzędy Skarbowe w {office['region']}...")
+        us_list = discover_all_us(session, office["url"], office["base_url"])
+        print(f"  📋 Znaleziono {len(us_list)} US — scrapuję każdy...")
  
-        # 3. Dla każdego US wejdź na jego homepage, znajdź link do licytacji i scrapuj
         for i, us in enumerate(us_list, 1):
-            time.sleep(0.5)
-            # Wejdź na homepage US i znajdź link do licytacji
-            us_html = fetch_html(session, us["homepage"])
-            if not us_html:
-                continue
- 
-            us_soup = BeautifulSoup(us_html, "html.parser")
-            licytacje_url = find_licytacje_link(us_soup, office["base_url"])
- 
-            if not licytacje_url:
-                # Spróbuj standardowej ścieżki jako fallback
-                licytacje_url = us["homepage"].rstrip("/") + "/ogloszenia/obwieszczenia-o-licytacjach"
- 
-            print(f"  📋 US {i}/{len(us_list)}: {us['name']}")
- 
-            us_listings = scrape_single_url(
-                session, licytacje_url, office["base_url"],
-                office["system"], office["region"], us["name"],
+            us_listings = scrape_kaspl_url(
+                session, us["url"], office["base_url"],
+                office["region"], us["name"],
                 seen_urls, seen_titles
             )
             if us_listings:
-                print(f"     → {len(us_listings)} nowych ogłoszeń")
+                print(f"    [{i}/{len(us_list)}] {us['name']}: {len(us_listings)} ogłoszeń")
                 all_listings.extend(us_listings)
-            time.sleep(0.5)
+            time.sleep(0.4)
  
     return all_listings
  
@@ -493,7 +570,7 @@ def run_scraper():
         print(f"\n📌 {office['city']} ({office['region']}) [{office['system']}]")
         listings = scrape_ias(session, office, seen_urls, seen_titles)
         all_listings.extend(listings)
-        print(f"  🏁 Region razem: {len(listings)} ogłoszeń")
+        print(f"  🏁 Region łącznie: {len(listings)} ogłoszeń")
         time.sleep(1)
  
     by_region   = {}
@@ -510,7 +587,7 @@ def run_scraper():
         "by_category": by_category,
     }
  
-    print(f"\n📊 GOTOWE — {len(all_listings)} unikalnych ogłoszeń")
+    print(f"\n📊 GOTOWE — {len(all_listings)} unikalnych ogłoszeń z całej Polski")
     return result
  
  
