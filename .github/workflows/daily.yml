@@ -1,35 +1,36 @@
 name: Pobierz licytacje KAS
-
+ 
 on:
   schedule:
     - cron: '0 6 * * *'
   workflow_dispatch:
-
+ 
 permissions:
   contents: write
   pages: write
   id-token: write
-
+ 
 jobs:
   scrape-and-deploy:
     name: Scraping i generowanie raportu
     runs-on: ubuntu-latest
-
+    timeout-minutes: 60
+ 
     steps:
       - name: Pobierz repozytorium
         uses: actions/checkout@v4
-
+ 
       - name: Skonfiguruj Python 3.11
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
+ 
       - name: Zainstaluj zaleznosci
         run: pip install -r kas-licytacje-agent/requirements.txt
-
+ 
       - name: Uruchom scrapera
         run: cd kas-licytacje-agent && python main.py
-
+ 
       - name: Wyslij raport na GitHub Pages
         run: |
           git config --global user.name "KAS Bot"
