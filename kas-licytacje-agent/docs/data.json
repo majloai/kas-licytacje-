@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-04-11T08:12:24.014226",
-  "total": 1930,
+  "scraped_at": "2026-04-12T08:41:46.906902",
+  "total": 1929,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -325,16 +325,6 @@
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "LICYTACJA ODWOŁANA! Obwieszczenie o I licytacji udziału 9/10 w nieruchomości - grunt oddany w użytkowanie wieczyste, budynek i urządzenie stanowiące odrębną nieruchomość, położonej w gminie Brzeg Dolny, w miejscowości Radecz",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci10",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości (samochód ciężarowy MERCEDES BENZ 814D, rok pr. 1998)",
       "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-samochod-ciezarowy-mercedes-benz-814d-rok-pr-1998",
       "category": "Pojazdy",
@@ -370,7 +360,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -470,7 +460,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -19304,7 +19294,7 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 52,
+    "Dolnośląskie": 51,
     "Kujawsko-Pomorskie": 112,
     "Lubelskie": 185,
     "Lubuskie": 85,
@@ -19322,7 +19312,7 @@
     "Zachodniopomorskie": 92
   },
   "by_category": {
-    "Nieruchomości": 877,
+    "Nieruchomości": 876,
     "Pojazdy": 774,
     "Inne ruchomości": 279
   }
