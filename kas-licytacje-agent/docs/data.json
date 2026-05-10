@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-05-09T07:39:25.351553",
-  "total": 1933,
+  "scraped_at": "2026-05-10T08:02:16.827494",
+  "total": 1936,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -265,50 +265,20 @@
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "I licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,4650 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/i-licytacja-ulamkowej-czesci-n-249-3",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "I licytacja ułamkowej części 1/2 nieruchomości gruntowej niezabudowanej o powierzchni 0,3725 ha, w Gminie Stronie Śląskie, dz. nr 249/4, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/i-licytacja-ulamkowej-czesci-nieruchomosci-tj-udzial",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji ruchomości (dwie wagi elektroniczne)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-dwie-wagi-elektroniczne",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o II licytacji ruchomości (samochód osobowy FORD MONDEO Hatchback, rok pr. 2008)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci-samochod-osobowy-ford-mondeo-hatchback-rok-pr-2008",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości - samochód",
+      "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci---samochod33",
       "category": "Pojazdy",
-      "type": "II licytacja",
+      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji ruchomości (samochód osobowy AUDI A 4 ALLROAD QUATTRO)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-samochod21",
-      "category": "Pojazdy",
-      "type": "I licytacja",
+      "title": "Obwieszczenie o terminie opisu i szacowania nieruchomości gruntowej położonej w Trójcy gm. Zgorzelec",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-szacowania-nieruchomosci-polozonej-w",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
     },
@@ -3705,16 +3675,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Druga licytacja ruchomości: motocykla Daelim",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/druga-licytacja-ruchomosci-motocykla-daelim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "Druga licytacja ruchomości: samochodu osobowego Volkswagen passat kombi",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/druga-licytacja-ruchomosci-samochodu-osobowego-volkswagen-passat-kombi?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
@@ -3906,11 +3866,11 @@
       "region": "Lubuskie",
       "city": "Zielona Góra",
       "title": "Pierwsza licytacja nieruchomości gruntowej niezabudowanej położonej w Górzykowie",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-gorzykowie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-gorzykowie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -4106,11 +4066,11 @@
       "region": "Lubuskie",
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Międzyrzeczu",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D3%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=3"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
     },
     {
       "region": "Lubuskie",
@@ -4571,16 +4531,6 @@
       "type": "Licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zaganiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żarach",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: motocykla Daelim",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/druga-licytacja-ruchomosci-motocykla-daelim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubuskie",
@@ -15055,6 +15005,86 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Skrzetuskiego 18",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-skrzetuskiego-18",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Gilowice",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-gilowice",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie, Grabówka",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-grabowka",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 43",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-43",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 47",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-47",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 34",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-34",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 41",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-41",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=15&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Masłońskie ul. Letniskowa 50",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-maslonskie-ul-letniskowa-50",
       "category": "Nieruchomości",
@@ -15345,16 +15375,6 @@
     {
       "region": "Świętokrzyskie",
       "city": "Kielce",
-      "title": "CITROEN C5 - I Licytacja",
-      "url": "https://www.gov.pl/web/ias-kielce/citroen-c5---i-licytacja2",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
       "title": "ODWOŁANIE I LICYTACJI NIERUCHOMOŚCI (udział 1/2 części w spółdzielczym własnościowym prawie do lokalu mieszkalnego, położonym w Kielcach przy ulicy Raciborskiego 14/24, pow. 46,2 m2)",
       "url": "https://www.gov.pl/web/ias-kielce/odwolanie-i-licytacji-nieruchomosci-udzial-12-czesci-w-spoldzielczym-wlasnosciowym-prawie-do-lokalu-mieszkalnego-polozonego-w-kielcach-przy-ulicy-raciborskiego-1424-pow-462-m2",
       "category": "Nieruchomości",
@@ -15369,6 +15389,16 @@
       "url": "https://www.gov.pl/web/ias-kielce/vw-polo---sprzedaz-z-wolnej-reki",
       "category": "Pojazdy",
       "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
+      "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -19334,10 +19364,10 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 46,
+    "Dolnośląskie": 43,
     "Kujawsko-Pomorskie": 122,
     "Lubelskie": 202,
-    "Lubuskie": 93,
+    "Lubuskie": 91,
     "Łódzkie": 60,
     "Małopolskie": 62,
     "Mazowieckie": 415,
@@ -19345,15 +19375,15 @@
     "Podkarpackie": 49,
     "Podlaskie": 39,
     "Pomorskie": 204,
-    "Śląskie": 154,
+    "Śląskie": 162,
     "Świętokrzyskie": 20,
     "Warmińsko-Mazurskie": 129,
     "Wielkopolskie": 159,
     "Zachodniopomorskie": 108
   },
   "by_category": {
-    "Nieruchomości": 865,
-    "Pojazdy": 805,
-    "Inne ruchomości": 263
+    "Nieruchomości": 871,
+    "Pojazdy": 801,
+    "Inne ruchomości": 264
   }
 }
