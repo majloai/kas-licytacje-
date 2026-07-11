@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-10T09:03:25.312250",
-  "total": 851,
+  "scraped_at": "2026-07-11T07:36:44.810434",
+  "total": 817,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -135,16 +135,6 @@
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "Obwieszczenie o II licytacji ruchomości - samochód",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci---samochod49",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości - samochód",
       "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci---samochod45",
       "category": "Pojazdy",
@@ -171,6 +161,16 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości - samochód",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci---samochod44",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -240,7 +240,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -250,7 +250,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -340,7 +340,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Kujawsko-Pomorskie",
@@ -2915,22 +2915,12 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki od 1.07.2026r. do 10.07.2026r. w godzinach od 10:00 do 12:00 (Ford Fiesta, rok prod. 2009)",
-      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-z-wolnej-reki-od-1072026r-do-10072026r-w-godzinach-od-1000-do-1200-ford-fiesta-rok-prod-2009",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 30.06.2026 do 30.07.2026 r. (95-001 Dzierżązna, nr działki 225/4 gm. Zgierz )",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-30062026-do-30072026-r-95-001-dzierzazna-nr-dzialki-2254-gm-zgierz-",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "30.06.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Łódzkie",
@@ -2971,16 +2961,6 @@
       "type": "II licytacja",
       "date": "23.07.2026",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o sprzedaży z wolnej ręki samochodu SKODA ROOMSTER, od 02.07.2026r  do 10.07.2026r. w Suchej Beskidzkiej",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-sprzedazy-z-wolnej-reki-samochodu-skoda-roomster-od-02-07-2026r-do-10-07-2026r-w-suchej-beskidzkiej?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Małopolskie",
@@ -3176,11 +3156,11 @@
       "region": "Małopolskie",
       "city": "Kraków",
       "title": "Ogólna informacja dla uczestników licytacji ruchomości",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/ogolna-informacja-dla-uczestnikow-licytacji-ruchomosci?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4FbB_advancedSearch%3Dfalse%26_101_INSTANCE_4FbB_keywords%3D%26_101_INSTANCE_4FbB_delta%3D20%26_101_INSTANCE_4FbB_cur%3D2%26_101_INSTANCE_4FbB_andOperator%3Dtrue",
+      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/ogolna-informacja-dla-uczestnikow-licytacji-ruchomosci?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4FbB&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4FbB_delta=20&_101_INSTANCE_4FbB_keywords=&_101_INSTANCE_4FbB_advancedSearch=false&_101_INSTANCE_4FbB_andOperator=true&cur=2"
+      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -5965,16 +5945,6 @@
     {
       "region": "Podlaskie",
       "city": "Białystok",
-      "title": "Skoda Octavia III RS, 2015 r. - pierwsza licytacja.",
-      "url": "https://www.gov.pl/web/ias-bialystok/skoda-octavia-iii-rs-2015-r---pierwsza-licytacja",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
       "title": "Volkswagen Sharan 1.9 TDI 2000 r. Toyota RAV4 2.0 TD 2002 r., Chrysler Voyager 2002 r., - pierwsza licytacja.",
       "url": "https://www.gov.pl/web/ias-bialystok/volkswagen-sharan-19-tdi-2000-r-toyota-rav4-20-td-2002-r-chrysler-voyager-2002-r---pierwsza-licytacja",
       "category": "Pojazdy",
@@ -6070,7 +6040,7 @@
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Podlaskie",
@@ -6395,6 +6365,16 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód ciężarowy Fiat Fiorino",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-ciezarowy-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "I licytacja - samochód ciężarowy skrzynia Volkswagen Transporter",
       "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-skrzynia-volkswagen-transporter",
       "category": "Pojazdy",
@@ -6430,7 +6410,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -6495,6 +6475,26 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "I licytacja - motocykl HONDA CX 500",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---motocykl-honda-cx-500",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - pojazd Mini Motorbike Cross",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---pojazd-mini-motorbike-cross",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "II licytacja - wózek widłowy Toyota",
       "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---wozek-widlowy-toyota",
       "category": "Pojazdy",
@@ -6510,7 +6510,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6520,7 +6520,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6530,7 +6530,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6610,7 +6610,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6620,7 +6620,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6630,7 +6630,7 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6695,26 +6695,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "II Licytacja nieruchomości położonej w miejscowości Łojki przy ul. Długiej 71",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-miejscowosci-lojki-przy-ul-dlugiej-71",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja udziału 1/3 w nieruchomości położonej w Jasienicy (działki nr 1142, 1144)",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-udzialu-13-w-nieruchomosci-polozonej-w-jasienicy-dzialki-nr-1142-1144",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Sprzedaż z wolnej ręki - samochód osobowy Opel Insignia",
       "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-opel-insignia",
       "category": "Pojazdy",
@@ -6725,59 +6705,9 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "II licytacja - samochód osobowy Volkswagen Polo",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-volkswagen-polo",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja - samochód ciężarowy wielozadaniowy Toyota Land Cruiser",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-wielozadaniowy-toyota-land-cruiser",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - 2 samochody Iveco /IPL Eurocargo i Scania/Wecon oraz przyczepa Wielton PC2K",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---2-samochody-iveco-ipl-eurocargo-i-scaniawecon-oraz-przyczepa-wielton-pc2k",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja - samochód osobowy Mercedes-Benz C 180",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-mercedes-benz-c-180",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Sprzedaż z wolnej ręki - samochód osobowy Toyota Avensis",
       "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-toyota-avensis",
       "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - system skanowania laserowego oraz proszki poliamidowe do druku 3D",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---system-skanowania-laserowego-oraz-proszki-poliamidowe-do-druku-3d",
-      "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
@@ -6840,7 +6770,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6850,7 +6780,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6860,7 +6790,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6870,7 +6800,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6940,7 +6870,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6950,7 +6880,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6960,7 +6890,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6970,7 +6900,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -7040,7 +6970,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -7050,7 +6980,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -7060,7 +6990,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -7070,7 +7000,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -7140,7 +7070,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -7150,7 +7080,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -7160,7 +7090,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -7170,7 +7100,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -7305,6 +7235,36 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki - WÓZEK ŁADOWARKA AHLMANN- 5 sierpnia 2026 r. godz. 8:30.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-wozek-ladowarka-ahlmann-5-sierpnia-2026-r-godz-8-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "05.08.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki - samochód MITSUBISHI OUTLANDER - od 13 do 24 lipca 2026 r.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-samochod-mitsubishi-outlander-od-13-do-24-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "24.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki - Motorower BARTON - od 13 lipca 2026 r. od godz. 10:00 do 14 lipca 2026 r. do godz. 10:00",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-motorower-barton-od-13-lipca-2026-r-od-godz-10-00-do-14-lipca-2026-r-do-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "13.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
       "title": "I licytacja - Naczepa ciężarowa KRONE - 10 lipca 2026 roku, godz. 10:00",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/i-licytacja-naczepa-ciezarowa-krone-10-lipca-2026-roku-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
@@ -7335,46 +7295,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód VW PASSAT od 29 czerwca 2026 r....",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-vw-passat-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "29.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód DAEWOO NUBIRA - od 29 czerwca...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-daewoo-nubira-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód OPEL SIGNUM - od 29 czerwca 2026...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-opel-signum-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "29.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja ruchomości: DEKODER TV, LAPTOP - 7 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-ruchomosci-dekoder-tv-laptop-7-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "07.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
       "title": "Druga licytacja ruchomości: samochód OPEL VECTRA - 14 lipca 2026 r. godz. 9:00",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-opel-vectra-14-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
@@ -7390,26 +7310,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "07.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja : PISTOLET PNEUMATYCZNY - 6 lipca 2026 r. godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-pistolet-pneumatyczny-6-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód MERCEDES VITO - od 8 do 22 lipca 2026 r. od godz. 8:00 do godz. 14:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-mercedes-vito-od-8-do-22-lipca-2026-r-od-godz-8-00-do-godz-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "22.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -7485,21 +7385,51 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Druga licytacja ruchomości: WÓZEK INWALIDZKI, TELEFON KOMÓRKOWY - 7 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-wozek-inwalidzki-telefon-komorkowy-7-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
+      "title": "Druga licytacja ruchomości: samochód OPEL ZAFIRA - 14 lipca 2026 r. godz. 10:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-opel-zafira-14-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
       "type": "II licytacja",
-      "date": "07.07.2026",
+      "date": "14.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Pierwsza licytacja ruchomości: PIŁY ELEKTRYCZNE, WIERTARKA, SZLIFIERKA - 2 lipca 2026 r. godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-ruchomosci-pily-elektryczne-wiertarka-szlifierka-2-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
+      "title": "Druga licytacja ruchomości: samochód VOLKSWAGEN PASSAT - 14 lipca 2026 r. godz. 10:30.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-volkswagen-passat-14-lipca-2026-r-godz-10-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "14.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Druga licytacja ruchomości: samochód BMW 318D - 14 lipca 2026 r. godz. 11:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-bmw-318d-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "14.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Zmiana terminu: Opis i oszacowanie nieruchomości: rozpoczęcie 23 czerwca 2026 r. o godz. 9:00, zakończenie 30 WRZEŚNIA 2026 r. o godz. 11:00 - nieruchomości, położonej w Korpysach, oznaczonej numerem...",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/zmiana-terminu-opis-i-oszacowanie-nieruchomosci-rozpoczecie-23-czerwca-2026-r-o-godz-9-00-zakonczenie-30-wrzesnia-2026-r-o-godz-11-00-nieruchomosci-polozonej-w-korpysach-oznaczonej-numerem-dzialki-52-1-obreb-ewidencyjny-0004-korpysy-i-numerem-dzialki-242-obreb-ewidencyjny-301807_5-0004-korpysy-dla-ktorej-sad-rejonowy-w-ostrzeszowie-prowadzi-ksiege-wieczysta-o-nr-kz1o-00049068-1?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "23.06.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Pierwsza licytacja ruchomości: PRZYCZEPA DO PRZEWOZU ZWIERZĄT - 16 lipca 2026 r. godz. 10:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-ruchomosci-przyczepa-do-przewozu-zwierzat-16-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
       "type": "I licytacja",
-      "date": "02.07.2026",
+      "date": "16.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -7575,7 +7505,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Druga licytacja ruchomości: samochód BMW 318D - 14 lipca 2026 r. godz. 11:00.",
+      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód BMW 318D - 14 lipca 2026 r. godz. 11:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-bmw-318d-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "II licytacja",
@@ -7585,7 +7515,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Druga licytacja ruchomości: samochód VOLKSWAGEN PASSAT - 14 lipca 2026 r. godz. 10:30.",
+      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód VOLKSWAGEN PASSAT - 14 lipca 2026 r. godz. 10:30.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-volkswagen-passat-14-lipca-2026-r-godz-10-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "II licytacja",
@@ -7595,7 +7525,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Druga licytacja ruchomości: samochód OPEL ZAFIRA - 14 lipca 2026 r. godz. 10:00.",
+      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód OPEL ZAFIRA - 14 lipca 2026 r. godz. 10:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-opel-zafira-14-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "II licytacja",
@@ -7605,72 +7535,12 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Czytaj więcejo SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód OPEL SIGNUM - od 29 czerwca 2026 r. do 3 lipca 2026 r.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-opel-signum-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - samochód MITSUBISHI OUTLANDER - od 13 do 24 lipca 2026 r.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/sprzedaz-z-wolnej-reki-samochod-mitsubishi-outlander-od-13-do-24-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "29.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Czytaj więcejo SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód DAEWOO NUBIRA - od 29 czerwca 2026 r. do 3 lipca 2026 r.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-daewoo-nubira-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "29.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Czytaj więcejo SPRZEDAŻ RUCHOMOŚCI JEDNOSTKOM ORGANIZACYJNYM OCHRONY ZDROWIA I POMOCY SPOŁECZNEJ, PLACÓWKOM OŚWIATOWYM, INSTYTUCJOM KULTURY ORAZ ORGANIZACJOM CHARYTATYWNYM - samochód VW PASSAT od 29 czerwca 2026 r. do 3 lipca 2026 r.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/sprzedaz-ruchomosci-jednostkom-organizacyjnym-ochrony-zdrowia-i-pomocy-spolecznej-placowkom-oswiatowym-instytucjom-kultury-oraz-organizacjom-charytatywnym-samochod-vw-passat-od-29-czerwca-2026-r-do-3-lipca-2026-r?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "29.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Pierwsza licytacja ruchomości: samochód SKODA OCTAVIA - 2 lipca 2026 r. o godz. 13:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/pierwsza-licytacja-ruchomosci-samochod-skoda-octavia-2-lipca-2026-r-o-godz-13-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "02.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Pierwsza licytacja ruchomości: samochód PEUGEOT 207 - 2 lipca 2026 r. godz. 12:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/pierwsza-licytacja-ruchomosci-samochod-peugeot-207-2-lipca-2026-r-godz-12-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "02.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Jeżyce",
-      "title": "Pierwsza licytacja ruchomości: samochód PEUGEOT BOXER - 2 lipca 2026 r. godz. 13:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/aK3u/content/pierwsza-licytacja-ruchomosci-samochod-peugeot-boxer-2-lipca-2026-r-godz-13-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-jezyce%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_aK3u%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "02.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Wilda",
-      "title": "Sprzedaż z wolnej ręki ruchomości: VOLKSWAGEN CADDY - od 30 czerwca 2026 r. do 14 lipca 2026 r., w godzinach od 8:00 do 14:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/J7fp/content/sprzedaz-z-wolnej-reki-ruchomosci-volkswagen-caddy-od-30-czerwca-2026-r-do-14-lipca-2026-r-w-godzinach-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-wilda%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_J7fp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
       "type": "Wolna ręka",
-      "date": "30.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
+      "date": "24.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -7680,16 +7550,6 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "30.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Wilda",
-      "title": "Czytaj więcejo Sprzedaż z wolnej ręki ruchomości: samochód MERCEDES VITO - od 8 do 22 lipca 2026 r. od godz. 8:00 do godz. 14:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/J7fp/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-mercedes-vito-od-8-do-22-lipca-2026-r-od-godz-8-00-do-godz-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-wilda%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_J7fp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "22.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -7714,32 +7574,12 @@
     },
     {
       "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Winogrady",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: WÓZEK INWALIDZKI, TELEFON KOMÓRKOWY - 7 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-winogrady/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/n8Am/content/druga-licytacja-ruchomosci-wozek-inwalidzki-telefon-komorkowy-7-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-winogrady%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_n8Am%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "07.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-winogrady/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Czarnkowie",
-      "title": "Czytaj więcejo Pierwsza licytacja : PISTOLET PNEUMATYCZNY - 6 lipca 2026 r. godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ezZ1/content/pierwsza-licytacja-pistolet-pneumatyczny-6-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-czarnkowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ezZ1%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Czarnkowie",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: PIŁY ELEKTRYCZNE, WIERTARKA, SZLIFIERKA - 2 lipca 2026 r. godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ezZ1/content/pierwsza-licytacja-ruchomosci-pily-elektryczne-wiertarka-szlifierka-2-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-czarnkowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ezZ1%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "02.07.2026",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - Motorower BARTON - od 13 lipca 2026 r. od godz. 10:00 do 14 lipca 2026 r. do godz. 10:00",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ezZ1/content/sprzedaz-z-wolnej-reki-motorower-barton-od-13-lipca-2026-r-od-godz-10-00-do-14-lipca-2026-r-do-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-czarnkowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ezZ1%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "13.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -7795,16 +7635,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Gnieźnie",
-      "title": "Pierwsza licytacja ruchomości: samochód VOLKSWAGEN GOLF - 7 lipca 2026 r. godz. 9:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/pierwsza-licytacja-ruchomosci-samochod-volkswagen-golf-7-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "07.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Gnieźnie",
       "title": "Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-polozonej-w-miejscowosci-niewolno-12-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -7831,16 +7661,6 @@
       "type": "Wolna ręka",
       "date": "27.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-jarocinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kępnie",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód TOYOTA YARIS - od 23 czerwca 2026 r. od godz. 10:00 do 7 lipca 2026 r. do godz. 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kepnie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/1Sta/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-toyota-yaris-od-23-czerwca-2026-r-od-godz-10-00-do-7-lipca-2026-r-do-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kepnie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_1Sta%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "23.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kepnie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -7915,16 +7735,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Kościanie",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: DEKODER TV, LAPTOP - 7 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/fIZ5/content/pierwsza-licytacja-ruchomosci-dekoder-tv-laptop-7-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koscianie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_fIZ5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "07.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kościanie",
       "title": "Pierwsza licytacja ruchomości: samochody RENAULT MEGANE, CITROEN JUMPER, RENAULT MEGANE, OPEL COMBO, BMW - 14 lipca 2026 r. godz. 11:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/fIZ5/content/pierwsza-licytacja-ruchomosci-samochody-renault-megane-citroen-jumper-renault-megane-opel-combo-bmw-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koscianie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_fIZ5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
@@ -7935,42 +7745,12 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Krotoszynie",
-      "title": "Druga licytacja ruchomości: WÓZEK WIDŁOWY, WÓZEK ŁADOWARKA - 1 LIPCA 2026 r., godz. 9:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-krotoszynie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Tdc7/content/druga-licytacja-ruchomosci-wozek-widlowy-wozek-ladowarka-1-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-krotoszynie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Tdc7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - WÓZEK ŁADOWARKA AHLMANN- 5 sierpnia 2026 r. godz. 8:30.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-krotoszynie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Tdc7/content/sprzedaz-z-wolnej-reki-wozek-ladowarka-ahlmann-5-sierpnia-2026-r-godz-8-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-krotoszynie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Tdc7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "01.07.2026",
+      "type": "Wolna ręka",
+      "date": "05.08.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-krotoszynie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Krotoszynie",
-      "title": "Druga licytacja ruchomości: samochód osobowy FORD S-MAX -  1 lipca 2026 r. godz. 10:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-krotoszynie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Tdc7/content/druga-licytacja-ruchomosci-samochod-osobowy-ford-s-max-1-lipca-2026-r-godz-10-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-krotoszynie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Tdc7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "01.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-krotoszynie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Lesznie",
-      "title": "Pierwsza licytacja ruchomości: samochód KIA VENGA - 3 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/sj2G/content/pierwsza-licytacja-ruchomosci-samochod-kia-venga-3-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-lesznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_sj2G%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "03.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Lesznie",
-      "title": "Druga licytacja ruchomości: KOPARKA, SAMOCHODY - 1 lipca 2026 r., godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/sj2G/content/druga-licytacja-ruchomosci-koparka-samochody-1-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-lesznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_sj2G%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "01.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -7981,26 +7761,6 @@
       "type": "I licytacja",
       "date": "30.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Nowym Tomyślu",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód SKODA PRAKTIK -  1 lipca 2026 r. od godz. 11:00 do 14:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-tomyslu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/zc6Q/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-skoda-praktik-1-lipca-2026-r-od-godz-11-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-tomyslu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_zc6Q%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "01.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-tomyslu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrowie Wielkopolskim",
-      "title": "Pierwsza licytacja ruchomości: samochód AUDI A4 - 6 lipca 2026 r. godz. 9:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4Gp7/content/pierwsza-licytacja-ruchomosci-samochod-audi-a4-6-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4Gp7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -8025,47 +7785,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Pierwsza licytacja ruchomości: samochód AUDI A6 AVANTI - 6 lipca 2026 r. godz. 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-samochod-audi-a6-avanti-6-lipca-2026-r-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Pierwsza licytacja ruchomości: samochód osobowy HYUNDAI SANTA - 6 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-samochod-osobowy-hyundai-santa-6-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Pierwsza licytacja ruchomości: samochód ALFA ROMEO - 6 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-samochod-alfa-romeo-6-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Pierwsza licytacja ruchomości: samochód OPEL VECTRA - 6 lipca 2026 r. godz. 9:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-samochod-opel-vectra-6-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "06.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Pierwsza licytacja ruchomości: PRZYCZEPA DO PRZEWOZU ZWIERZĄT - 16 lipca 2026 r. godz. 10:00.",
+      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: PRZYCZEPA DO PRZEWOZU ZWIERZĄT - 16 lipca 2026 r. godz. 10:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-przyczepa-do-przewozu-zwierzat-16-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "I licytacja",
@@ -8085,7 +7805,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Zmiana terminu: Opis i oszacowanie nieruchomości: rozpoczęcie 23 czerwca 2026 r. o godz. 9:00, zakończenie 30 WRZEŚNIA 2026 r. o godz. 11:00 - nieruchomości, położonej w Korpysach, oznaczonej numerem...",
+      "title": "Czytaj więcejo Zmiana terminu: Opis i oszacowanie nieruchomości: rozpoczęcie 23 czerwca 2026 r. o godz. 9:00, zakończenie 30 WRZEŚNIA 2026 r. o godz. 11:00 - nieruchomości, położonej w Korpysach, oznaczonej numerem działki 52/1, obręb ewidencyjny  0004, KORPYSY i numerem działki 242, obręb ewidencyjny 301807_5.0004, KORPYSY, dla której Sąd Rejonowy w Ostrzeszowie prowadzi księgę wieczystą  o nr KZ1O/00049068/1.  -",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/zmiana-terminu-opis-i-oszacowanie-nieruchomosci-rozpoczecie-23-czerwca-2026-r-o-godz-9-00-zakonczenie-30-wrzesnia-2026-r-o-godz-11-00-nieruchomosci-polozonej-w-korpysach-oznaczonej-numerem-dzialki-52-1-obreb-ewidencyjny-0004-korpysy-i-numerem-dzialki-242-obreb-ewidencyjny-301807_5-0004-korpysy-dla-ktorej-sad-rejonowy-w-ostrzeszowie-prowadzi-ksiege-wieczysta-o-nr-kz1o-00049068-1?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -8165,46 +7885,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Pile",
-      "title": "Pierwsza licytacja ruchomości: motocykl YAMAHA - 3 lipca 2026 r. godz. 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/pierwsza-licytacja-ruchomosci-motocykl-yamaha-3-lipca-2026-r-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "03.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Pile",
-      "title": "Pierwsza licytacja ruchomości: samochód PEUGEOT PARTNER, motocykl YAMAHA - 3 lipca 2026 r. godz. 10:50.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/pierwsza-licytacja-ruchomosci-samochod-peugeot-partner-motocykl-yamaha-3-lipca-2026-r-godz-10-50?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "03.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Pile",
-      "title": "Druga licytacja ruchomości: samochód SEAT TOLEDO - 3 lipca 2026 r. godz. 12:40.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/druga-licytacja-ruchomosci-samochod-seat-toledo-3-lipca-2026-r-godz-12-40?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "03.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Pile",
-      "title": "Pierwsza licytacja ruchomości: samochody VOLVO XC90 i VOLVO V50 - 3 lipca 2026 r. godz. 11:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/pierwsza-licytacja-ruchomosci-samochody-volvo-xc90-i-volvo-v50-3-lipca-2026-r-godz-11-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "03.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Pile",
       "title": "Pierwsza licytacja nieruchomości: 22 LIPCA 2026 r. godz. 9:00 -tj. działki gruntu numer 273/87 o powierzchni 17,00 m2 położonej w Pile przy ul. Krynicznej zabudowanej garażem o powierzchni użytkowej...",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/pierwsza-licytacja-nieruchomosci-22-lipca-2026-r-godz-9-00-tj-dzialki-gruntu-numer-273-87-o-powierzchni-17-00-m2-polozonej-w-pile-przy-ul-krynicznej-zabudowanej-garazem-o-powierzchni-uzytkowej-16-00-m2-nieruchomosc-posiada-urzadzona-ksiege-wieczysta-dla-ktorej-sad-rejonowy-w-pile-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-o-nr-po1i-00005453-2?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -8251,26 +7931,6 @@
       "type": "I licytacja",
       "date": "28.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Środzie Wielkopolskiej",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód VOLKSWAGEN GOLF - od 30 czerwca 2026 r. od godz. 10:00 do 6 lipca 2026 r. do godz. 14:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-srodzie-wielkopolskiej/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/wJq0/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-volkswagen-golf-od-30-czerwca-2026-r-od-godz-10-00-do-6-lipca-2026-r-do-godz-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-srodzie-wielkopolskiej%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_wJq0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "30.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-srodzie-wielkopolskiej/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Wągrowcu",
-      "title": "Druga licytacja ruchomości: samochód AUDI A6 - 7 lipca 2026 r. godz. 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-wagrowcu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Vx3m/content/druga-licytacja-ruchomosci-samochod-audi-a6-7-lipca-2026-r-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-wagrowcu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Vx3m%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "07.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-wagrowcu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -8518,21 +8178,21 @@
     "Kujawsko-Pomorskie": 50,
     "Lubelskie": 131,
     "Lubuskie": 57,
-    "Łódzkie": 25,
-    "Małopolskie": 21,
+    "Łódzkie": 24,
+    "Małopolskie": 20,
     "Mazowieckie": 228,
     "Opolskie": 41,
     "Podkarpackie": 9,
-    "Podlaskie": 18,
+    "Podlaskie": 17,
     "Pomorskie": 1,
-    "Śląskie": 104,
+    "Śląskie": 100,
     "Świętokrzyskie": 11,
-    "Wielkopolskie": 98,
+    "Wielkopolskie": 71,
     "Zachodniopomorskie": 23
   },
   "by_category": {
-    "Nieruchomości": 512,
-    "Pojazdy": 181,
-    "Inne ruchomości": 158
+    "Nieruchomości": 511,
+    "Pojazdy": 157,
+    "Inne ruchomości": 149
   }
 }
