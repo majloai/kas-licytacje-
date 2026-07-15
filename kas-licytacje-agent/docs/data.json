@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-14T07:51:23.787250",
-  "total": 796,
+  "scraped_at": "2026-07-15T07:53:45.036250",
+  "total": 767,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -170,7 +170,7 @@
       "category": "Pojazdy",
       "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -260,7 +260,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -965,16 +965,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji ruchomości 8 lipca 2026 r. (samochód osobowy Renault Laguna hatchback 1.8 benzyna)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-ruchomosci-8-lipca-2026-r-samochod-osobowy-renault-laguna-hatchback-1-8-benzyna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "08.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Białej Podlaskiej o pierwszej licytacji nieruchomości 19 sierpnia 2026 r. (działki o łącznej pow. 2,2364 ha, Wiski, obręb 0013, gm. Tuczna).",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bialej-podlaskiej-o-pierwszej-licytacji-nieruchomosci-19-sierpnia-2026-r-dzialki-o-lacznej-pow-2-2364-ha-wiski-obreb-0013-gm-tuczna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1070,26 +1060,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "22.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o trzeciej licytacji nieruchomości 9 lipca 2026 r. (działka z budynkami, Chełm, ul. Wygon 52B)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-trzeciej-licytacji-nieruchomosci-9-lipca-2026-r-dzialka-z-budynkami-chelm-ul-wygon-52b?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "09.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji nieruchomości 14 lipca 2026 r. (działki, Chełm, ul. Rejowiecka)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-nieruchomosci-14-lipca-2026-r-dzialki-chelm-ul-rejowiecka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "14.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1205,16 +1175,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o pierwszej licytacji nieruchomości 14 lipca 2026 r. (niezabudowana działka gruntu, Marynin, gm. Siedliszcze)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-pierwszej-licytacji-nieruchomosci-14-lipca-2026-r-niezabudowana-dzialka-gruntu-marynin-gm-siedliszcze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego we Włodawie o pierwszej licytacji nieruchomości 7 sierpnia 2026 r. (działka, Stary Brus)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-we-wlodawie-o-pierwszej-licytacji-nieruchomosci-7-sierpnia-2026-r-dzialka-stary-brus?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1240,16 +1200,6 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o terminie opisu i oszacowania nieruchomości od 13 maja do 13 lipca 2026 r. (niezabudowana działka gruntu, Srebrzyszcze, gm. Chełm)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-13-maja-do-13-lipca-2026-r-niezabudowana-dzialka-gruntu-srebrzyszcze-gm-chelm?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "13.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1924,56 +1874,6 @@
     },
     {
       "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji ruchomości 8 lipca 2026 r. (samochód osobowy Renault Laguna hatchback 1.8 benzyna)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-ruchomosci-8-lipca-2026-r-samochod-osobowy-renault-laguna-hatchback-1-8-benzyna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "08.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o trzeciej licytacji nieruchomości 9 lipca 2026 r. (działka z budynkami, Chełm, ul. Wygon 52B)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-trzeciej-licytacji-nieruchomosci-9-lipca-2026-r-dzialka-z-budynkami-chelm-ul-wygon-52b?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "09.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji nieruchomości 14 lipca 2026 r. (działki, Chełm, ul. Rejowiecka)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-nieruchomosci-14-lipca-2026-r-dzialki-chelm-ul-rejowiecka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o pierwszej licytacji nieruchomości 14 lipca 2026 r. (niezabudowana działka gruntu, Marynin, gm. Siedliszcze)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-pierwszej-licytacji-nieruchomosci-14-lipca-2026-r-niezabudowana-dzialka-gruntu-marynin-gm-siedliszcze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o terminie opisu i oszacowania nieruchomości od 13 maja do 13 lipca 2026 r. (niezabudowana działka gruntu, Srebrzyszcze, gm. Chełm)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-13-maja-do-13-lipca-2026-r-niezabudowana-dzialka-gruntu-srebrzyszcze-gm-chelm?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "13.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
       "city": "Urząd Skarbowy w Krasnymstawie",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Krasnymstawie o pierwszej licytacji nieruchomości 12 października 2026 r. (działka, Siedliska Pierwsze)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasnymstawie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/cBi2/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasnymstawie-o-pierwszej-licytacji-nieruchomosci-12-pazdziernika-2026-r-dzialka-siedliska-pierwsze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasnymstawie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_cBi2%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -2111,16 +2011,6 @@
       "type": "I licytacja",
       "date": "07.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-we-wlodawie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Pierwsza licytacja ruchomości: samochodu osobowego Mitsubishi Outlander",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-ruchomosci-samochodu-osobowego-mitsubishi-outlander?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -2316,11 +2206,11 @@
       "region": "Lubuskie",
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Międzyrzeczu",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -2585,16 +2475,6 @@
     {
       "region": "Lubuskie",
       "city": "Urząd Skarbowy we Wschowie",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: samochodu osobowego Mitsubishi Outlander",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-we-wschowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ea0L/content/pierwsza-licytacja-ruchomosci-samochodu-osobowego-mitsubishi-outlander?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-we-wschowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ea0L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-we-wschowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy we Wschowie",
       "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym we Wschowie",
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-we-wschowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ea0L/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-we-wschowie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-we-wschowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ea0L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -2835,16 +2715,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o II licytacji nieruchomości 14.07.2026 r. (Pszczonów 181, gm. Maków)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-ii-licytacji-nieruchomosci-14072026-r-pszczonow-181-gm-makow",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 30.06.2026 do 30.07.2026 r. (95-001 Dzierżązna, nr działki 225/4 gm. Zgierz )",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-30062026-do-30072026-r-95-001-dzierzazna-nr-dzialki-2254-gm-zgierz-",
       "category": "Nieruchomości",
@@ -2865,22 +2735,12 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o terminie opisu i oszacowania w nieruchomości od 14.05.2026 do 14.07.2026 r. (działka nr 242/14, Aleksandrów Łódzki)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-w-nieruchomosci-od-14052026-do-14072026-r-dzialka-nr-24214-aleksandrow-lodzki",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "14.05.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
       "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Łódzkie",
@@ -2909,16 +2769,6 @@
       "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-samochodu-ciezarowego-fiat-ducato-22-07-2026r-godz-11-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o sprzedaży z wolnej ręki skutera Peugeot Vivacity, od 07.07.2026r. godz. 10.00 do 14.07.2026r. do godz. 10.00 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-sprzedazy-z-wolnej-reki-skutera-peugeot-vivacity-od-07-07-2026r-godz-10-00-do-14-07-2026r-do-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
@@ -3185,16 +3035,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki Peugeot 407 rok prod. 2005 Termin: od 7 lipca 2026 rok, od godz. 12:00 do 14 lipca 2026 roku do godz. 12:00",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-peugeot-407-rok-prod-2005-termin-od-7-lipca-2026-rok-od-godz-12-00-do-14-lipca-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "07.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny nr 6 przy ul. Wincentego Witosa 4 w Wyszkowie - termin: 4 listopada 2026 roku, godz. 11:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-nr-6-przy-ul-wincentego-witosa-4-w-wyszkowie-termin-4-listopada-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -3296,11 +3136,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania wartości zajętej nieruchomości w postaci prawa użytkowania wieczystego nieruchomości o pow. 2467 m² składającej się z działki nr 976/104, oraz prawa...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-w-postaci-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-2467-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-104-oraz-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-3440-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-132-polozonych-w-sochaczewie-przy-ul-chodakowskiej-termin-25-sierpnia-2026-r-o-godz-10-00-1-pazdziernika-2026-r-o-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-w-postaci-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-2467-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-104-oraz-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-3440-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-132-polozonych-w-sochaczewie-przy-ul-chodakowskiej-termin-25-sierpnia-2026-r-o-godz-10-00-1-pazdziernika-2026-r-o-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -3310,16 +3150,6 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "29.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "ZAWIADOMIENIE O SPRZEDAŻY RUCHOMOŚCI po cenie oszacowania podmiotom prowadzącym działalność handlową, ostrza hakowe, Legowisko dla psa, Siedzisko dla psa, Osłony zegarów, Termin do 14 lipca 2026 roku",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa-ostrza-hakowe-legowisko-dla-psa-siedzisko-dla-psa-oslony-zegarow-termin-do-14-lipca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "14.07.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
@@ -3486,31 +3316,31 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Ogłoszenie o przetargu ofert - Samochód osobowy Kareta (Sedan) marki Mazda 6, rok produkcji 2015 - termin składania ofert: 24 czerwca 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-ofert-samochod-osobowy-kareta-sedan-marki-mazda-6-rok-produkcji-2015-termin-skladania-ofert-24-czerwca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-ofert-samochod-osobowy-kareta-sedan-marki-mazda-6-rok-produkcji-2015-termin-skladania-ofert-24-czerwca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Pojazdy",
       "type": "Przetarg",
       "date": "24.06.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenia o zmianie terminu zakończenia opisu i oszacowania nieruchomości położonej w Radomiu przy ul. Kusocińskiego 3/7 - nowy termin zakończenia: 21 lipca 2026 r. o godz. 9:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-nieruchomosci-polozonej-w-radomiu-przy-ul-kusocinskiego-3-7-nowy-termin-zakonczenia-21-lipca-2026-r-o-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-nieruchomosci-polozonej-w-radomiu-przy-ul-kusocinskiego-3-7-nowy-termin-zakonczenia-21-lipca-2026-r-o-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "21.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ruchomości - zabawki, talerze, szklanki, filiżanki, sztućce, garnki, art. kuchenne, tarki, obieraki, szczotki i inne - termin: 15 lipca 2026 roku, godz. 12.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-zabawki-talerze-szklanki-filizanki-sztucce-garnki-art-kuchenne-tarki-obieraki-szczotki-i-inne-termin-15-lipca-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-zabawki-talerze-szklanki-filizanki-sztucce-garnki-art-kuchenne-tarki-obieraki-szczotki-i-inne-termin-15-lipca-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "15.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
@@ -3686,31 +3516,31 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenia o pierwszej licytacji nieruchomości gruntowej położonej przy drodze wojewódzkiej nr 587, w pobliżu drogi krajowej nr 7 - termin: 01.09.2026r. godz. 10:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-przy-drodze-wojewodzkiej-nr-587-w-poblizu-drogi-krajowej-nr-7-termin-01-09-2026r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-przy-drodze-wojewodzkiej-nr-587-w-poblizu-drogi-krajowej-nr-7-termin-01-09-2026r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o drugiej licytacji nieruchomości składającej się z działek położonych w miejscowości Koszary, gmina Iłża, powiat radomski - termin: 17 lipca 2026 r., godz. 9:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-drugiej-licytacji-nieruchomosci-skladajacej-sie-z-dzialek-polozonych-w-miejscowosci-koszary-gmina-ilza-powiat-radomski-termin-17-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-drugiej-licytacji-nieruchomosci-skladajacej-sie-z-dzialek-polozonych-w-miejscowosci-koszary-gmina-ilza-powiat-radomski-termin-17-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "17.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Siedlcach, przy ul. 3-go Maja 37/5 + garaż - termin: 18 czerwca 2026 r. - 3 września 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-siedlcach-przy-ul-3-go-maja-37-5-garaz-termin-18-czerwca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-siedlcach-przy-ul-3-go-maja-37-5-garaz-termin-18-czerwca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "18.06.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
@@ -3886,31 +3716,31 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania wartości zajętej nieruchomości -Lokal mieszkalny położony w Sochaczewie przy ul. Żeromskiego 15/5, o powierzchni 38,33 m², wraz z udziałem związanym z...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-lokal-mieszkalny-polozony-w-sochaczewie-przy-ul-zeromskiego-15-5-o-powierzchni-38-33-m%C2%B2-wraz-z-udzialem-zwiazanym-z-wlasnoscia-lokalu-dla-ktorego-sad-rejonowy-w-sochaczewie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-pl1o-00040582-9-termin-od-18-czerwca-2026-roku-od-godz-9-30-do-27-sierpnia-2026-r-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-lokal-mieszkalny-polozony-w-sochaczewie-przy-ul-zeromskiego-15-5-o-powierzchni-38-33-m%C2%B2-wraz-z-udzialem-zwiazanym-z-wlasnoscia-lokalu-dla-ktorego-sad-rejonowy-w-sochaczewie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-pl1o-00040582-9-termin-od-18-czerwca-2026-roku-od-godz-9-30-do-27-sierpnia-2026-r-do-godz-13-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania wartości zajętej nieruchomości - Niezabudowana nieruchomość o powierzchni 8216 m², położona Sochaczew, obręb ewidencyjny 0010, Sochaczew Wschód, składająca...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-niezabudowana-nieruchomosc-o-powierzchni-8216-m%C2%B2-polozona-sochaczew-obreb-ewidencyjny-0010-sochaczew-wschod-skladajaca-sie-z-dzialki-nr-47-dla-ktorej-sad-rejonowy-w-sochaczewie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-pl1o-00046625-5-termin-od-18-czerwca-2026-roku-od-godz-10-30-do-20-sierpnia-2026-r-do-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-niezabudowana-nieruchomosc-o-powierzchni-8216-m%C2%B2-polozona-sochaczew-obreb-ewidencyjny-0010-sochaczew-wschod-skladajaca-sie-z-dzialki-nr-47-dla-ktorej-sad-rejonowy-w-sochaczewie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-pl1o-00046625-5-termin-od-18-czerwca-2026-roku-od-godz-10-30-do-20-sierpnia-2026-r-do-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o trzeciej licytacji udziału 1/2 w nieruchomości gruntowej położonej w miejscowości Działki Suskowolskie, gmina Pionki, powiat radomski, województwo mazowieckie, składająca się z działki...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-trzeciej-licytacji-udzialu-1-2-w-nieruchomosci-gruntowej-polozonej-w-miejscowosci-dzialki-suskowolskie-gmina-pionki-powiat-radomski-wojewodztwo-mazowieckie-skladajaca-sie-z-dzialki-o-nr-258-2-%E2%80%93-o-lacznej-powierzchni-0-0814-ha-dla-nieruchomosci-sad-rejonowy-w-kozienicach-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-ra2z-00001944-3-termin-30-czerwca-2026-roku-godz-9-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-trzeciej-licytacji-udzialu-1-2-w-nieruchomosci-gruntowej-polozonej-w-miejscowosci-dzialki-suskowolskie-gmina-pionki-powiat-radomski-wojewodztwo-mazowieckie-skladajaca-sie-z-dzialki-o-nr-258-2-%E2%80%93-o-lacznej-powierzchni-0-0814-ha-dla-nieruchomosci-sad-rejonowy-w-kozienicach-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-ra2z-00001944-3-termin-30-czerwca-2026-roku-godz-9-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "III licytacja",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
     },
     {
       "region": "Mazowieckie",
@@ -4075,42 +3905,32 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości - prawo własności do lokalu mieszkalnego nr 17 położonego w Warszawie przy ul. Koński Jar 7 - termin: 4 sierpnia 2026 roku, godz. 12:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-wlasnosci-do-lokalu-mieszkalnego-nr-17-polozonego-w-warszawie-przy-ul-konski-jar-7-termin-4-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości - prawo własności lokalu mieszkalnego nr 1803C w Warszawie przy ul. Ostrobramska 83 wraz z przynależnymi dwiema komórkami lokatorskimi - termin: 17...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-wlasnosci-lokalu-mieszkalnego-nr-1803c-w-warszawie-przy-ul-ostrobramska-83-wraz-z-przynaleznymi-dwiema-komorkami-lokatorskimi-termin-17-lipca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-wlasnosci-lokalu-mieszkalnego-nr-1803c-w-warszawie-przy-ul-ostrobramska-83-wraz-z-przynaleznymi-dwiema-komorkami-lokatorskimi-termin-17-lipca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania: udział 1/8 w prawie własności nieruchomości gruntowej zabudowanej budynkiem niestanowiącym odrębnego od gruntu przedmiotu własności w postaci garażu,...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-udzial-1-8-w-prawie-wlasnosci-nieruchomosci-gruntowej-zabudowanej-budynkiem-niestanowiacym-odrebnego-od-gruntu-przedmiotu-wlasnosci-w-postaci-garazu-polozonej-w-siedlcach-przy-ul-rynkowej-105-termin-6-maja-2026-roku-6-sierpnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-udzial-1-8-w-prawie-wlasnosci-nieruchomosci-gruntowej-zabudowanej-budynkiem-niestanowiacym-odrebnego-od-gruntu-przedmiotu-wlasnosci-w-postaci-garazu-polozonej-w-siedlcach-przy-ul-rynkowej-105-termin-6-maja-2026-roku-6-sierpnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania: Nieruchomość gruntowa, położona w miejscowości Góra Kalwaria, ul. Ogrodowa 5 - termin: 5 maja 2026 r. - 27 lipca 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-gora-kalwaria-ul-ogrodowa-5-termin-5-maja-2026-r-27-lipca-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-gora-kalwaria-ul-ogrodowa-5-termin-5-maja-2026-r-27-lipca-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "05.05.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
     },
     {
       "region": "Mazowieckie",
@@ -4226,11 +4046,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Ogłoszenie o przetargu publicznym na sprzedaż samochodów służbowych należących do Izby Administracji Skarbowej w Warszawie",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-publicznym-na-sprzedaz-samochodow-sluzbowych-nalezacych-do-izby-administracji-skarbowej-w-warszawie-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D8%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-publicznym-na-sprzedaz-samochodow-sluzbowych-nalezacych-do-izby-administracji-skarbowej-w-warszawie-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D7%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Pojazdy",
       "type": "Przetarg",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=8"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=7"
     },
     {
       "region": "Mazowieckie",
@@ -5184,26 +5004,6 @@
     },
     {
       "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Praga",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości - prawo własności lokalu mieszkalnego nr 1803C w Warszawie przy ul. Ostrobramska 83 wraz z przynależnymi dwiema komórkami lokatorskimi - termin: 17 lipca 2026 roku, godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-praga/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3Lpi/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-wlasnosci-lokalu-mieszkalnego-nr-1803c-w-warszawie-przy-ul-ostrobramska-83-wraz-z-przynaleznymi-dwiema-komorkami-lokatorskimi-termin-17-lipca-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-praga%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3Lpi%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "17.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-praga/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Targówek",
-      "title": "Czytaj więcejo Zawiadomienie o sprzedaży ruchomości z wolnej ręki Peugeot 407 rok prod. 2005 Termin: od 7 lipca 2026 rok, od godz. 12:00 do 14 lipca 2026 roku do godz. 12:00",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/CXf6/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-peugeot-407-rok-prod-2005-termin-od-7-lipca-2026-rok-od-godz-12-00-do-14-lipca-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-targowek%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_CXf6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "07.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
       "city": "Urząd Skarbowy Warszawa-Targówek",
       "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości: miejsca postojowego nr 96 garaż G, stanowiącą odrębną nieruchomość, położoną w Warszawie przy ul. Rzepichy 2B - termin: 4 sierpnia 2026 roku, godz. 11:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/CXf6/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-miejsca-postojowego-nr-96-garaz-g-stanowiaca-odrebna-nieruchomosc-polozona-w-warszawie-przy-ul-rzepichy-2b-termin-4-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-targowek%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_CXf6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -5290,16 +5090,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "28.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Ursynów",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości - prawo własności do lokalu mieszkalnego nr 17 położonego w Warszawie przy ul. Koński Jar 7 - termin: 4 sierpnia 2026 roku, godz. 12:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Q4Yp/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-prawo-wlasnosci-do-lokalu-mieszkalnego-nr-17-polozonego-w-warszawie-przy-ul-konski-jar-7-termin-4-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-ursynow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Q4Yp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -5815,16 +5605,6 @@
     {
       "region": "Podlaskie",
       "city": "Białystok",
-      "title": "Volkswagen Sharan 1.9 TDI 2000 r. Toyota RAV4 2.0 TD 2002 r., Chrysler Voyager 2002 r., - pierwsza licytacja.",
-      "url": "https://www.gov.pl/web/ias-bialystok/volkswagen-sharan-19-tdi-2000-r-toyota-rav4-20-td-2002-r-chrysler-voyager-2002-r---pierwsza-licytacja",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
       "title": "TOYOTA Land Cruiser, 2003 r.; YAMAHA Star 1100, 2006 r. - pierwsza licytacja.",
       "url": "https://www.gov.pl/web/ias-bialystok/toyota-land-cruiser-2003-r-yamaha-star-1100-2006-r---pierwsza-licytacja",
       "category": "Pojazdy",
@@ -5920,7 +5700,7 @@
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Podlaskie",
@@ -5929,16 +5709,6 @@
       "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-niezabudowana-grunty-orne-bajki-zalesie-i-dlugoleka-udzial-316---druga-licytacja",
       "category": "Nieruchomości",
       "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
-      "title": "Nieruchomość zabudowana, dom, Rafałówka gm. Zabłudów - trzecia licytacja.",
-      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-zabudowana-dom-rafalowka-gm-zabludow---trzecia-licytacja-14072026-r",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -6145,6 +5915,16 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości położonej w Bielsku-Białej przy ul. Szczygłów",
+      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-szczyglow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "I licytacja - samochód osobowy wielozadaniowy Opel Corsa",
       "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-wielozadaniowy-opel-corsa",
       "category": "Pojazdy",
@@ -6170,7 +5950,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Śląskie",
@@ -6260,7 +6040,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -6285,10 +6065,30 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy VW Polo",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-vw-polo",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "I licytacja nieruchomości położonej w Bielsku-Białej, ul. Deszczowa (działka nr 1434/11)",
       "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-ul-deszczowa-dzialka-nr-143411",
       "category": "Nieruchomości",
       "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A4",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a4",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
@@ -6340,7 +6140,17 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Fiat Panda",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-panda",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6350,7 +6160,7 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6360,7 +6170,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -6379,6 +6189,16 @@
       "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---pojazd-mini-motorbike-cross",
       "category": "Pojazdy",
       "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochody ciężarowe oraz przyczepa",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochody-ciezarowe-oraz-przyczepa",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
@@ -6420,7 +6240,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6430,7 +6250,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6440,7 +6260,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6450,7 +6270,7 @@
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6460,7 +6280,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6515,52 +6335,12 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I licytacja nieruchomości położonej w Harbutowicach przy ul. Stara Droga (działka nr 269/3)",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-harbutowicach-przy-ul-stara-droga-dzialka-nr-2693",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - torebki i plecaki damskie",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---torebki-i-plecaki-damskie",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja - samochód osobowy Fiat Panda",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-fiat-panda",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Obwieszczenie o odwołaniu I licytacji nieruchomości położonej w Harbutowicach przy ul. Stara Droga",
       "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-odwolaniu-i-licytacji-nieruchomosci-polozonej-w-harbutowicach-przy-ul-stara-droga",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - samochód ciężarowy Ford Transit",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-ciezarowy-ford-transit",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6660,7 +6440,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6760,7 +6540,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -6860,7 +6640,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6960,7 +6740,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
     },
     {
       "region": "Śląskie",
@@ -7045,16 +6825,6 @@
     {
       "region": "Świętokrzyskie",
       "city": "Kielce",
-      "title": "OBWIESZCZENIE O TERMINIE OPISU I OSZACOWANIA NIERUCHOMOŚCI POŁOŻONEJ W MIEJSCOWOŚCI ZGÓRSKO",
-      "url": "https://www.gov.pl/web/ias-kielce/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej-w-miejscowosci-zgorsko",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
       "title": "OBWIESZCZENIE O TERMINIE OPISU I OSZACOWANIA WARTOŚCI NIERUCHOMOSCI POŁOŻONEJ W MIEJSCOWOŚCI UBYSZÓW",
       "url": "https://www.gov.pl/web/ias-kielce/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-ubyszow",
       "category": "Nieruchomości",
@@ -7085,32 +6855,12 @@
     {
       "region": "Świętokrzyskie",
       "city": "Kielce",
-      "title": "NIERUCHOMOŚĆ KRZEPIN - I licytacja",
-      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-krzepin---i-licytacja",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
-      "title": "NIERUCHOMOŚĆ KIELCE - II LICYTACJA",
-      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-kielce---ii-licytacja",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
       "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
       "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Wielkopolskie",
@@ -7834,26 +7584,6 @@
     },
     {
       "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości stanowiącej lokal niemieszkalny – apartamentowy, położony w Kołobrzegu przy ul. Portowej 18/0.28 rozpoczęcie14 kwietnia 2026 r. godz. 9:00...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-stanowiacej-lokal-niemieszkalny-%E2%80%93-apartamentowy-polozony-w-kolobrzegu-przy-ul-portowej-18-0-28-rozpoczecie14-kwietnia-2026-r-godz-9-00-zakonczenie-14-lipca-2026-roku-godz-10-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości stanowiącej lokal niemieszkalny – apartamentowy, położony w Kołobrzegu przy ul. Portowej 18/04 rozpoczęcie14 kwietnia 2026 r. 11:00...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-stanowiacej-lokal-niemieszkalny-%E2%80%93-apartamentowy-polozony-w-kolobrzegu-przy-ul-portowej-18-04-rozpoczecie14-kwietnia-2026-r-11-00-zakonczenie-sie-14-lipca-2026-r-godz-11-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
       "city": "Urząd Skarbowy w Gryfinie",
       "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 410, o pow. 0,0356 ha, położoną w miejscowości Piaseczno, zachodniopomorskie, 20 sierpnia 2026 r. godz. 10:00 Urząd Skarbowy w Gryfinie",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-410-o-pow-0-0356-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-10-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -7924,26 +7654,6 @@
     },
     {
       "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Kołobrzegu",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania nieruchomości stanowiącej lokal niemieszkalny – apartamentowy, położony w Kołobrzegu przy ul. Portowej 18/04 rozpoczęcie14 kwietnia 2026 r. 11:00 zakończenie się 14 lipca 2026 r. godz. 11:00 Urząd Skarbowy w Kołobrzegu",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/G4dA/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-stanowiacej-lokal-niemieszkalny-%E2%80%93-apartamentowy-polozony-w-kolobrzegu-przy-ul-portowej-18-04-rozpoczecie14-kwietnia-2026-r-11-00-zakonczenie-sie-14-lipca-2026-r-godz-11-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-kolobrzegu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_G4dA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "14.07.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Kołobrzegu",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania nieruchomości stanowiącej lokal niemieszkalny – apartamentowy, położony w Kołobrzegu przy ul. Portowej 18/0.28 rozpoczęcie14 kwietnia 2026 r. godz. 9:00 zakończenie 14 lipca 2026 roku godz. 10:00 Urząd Skarbowy w Kołobrzegu",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/G4dA/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-stanowiacej-lokal-niemieszkalny-%E2%80%93-apartamentowy-polozony-w-kolobrzegu-przy-ul-portowej-18-0-28-rozpoczecie14-kwietnia-2026-r-godz-9-00-zakonczenie-14-lipca-2026-roku-godz-10-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-kolobrzegu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_G4dA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "14.07.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
       "city": "Trzeci Urząd Skarbowy w Szczecinie",
       "title": "Czytaj więcejo Zawiadomienie o sprzedaży ruchomości z wolne ręki Router TP Link, model TL-MR6400 z zasilaczem, Router VODAFONE B 100, model B390s z zasilaczem, od 14 lipca 2026 r. od godz 9:10 do 15 lipca 2026 r. do godz. 14:00 Trzeci Urząd Skarbowy w Szczecinie",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/trzeci-urzad-skarbowy-w-szczecinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/uN8F/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolne-reki-router-tp-link-model-tl-mr6400-z-zasilaczem-router-vodafone-b-100-model-b390s-z-zasilaczem-od-14-lipca-2026-r-od-godz-9-10-do-15-lipca-2026-r-do-godz-14-00-trzeci-urzad-skarbowy-w-szczecinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Ftrzeci-urzad-skarbowy-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_uN8F%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -7966,23 +7676,23 @@
   "by_region": {
     "Dolnośląskie": 34,
     "Kujawsko-Pomorskie": 46,
-    "Lubelskie": 131,
-    "Lubuskie": 55,
-    "Łódzkie": 23,
-    "Małopolskie": 20,
-    "Mazowieckie": 222,
+    "Lubelskie": 121,
+    "Lubuskie": 53,
+    "Łódzkie": 21,
+    "Małopolskie": 19,
+    "Mazowieckie": 216,
     "Opolskie": 41,
     "Podkarpackie": 9,
-    "Podlaskie": 16,
+    "Podlaskie": 14,
     "Pomorskie": 1,
-    "Śląskie": 102,
-    "Świętokrzyskie": 11,
+    "Śląskie": 103,
+    "Świętokrzyskie": 8,
     "Wielkopolskie": 62,
-    "Zachodniopomorskie": 23
+    "Zachodniopomorskie": 19
   },
   "by_category": {
-    "Nieruchomości": 516,
-    "Pojazdy": 130,
-    "Inne ruchomości": 150
+    "Nieruchomości": 495,
+    "Pojazdy": 124,
+    "Inne ruchomości": 148
   }
 }
