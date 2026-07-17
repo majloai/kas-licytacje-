@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-16T07:58:08.512153",
-  "total": 727,
+  "scraped_at": "2026-07-17T07:56:16.294517",
+  "total": 693,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -99,16 +99,6 @@
       "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-nieruchomosc-gruntowa-zabudowana-polozona-w-jaworze-kw-nr-le1j000184997",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji nieruchomości (działki położone w Starym Wielisławiu, gmina Kłodzko)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-nieruchomosci-dzialki-polozone-w-starym-wielislawiu",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -270,7 +260,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -360,26 +350,6 @@
       "category": "Pojazdy",
       "type": "II licytacja",
       "date": "30.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
-      "title": "Obwieszczenie o pierwszej licytacji ruchomości 16 lipca 2026 roku - MERCEDES-BENZ ACTROS  SAMOCHÓD CIĘŻAROWY  WYWROTKA 2013",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-16-lipca-2026-roku-mercedes-benz-actros-samochod-ciezarowy-wywrotka-2013?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
-      "title": "Obwieszczenie o drugiej licytacji ruchomości 16 lipca 2026 roku - Samochód  osobowy marki  RENAULT  MEGANE",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-drugiej-licytacji-ruchomosci-16-lipca-2026-roku-samochod-osobowy-marki-renault-megane?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "16.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -615,16 +585,6 @@
     {
       "region": "Kujawsko-Pomorskie",
       "city": "Urząd Skarbowy w Grudziądzu",
-      "title": "Czytaj więcejo Obwieszczenie o drugiej licytacji ruchomości 16 lipca 2026 roku - Samochód  osobowy marki  RENAULT  MEGANE",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-grudziadzu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/98Bs/content/obwieszczenie-o-drugiej-licytacji-ruchomosci-16-lipca-2026-roku-samochod-osobowy-marki-renault-megane?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Furzad-skarbowy-w-grudziadzu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_98Bs%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-grudziadzu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Urząd Skarbowy w Grudziądzu",
       "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji lokalu mieszkalnego położonego w  Grudziądzu przy ul. Elbląskiej 6/17, dla którego prowadzona jest przez Sąd Rejonowy w  Grudziądzu V Wydział Ksiąg Wieczystych księga wieczysta nr TO1U/00061180/1 wraz z  udziałem wynoszącym 15/1000 w częściach wspólnych budynku i prawie własności działki  gruntu pod budynkiem, wyznaczonej na 3 września 2026 roku.",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-grudziadzu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/98Bs/content/obwieszczenie-o-pierwszej-licytacji-lokalu-mieszkalnego-polozonego-w-grudziadzu-przy-ul-elblaskiej-6-17-dla-ktorego-prowadzona-jest-przez-sad-rejonowy-w-grudziadzu-v-wydzial-ksiag-wieczystych-ksiega-wieczysta-nr-to1u-00061180-1-wraz-z-udzialem-wynoszacym-15-1000-w-czesciach-wspolnych-budynku-i-prawie-wlasnosci-dzialki-gruntu-pod-budynkiem-wyznaczonej-na-3-wrzesnia-2026-roku?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Furzad-skarbowy-w-grudziadzu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_98Bs%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -733,14 +693,34 @@
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-zninie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Urząd Skarbowy w Żninie",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji ruchomości 16 lipca 2026 roku - MERCEDES-BENZ ACTROS  SAMOCHÓD CIĘŻAROWY  WYWROTKA 2013",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-zninie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/z9OI/content/obwieszczenie-o-pierwszej-licytacji-ruchomosci-16-lipca-2026-roku-mercedes-benz-actros-samochod-ciezarowy-wywrotka-2013?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Furzad-skarbowy-w-zninie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_z9OI%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
+      "region": "Lubelskie",
+      "city": "Lublin",
+      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 23 czerwca do 22 września 2026 r. (działka, Piotrkówek 19) - LICYTACJA ODWOŁANA",
+      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-23-czerwca-do-22-wrzesnia-2026-r-dzialka-piotrkowek-19-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "22.09.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Lublin",
+      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 25 czerwca do 20 października 2026 r. (działki, Nowiny Żukowskie, Olszanka) -...",
+      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-25-czerwca-do-20-pazdziernika-2026-r-dzialki-nowiny-zukowskie-olszanka-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "20.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Lublin",
+      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji 22 października 2026 r. (nieruchomość gruntowa zabudowana, Chmiel-Kolonia) - LICYTACJA ODWOŁANA",
+      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-22-pazdziernika-2026-r-nieruchomosc-gruntowa-zabudowana-chmiel-kolonia-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
       "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-zninie/ogloszenia/obwieszczenia-o-licytacji"
+      "date": "22.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubelskie",
@@ -790,16 +770,6 @@
       "category": "Nieruchomości",
       "type": "III licytacja",
       "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji 22 października 2026 r. (nieruchomość gruntowa zabudowana, Chmiel-Kolonia)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-22-pazdziernika-2026-r-nieruchomosc-gruntowa-zabudowana-chmiel-kolonia?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "22.10.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -865,31 +835,11 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji ruchomości 15 lipca 2026 r. (samochód osobowy Alfa Romeo 147, 1.9 JTD hatchback)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-ruchomosci-15-lipca-2026-r-samochod-osobowy-alfa-romeo-147-1-9-jtd-hatchback?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "15.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Krasnymstawie o pierwszej licytacji nieruchomości 12 października 2026 r. (działka, Siedliska Pierwsze)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasnymstawie-o-pierwszej-licytacji-nieruchomosci-12-pazdziernika-2026-r-dzialka-siedliska-pierwsze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "12.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Biłgoraju o drugiej licytacji ruchomości 8 lipca 2026 r. (wózek jezdniowy podnośnikowy z mechanicznym napędem podnoszenia LINDE E16P-01 )",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bilgoraju-o-drugiej-licytacji-ruchomosci-8-lipca-2026-r-wozek-jezdniowy-podnosnikowy-z-mechanicznym-napedem-podnoszenia-linde-e16p-01?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "08.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -955,16 +905,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 25 czerwca do 20 października 2026 r. (działki, Nowiny Żukowskie, Olszanka)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-25-czerwca-do-20-pazdziernika-2026-r-dzialki-nowiny-zukowskie-olszanka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "20.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (działka, Dąbrowa)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-dzialka-dabrowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -990,16 +930,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "24.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 23 czerwca do 22 września 2026 r. (działka, Piotrkówek 19)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-23-czerwca-do-22-wrzesnia-2026-r-dzialka-piotrkowek-19?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "22.09.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1445,21 +1375,41 @@
     {
       "region": "Lubelskie",
       "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 24 lipca do 13 października 2026 r. (działka, Żabia Wola)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-24-lipca-do-13-pazdziernika-2026-r-dzialka-zabia-wola?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 23 czerwca do 22 września 2026 r. (działka, Piotrkówek 19) - LICYTACJA ODWOŁANA",
+      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-23-czerwca-do-22-wrzesnia-2026-r-dzialka-piotrkowek-19-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "13.10.2026",
+      "type": "II licytacja",
+      "date": "22.09.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubelskie",
       "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji 22 października 2026 r. (nieruchomość gruntowa zabudowana, Chmiel-Kolonia)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-22-pazdziernika-2026-r-nieruchomosc-gruntowa-zabudowana-chmiel-kolonia?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 25 czerwca do 20 października 2026 r. (działki, Nowiny Żukowskie, Olszanka) - LICYTACJA ODWOŁANA",
+      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-25-czerwca-do-20-pazdziernika-2026-r-dzialki-nowiny-zukowskie-olszanka-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "20.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Drugi Urząd Skarbowy w Lublinie",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji 22 października 2026 r. (nieruchomość gruntowa zabudowana, Chmiel-Kolonia) - LICYTACJA ODWOŁANA",
+      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-22-pazdziernika-2026-r-nieruchomosc-gruntowa-zabudowana-chmiel-kolonia-licytacja-odwolana?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "22.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Drugi Urząd Skarbowy w Lublinie",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 24 lipca do 13 października 2026 r. (działka, Żabia Wola)",
+      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-24-lipca-do-13-pazdziernika-2026-r-dzialka-zabia-wola?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "13.10.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -1510,26 +1460,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "15.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 25 czerwca do 20 października 2026 r. (działki, Nowiny Żukowskie, Olszanka)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-25-czerwca-do-20-pazdziernika-2026-r-dzialki-nowiny-zukowskie-olszanka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "20.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 23 czerwca do 22 września 2026 r. (działka, Piotrkówek 19)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-23-czerwca-do-22-wrzesnia-2026-r-dzialka-piotrkowek-19?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "22.09.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -1765,16 +1695,6 @@
     {
       "region": "Lubelskie",
       "city": "Urząd Skarbowy w Biłgoraju",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Biłgoraju o drugiej licytacji ruchomości 8 lipca 2026 r. (wózek jezdniowy podnośnikowy z mechanicznym napędem podnoszenia LINDE E16P-01 )",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bilgoraju/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/H2Wc/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bilgoraju-o-drugiej-licytacji-ruchomosci-8-lipca-2026-r-wozek-jezdniowy-podnosnikowy-z-mechanicznym-napedem-podnoszenia-linde-e16p-01?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-bilgoraju%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_H2Wc%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "08.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bilgoraju/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Biłgoraju",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Biłgoraju o terminie opisu i oszacowania wartości nieruchomości od 15 lipca do 15 września 2026 r. (działki, powiat biłgorajski, gmina Aleksandrów)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bilgoraju/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/H2Wc/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bilgoraju-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-15-lipca-do-15-wrzesnia-2026-r-dzialki-powiat-bilgorajski-gmina-aleksandrow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-bilgoraju%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_H2Wc%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1800,16 +1720,6 @@
       "category": "Pojazdy",
       "type": "I licytacja",
       "date": "16.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o drugiej licytacji ruchomości 15 lipca 2026 r. (samochód osobowy Alfa Romeo 147, 1.9 JTD hatchback)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-drugiej-licytacji-ruchomosci-15-lipca-2026-r-samochod-osobowy-alfa-romeo-147-1-9-jtd-hatchback?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "15.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -1951,26 +1861,6 @@
       "type": "I licytacja",
       "date": "07.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-we-wlodawie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Pierwsza licytacja nieruchomości rolnej położonej w Drzeniowie - działka 142/1",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-nieruchomosci-rolnej-polozonej-w-drzeniowie-dzialka-142-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Pierwsza licytacja nieruchomości rolnej położonej w Drzeniowie - działka 142/3",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-nieruchomosci-rolnej-polozonej-w-drzeniowie-dzialka-142-3?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -2156,21 +2046,21 @@
       "region": "Lubuskie",
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Nowej Soli",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-nowej-soli?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-nowej-soli?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Słubicach",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-slubicach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-slubicach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -2445,26 +2335,6 @@
     {
       "region": "Lubuskie",
       "city": "Urząd Skarbowy w Żarach",
-      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości rolnej położonej w Drzeniowie - działka 142/1",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/pierwsza-licytacja-nieruchomosci-rolnej-polozonej-w-drzeniowie-dzialka-142-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żarach",
-      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości rolnej położonej w Drzeniowie - działka 142/3",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/pierwsza-licytacja-nieruchomosci-rolnej-polozonej-w-drzeniowie-dzialka-142-3?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żarach",
       "title": "Czytaj więcejo Zmiana terminu opisu i oszacowania wartości nieruchomości: lokalu mieszkalnego położonego w Łęknicy przy ul. Dworcowej 3A/1",
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/zmiana-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-lokalu-mieszkalnego-polozonego-w-leknicy-przy-ul-dworcowej-3a-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -2655,16 +2525,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o terminie opisu i oszacowania 1/8 udziału w nieruchomości od 14.05.2026 do 16.07.2026 r. (działka nr 242/18, Aleksandrów Łódzki)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-14052026-do-16072026-r-dzialka-nr-24218-aleksandrow-lodzki",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "14.05.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
       "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
       "category": "Inne ruchomości",
@@ -2745,16 +2605,6 @@
     {
       "region": "Małopolskie",
       "city": "Kraków",
-      "title": "ODWOŁANIE I licytacji samochodu Citroen Berlingo wyznaczonej na 16.07.2026r. godz. 11.30 w Nowym Targu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/odwolanie-i-licytacji-samochodu-citroen-berlingo-wyznaczonej-na-16-07-2026r-godz-11-30-w-nowym-targu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
       "title": "Obwieszczenie o II licytacji nieruchomości 14 działek w Mochnaczce Niżnej, 15.09.2026 r. o godz. 9.00 w Nowym Sączu",
       "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-14-dzialek-w-mochnaczce-niznej-15-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -2780,26 +2630,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "10.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o  II licytacji samochodu Citroen Berlingo, 16.07.2026r. o godz. 13.30 w Nowym Targu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-samochodu-citroen-berlingo-16-07-2026r-o-godz-13-30-w-nowym-targu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o  sprzedaży z wolnej ręki samochodu Renault Megane Scenic, 16.07.2026r. o godz. 13.00 w Nowym Targu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-sprzedazy-z-wolnej-reki-samochodu-renault-megane-scenic-16-07-2026r-o-godz-13-00-w-nowym-targu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
       "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -3395,16 +3225,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o drugiej licytacji nieruchomości składającej się z działek położonych w miejscowości Koszary, gmina Iłża, powiat radomski - termin: 17 lipca 2026 r., godz. 9:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-drugiej-licytacji-nieruchomosci-skladajacej-sie-z-dzialek-polozonych-w-miejscowosci-koszary-gmina-ilza-powiat-radomski-termin-17-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "17.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Siedlcach, przy ul. 3-go Maja 37/5 + garaż - termin: 18 czerwca 2026 r. - 3 września 2026 r.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-siedlcach-przy-ul-3-go-maja-37-5-garaz-termin-18-czerwca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
@@ -3466,11 +3286,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania - Nieruchomość gruntowa położona w miejscowości Kąty, powiat węgrowski, gm. Korytnica - termin: 19 czerwca 2026 r. - 10 sierpnia 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-katy-powiat-wegrowski-gm-korytnica-termin-19-czerwca-2026-r-10-sierpnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-katy-powiat-wegrowski-gm-korytnica-termin-19-czerwca-2026-r-10-sierpnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "19.06.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
@@ -3826,11 +3646,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-19?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-19?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
     },
     {
       "region": "Mazowieckie",
@@ -3920,16 +3740,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "21.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Pierwszy Urząd Skarbowy w Radomiu",
-      "title": "Czytaj więcejo Obwieszczenie o drugiej licytacji nieruchomości składającej się z działek położonych w miejscowości Koszary, gmina Iłża, powiat radomski - termin: 17 lipca 2026 r., godz. 9:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/j6pN/content/obwieszczenie-o-drugiej-licytacji-nieruchomosci-skladajacej-sie-z-dzialek-polozonych-w-miejscowosci-koszary-gmina-ilza-powiat-radomski-termin-17-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-radomiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_j6pN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "17.07.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -5915,39 +5725,9 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "II licytacja - quad HYTRACK EXLUSIVE",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---quad-hytrack-exlusive",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż - robot do etykiet, dozowniki, formy, narzędzia",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz---robot-do-etykiet-dozowniki-formy-narzedzia",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Sprzedaż z wolnej ręki - łożnice tapicerowane różnych rozmiarów i kolorów",
       "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---loznice-tapicerowane-roznych-rozmiarow-i-kolorow",
       "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy Fiat Panda",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-fiat-panda",
-      "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
@@ -5970,7 +5750,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -5980,7 +5760,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -5990,7 +5770,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -6070,7 +5850,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6080,7 +5860,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6090,7 +5870,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -6170,7 +5950,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6180,7 +5960,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6190,7 +5970,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -6270,7 +6050,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -6280,7 +6060,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -6290,7 +6070,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -6370,7 +6150,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6380,7 +6160,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6390,7 +6170,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6465,22 +6245,22 @@
     {
       "region": "Świętokrzyskie",
       "city": "Kielce",
-      "title": "OBWIESZCZENIE O TERMINIE OPISU I OSZACOWANIA (KIELCE, UL. GRANICZNA)",
-      "url": "https://www.gov.pl/web/ias-kielce/obwieszczenie-o-terminie-opisu-i-oszacowania-kielce-ul-graniczna",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
       "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
       "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki: samochód OPEL VECTRA - od 28 lipca 2026 r. od godz. 9:00 do 29 lipca 2026 r. do godz. 12:00",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-samochod-opel-vectra-od-28-lipca-2026-r-od-godz-9-00-do-29-lipca-2026-r-do-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "28.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Wielkopolskie",
@@ -6500,16 +6280,6 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "05.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Sprzedaż z wolnej ręki - Motorower BARTON - od 13 lipca 2026 r. od godz. 10:00 do 14 lipca 2026 r. do godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-motorower-barton-od-13-lipca-2026-r-od-godz-10-00-do-14-lipca-2026-r-do-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "13.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -6535,16 +6305,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Druga licytacja ruchomości: samochód OPEL VECTRA - 14 lipca 2026 r. godz. 9:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-opel-vectra-14-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
       "title": "Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul....",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -6565,61 +6325,11 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Druga licytacja ruchomości: samochód OPEL ZAFIRA - 14 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-opel-zafira-14-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Druga licytacja ruchomości: samochód VOLKSWAGEN PASSAT - 14 lipca 2026 r. godz. 10:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-volkswagen-passat-14-lipca-2026-r-godz-10-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Druga licytacja ruchomości: samochód BMW 318D - 14 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-samochod-bmw-318d-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
       "title": "Zmiana terminu: Opis i oszacowanie nieruchomości: rozpoczęcie 23 czerwca 2026 r. o godz. 9:00, zakończenie 30 WRZEŚNIA 2026 r. o godz. 11:00 - nieruchomości, położonej w Korpysach, oznaczonej numerem...",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/zmiana-terminu-opis-i-oszacowanie-nieruchomosci-rozpoczecie-23-czerwca-2026-r-o-godz-9-00-zakonczenie-30-wrzesnia-2026-r-o-godz-11-00-nieruchomosci-polozonej-w-korpysach-oznaczonej-numerem-dzialki-52-1-obreb-ewidencyjny-0004-korpysy-i-numerem-dzialki-242-obreb-ewidencyjny-301807_5-0004-korpysy-dla-ktorej-sad-rejonowy-w-ostrzeszowie-prowadzi-ksiege-wieczysta-o-nr-kz1o-00049068-1?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "23.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja ruchomości: PRZYCZEPA DO PRZEWOZU ZWIERZĄT - 16 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-ruchomosci-przyczepa-do-przewozu-zwierzat-16-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja ruchomości: samochód SEAT CORDOBA - 16 lipca 2026 r. o godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-ruchomosci-samochod-seat-cordoba-16-lipca-2026-r-o-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -6675,11 +6385,71 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód TOYOTA YARIS - od 30 czerwca 2026 r. do 14 lipca 2026 r. w godz. od 8:00 do 14:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-toyota-yaris-od-30-czerwca-2026-r-do-14-lipca-2026-r-w-godz-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Druga licytacja ruchomości - motorower PIAGGIO LIBERTY 50 - 17 lipca 2026 r. godz. 11:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/druga-licytacja-ruchomosci-motorower-piaggio-liberty-50-17-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "17.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. godz. 11:00 do 24 września 2026 r. godz. 12:00 - nieruchomość gruntowa, niezabudowana położona w Głuchowie, ul....",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-7-lipca-2026-r-godz-11-00-do-24-wrzesnia-2026-r-godz-12-00-nieruchomosc-gruntowa-niezabudowana-polozona-w-gluchowie-ul-teczowa-dz-ew-nr-406-43-o-pow-wg-kw-0-0763-ha-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00299765-3?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "07.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 11:00 - nieruchomość lokalowa położona w Plewiskach, ul....",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-7-lipca-2026-r-o-godz-10-00-do-24-wrzesnia-2026-r-o-godz-11-00-nieruchomosc-lokalowa-polozona-w-plewiskach-ul-fabianowska-77ee-2-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00277458-8?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "07.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 2 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 9:00 - nieruchomość lokalowa położona w Plewiskach, ul. Miętowa...",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-2-lipca-2026-r-o-godz-10-00-do-24-wrzesnia-2026-r-o-godz-9-00-nieruchomosc-lokalowa-polozona-w-plewiskach-ul-mietowa-35a-19-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00302257-4?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "02.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki ruchomości: samochód RENAULT CLIO - od 26 czerwca do 27 lipca 2026 r., w godz. od 8:00 do 14:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-renault-clio-od-26-czerwca-do-27-lipca-2026-r-w-godz-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "Wolna ręka",
-      "date": "30.06.2026",
+      "date": "27.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-polozonej-w-miejscowosci-niewolno-12-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "III licytacja",
+      "date": "12.08.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
+      "title": "Pierwsza licytacja nieruchomości: 22 LIPCA 2026 r. godz. 9:00 -tj. działki gruntu numer 273/87 o powierzchni 17,00 m2 położonej w Pile przy ul. Krynicznej zabudowanej garażem o powierzchni użytkowej...",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-nieruchomosci-22-lipca-2026-r-godz-9-00-tj-dzialki-gruntu-numer-273-87-o-powierzchni-17-00-m2-polozonej-w-pile-przy-ul-krynicznej-zabudowanej-garazem-o-powierzchni-uzytkowej-16-00-m2-nieruchomosc-posiada-urzadzona-ksiege-wieczysta-dla-ktorej-sad-rejonowy-w-pile-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-o-nr-po1i-00005453-2?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "22.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -6715,7 +6485,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Pierwszy Urząd Skarbowy w Poznaniu",
-      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. godz. 11:00 do 24 września 2026 r. godz. 12:00 - nieruchomość gruntowa, niezabudowana położona w Głuchowie, ul....",
+      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. godz. 11:00 do 24 września 2026 r. godz. 12:00 - nieruchomość gruntowa, niezabudowana położona w Głuchowie, ul. Tęczowa (dz. ew. nr 406/43 o pow. wg KW 0,0763 ha), gm. Komorniki dla której Sąd Rejonowy Poznań-Stare Miasto w Poznaniu prowadzi księgę wieczystą o nr PO2P/00299765/3",
       "url": "https://www.wielkopolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-poznaniu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/K6Ez/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-7-lipca-2026-r-godz-11-00-do-24-wrzesnia-2026-r-godz-12-00-nieruchomosc-gruntowa-niezabudowana-polozona-w-gluchowie-ul-teczowa-dz-ew-nr-406-43-o-pow-wg-kw-0-0763-ha-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00299765-3?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_K6Ez%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -6725,7 +6495,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Pierwszy Urząd Skarbowy w Poznaniu",
-      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 11:00 - nieruchomość lokalowa położona w Plewiskach, ul....",
+      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 7 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 11:00 - nieruchomość lokalowa położona w Plewiskach, ul. Fabianowska 77EE/2, gm. Komorniki dla której Sąd Rejonowy Poznań-Stare Miasto w Poznaniu prowadzi księgę wieczystą o nr PO2P/00277458/8",
       "url": "https://www.wielkopolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-poznaniu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/K6Ez/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-7-lipca-2026-r-o-godz-10-00-do-24-wrzesnia-2026-r-o-godz-11-00-nieruchomosc-lokalowa-polozona-w-plewiskach-ul-fabianowska-77ee-2-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00277458-8?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_K6Ez%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -6735,42 +6505,12 @@
     {
       "region": "Wielkopolskie",
       "city": "Pierwszy Urząd Skarbowy w Poznaniu",
-      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 2 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 9:00 - nieruchomość lokalowa położona w Plewiskach, ul. Miętowa...",
+      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości - od 2 lipca 2026 r. o godz. 10:00 do 24 września 2026 r. o godz. 9:00 - nieruchomość lokalowa położona w Plewiskach, ul. Miętowa 35A/19, gm. Komorniki dla której Sąd Rejonowy Poznań-Stare Miasto w Poznaniu prowadzi księgę wieczystą o nr PO2P/00302257/4.",
       "url": "https://www.wielkopolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-poznaniu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/K6Ez/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-2-lipca-2026-r-o-godz-10-00-do-24-wrzesnia-2026-r-o-godz-9-00-nieruchomosc-lokalowa-polozona-w-plewiskach-ul-mietowa-35a-19-gm-komorniki-dla-ktorej-sad-rejonowy-poznan-stare-miasto-w-poznaniu-prowadzi-ksiege-wieczysta-o-nr-po2p-00302257-4?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_K6Ez%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "02.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-poznaniu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód BMW 318D - 14 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-bmw-318d-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód VOLKSWAGEN PASSAT - 14 lipca 2026 r. godz. 10:30.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-volkswagen-passat-14-lipca-2026-r-godz-10-30?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Grunwald",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód OPEL ZAFIRA - 14 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4csN/content/druga-licytacja-ruchomosci-samochod-opel-zafira-14-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-grunwald%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4csN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-grunwald/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -6781,16 +6521,6 @@
       "type": "Wolna ręka",
       "date": "22.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-jezyce/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy Poznań-Wilda",
-      "title": "Czytaj więcejo Sprzedaż z wolnej ręki ruchomości: samochód TOYOTA YARIS - od 30 czerwca 2026 r. do 14 lipca 2026 r. w godz. od 8:00 do 14:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/J7fp/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-toyota-yaris-od-30-czerwca-2026-r-do-14-lipca-2026-r-w-godz-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-wilda%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_J7fp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "30.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -6811,16 +6541,6 @@
       "type": "Ogłoszenie",
       "date": "18.05.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Czarnkowie",
-      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - Motorower BARTON - od 13 lipca 2026 r. od godz. 10:00 do 14 lipca 2026 r. do godz. 10:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ezZ1/content/sprzedaz-z-wolnej-reki-motorower-barton-od-13-lipca-2026-r-od-godz-10-00-do-14-lipca-2026-r-do-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-czarnkowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ezZ1%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "13.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -6855,11 +6575,11 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Gnieźnie",
-      "title": "Czytaj więcejo Druga licytacja ruchomości: samochód OPEL VECTRA - 14 lipca 2026 r. godz. 9:00",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/druga-licytacja-ruchomosci-samochod-opel-vectra-14-lipca-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki: samochód OPEL VECTRA - od 28 lipca 2026 r. od godz. 9:00 do 29 lipca 2026 r. do godz. 12:00",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/sprzedaz-z-wolnej-reki-samochod-opel-vectra-od-28-lipca-2026-r-od-godz-9-00-do-29-lipca-2026-r-do-godz-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "14.07.2026",
+      "type": "Wolna ręka",
+      "date": "28.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -6875,7 +6595,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Gnieźnie",
-      "title": "Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
+      "title": "Czytaj więcejo Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-polozonej-w-miejscowosci-niewolno-12-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "III licytacja",
@@ -6895,32 +6615,12 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Jarocinie",
-      "title": "Sprzedaż z wolnej ręki ruchomości: samochód RENAULT CLIO - od 26 czerwca do 27 lipca 2026 r., w godz. od 8:00 do 14:00.",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki ruchomości: samochód RENAULT CLIO - od 26 czerwca do 27 lipca 2026 r., w godz. od 8:00 do 14:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-jarocinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/8USq/content/sprzedaz-z-wolnej-reki-ruchomosci-samochod-renault-clio-od-26-czerwca-do-27-lipca-2026-r-w-godz-od-8-00-do-14-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-jarocinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_8USq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "27.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-jarocinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kępnie",
-      "title": "Opis i oszacowanie nieruchomości: rozpocznie się 8 CZERWCA 2026 r. o godz. 9:00, zakończy się 16 LIPCA 2026 r. o godz. 12:00 - Nieruchomości położone są na terenie gminy Kępno w miejscowości...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kepnie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/1Sta/content/opis-i-oszacowanie-nieruchomosci-rozpocznie-sie-8-czerwca-2026-r-o-godz-9-00-zakonczy-sie-16-lipca-2026-r-o-godz-12-00-nieruchomosci-polozone-sa-na-terenie-gminy-kepno-w-miejscowosci-myjomice-ostrowiec-ul-owocowa-1a-w-sklad-nieruchomosci-dla-ktorej-sad-rejonowy-w-kepnie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-o-numerze-kz1e-00047001-0-wchodza-dzialki-dz-nr-134-25-oraz-134-26-o-lacznej-o-powierzchni-0-5200-ha-w-sklad-nieruchomosci-dla-ktorej-sad-rejonowy-w-kepnie-v-wydzial-ksiag-wieczystych-prowadzi-ksiege-o-numerze-kz1e-00050290-6-wchodza-dzialki-o-nr-134-19-134-20-134-7-134-8-o-lacznej-powierzchni-0-2650-ha?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kepnie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_1Sta%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "08.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kepnie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kole",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: samochód SEAT CORDOBA - 16 lipca 2026 r. o godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/SvS3/content/pierwsza-licytacja-ruchomosci-samochod-seat-cordoba-16-lipca-2026-r-o-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kole%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_SvS3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -6935,21 +6635,11 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Kole",
-      "title": "Druga licytacja ruchomości - motorower PIAGGIO LIBERTY 50 - 17 lipca 2026 r. godz. 11:00.",
+      "title": "Czytaj więcejo Druga licytacja ruchomości - motorower PIAGGIO LIBERTY 50 - 17 lipca 2026 r. godz. 11:00.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/SvS3/content/druga-licytacja-ruchomosci-motorower-piaggio-liberty-50-17-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kole%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_SvS3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Pojazdy",
       "type": "II licytacja",
       "date": "17.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kole",
-      "title": "Druga licytacja ruchomości: samochód AUDI A3 -  15 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/SvS3/content/druga-licytacja-ruchomosci-samochod-audi-a3-15-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kole%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_SvS3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "15.07.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -6961,16 +6651,6 @@
       "type": "Ogłoszenie",
       "date": "07.08.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kościanie",
-      "title": "Pierwsza licytacja ruchomości: samochody RENAULT MEGANE, CITROEN JUMPER, RENAULT MEGANE, OPEL COMBO, BMW - 14 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/fIZ5/content/pierwsza-licytacja-ruchomosci-samochody-renault-megane-citroen-jumper-renault-megane-opel-combo-bmw-14-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koscianie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_fIZ5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "14.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -6995,32 +6675,12 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Ostrowie Wielkopolskim",
-      "title": "OPIS I OSZACOWANIE NIERUCHOMOŚCI - OD 2 CZERWCA 2026 r. GODZ 14:30 DO 16 LIPCA 2026 r. godz. 12:00. Nieruchomość gruntowa, położona w Czekanowie, działka nr 226/14, o powierzchni 2,5918 ha, dla której...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4Gp7/content/opis-i-oszacowanie-nieruchomosci-od-2-czerwca-2026-r-godz-14-30-do-16-lipca-2026-r-godz-12-00-nieruchomosc-gruntowa-polozona-w-czekanowie-dzialka-nr-226-14-o-powierzchni-2-5918-ha-dla-ktorej-sad-rejonowy-w-ostrowie-wlkp-prowadzi-kw-nr-kz1w-00104448-9?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4Gp7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "02.06.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrowie Wielkopolskim",
       "title": "Czytaj więcejo ZMIANA TERMINU ZAKOŃCZENIA OPISU I O SZACOWANIA NIERUCHOMOŚCI : rozpoczęcie 27 maja 2026 r. o godz. 9:00  zakończenie 31 lipca 2026 r. o godz. 12:00. Nieruchomość gruntowa zabudowana położona w Ostrowie Wielkopolskim, ul. Mielczarskiego 61  (działka nr 45/4 o powierzchni 0,0690 ha, obręb ewidencyjny 301701_1.0045, Ostrów Wielkopolski),  dla której Sąd Rejonowy w Ostrowie Wielkopolskim prowadzi księgę wieczystą o nr  KZ1W/00024775/5.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/4Gp7/content/zmiana-terminu-zakonczenia-opisu-i-o-szacowania-nieruchomosci-rozpoczecie-27-maja-2026-r-o-godz-9-00-zakonczenie-31-lipca-2026-r-o-godz-12-00-nieruchomosc-gruntowa-zabudowana-polozona-w-ostrowie-wielkopolskim-ul-mielczarskiego-61-dzialka-nr-45-4-o-powierzchni-0-0690-ha-obreb-ewidencyjny-301701_1-0045-ostrow-wielkopolski-dla-ktorej-sad-rejonowy-w-ostrowie-wielkopolskim-prowadzi-ksiege-wieczysta-o-nr-kz1w-00024775-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_4Gp7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "27.05.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Ostrzeszowie",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: PRZYCZEPA DO PRZEWOZU ZWIERZĄT - 16 lipca 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/jQp5/content/pierwsza-licytacja-ruchomosci-przyczepa-do-przewozu-zwierzat-16-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-ostrzeszowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_jQp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-ostrzeszowie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -7055,7 +6715,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Pile",
-      "title": "Pierwsza licytacja nieruchomości: 22 LIPCA 2026 r. godz. 9:00 -tj. działki gruntu numer 273/87 o powierzchni 17,00 m2 położonej w Pile przy ul. Krynicznej zabudowanej garażem o powierzchni użytkowej...",
+      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości: 22 LIPCA 2026 r. godz. 9:00 -tj. działki gruntu numer 273/87 o powierzchni 17,00 m2 położonej w Pile przy ul. Krynicznej zabudowanej garażem o powierzchni użytkowej 16,00 m2. Nieruchomość posiada urządzoną księgę wieczystą dla której Sąd Rejonowy w Pile, VI Wydział Ksiąg Wieczystych prowadzi księgę wieczystą o nr PO1I/00005453/2.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-pile/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p7xU/content/pierwsza-licytacja-nieruchomosci-22-lipca-2026-r-godz-9-00-tj-dzialki-gruntu-numer-273-87-o-powierzchni-17-00-m2-polozonej-w-pile-przy-ul-krynicznej-zabudowanej-garazem-o-powierzchni-uzytkowej-16-00-m2-nieruchomosc-posiada-urzadzona-ksiege-wieczysta-dla-ktorej-sad-rejonowy-w-pile-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-o-nr-po1i-00005453-2?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-pile%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p7xU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
@@ -7274,25 +6934,25 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 32,
-    "Kujawsko-Pomorskie": 42,
-    "Lubelskie": 121,
-    "Lubuskie": 53,
-    "Łódzkie": 20,
-    "Małopolskie": 18,
-    "Mazowieckie": 195,
+    "Dolnośląskie": 31,
+    "Kujawsko-Pomorskie": 38,
+    "Lubelskie": 117,
+    "Lubuskie": 49,
+    "Łódzkie": 19,
+    "Małopolskie": 15,
+    "Mazowieckie": 193,
     "Opolskie": 35,
     "Podkarpackie": 9,
     "Podlaskie": 12,
     "Pomorskie": 1,
-    "Śląskie": 102,
-    "Świętokrzyskie": 8,
-    "Wielkopolskie": 62,
+    "Śląskie": 99,
+    "Świętokrzyskie": 7,
+    "Wielkopolskie": 51,
     "Zachodniopomorskie": 17
   },
   "by_category": {
-    "Nieruchomości": 477,
-    "Pojazdy": 108,
-    "Inne ruchomości": 142
+    "Nieruchomości": 472,
+    "Pojazdy": 84,
+    "Inne ruchomości": 137
   }
 }
