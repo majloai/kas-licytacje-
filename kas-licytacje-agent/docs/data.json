@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-17T07:56:16.294517",
-  "total": 693,
+  "scraped_at": "2026-07-18T07:30:32.852816",
+  "total": 658,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -105,16 +105,6 @@
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości - samochód",
-      "url": "https://www.gov.pl/web/ias-wroclaw/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci---samochod45",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
       "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
       "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
       "category": "Inne ruchomości",
@@ -170,7 +160,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -270,7 +260,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -330,16 +320,6 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "01.09.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki ruchomości   od 6 lipca 2026 roku od godz. 8:00 do 17 lipca 2026 roku do godz. 13.00 - Samochód osobowy  marki VOLVO V40",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-od-6-lipca-2026-roku-od-godz-8-00-do-17-lipca-2026-roku-do-godz-13-00-samochod-osobowy-marki-volvo-v40?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "06.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -561,16 +541,6 @@
       "type": "III licytacja",
       "date": "28.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Pierwszy Urząd Skarbowy w Toruniu",
-      "title": "Czytaj więcejo Zawiadomienie o sprzedaży z wolnej ręki ruchomości   od 6 lipca 2026 roku od godz. 8:00 do 17 lipca 2026 roku do godz. 13.00 - Samochód osobowy  marki VOLVO V40",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-toruniu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Cx37/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-ruchomosci-od-6-lipca-2026-roku-od-godz-8-00-do-17-lipca-2026-roku-do-godz-13-00-samochod-osobowy-marki-volvo-v40?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-toruniu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Cx37%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "06.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-toruniu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Kujawsko-Pomorskie",
@@ -1965,16 +1935,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Drugim Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-drugim-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Celno-Skarbowym",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-celno-skarbowym?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -1985,162 +1945,32 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Pierwszym Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-pierwszym-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Drezdenku",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-drezdenku?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Gorzowie Wielkopolskim",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-gorzowie-wielkopolskim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Krośnie Odrzańskim",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-krosnie-odrzanskim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Międzyrzeczu",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Nowej Soli",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-nowej-soli?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Słubicach",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-slubicach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Sulęcinie",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-sulecinie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Świebodzinie",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-swiebodzinie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Żaganiu",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-zaganiu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Żarach",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-zarach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym we Wschowie",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-we-wschowie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "Pierwsza licytacja ruchomości: wentylatorów i akcesoriów ogrodowych",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-ruchomosci-wentylatorow-i-akcesoriow-ogrodowych?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_4lkF_advancedSearch%3Dfalse%26_101_INSTANCE_4lkF_keywords%3D%26_101_INSTANCE_4lkF_delta%3D20%26_101_INSTANCE_4lkF_cur%3D2%26_101_INSTANCE_4lkF_andOperator%3Dtrue",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-ruchomosci-wentylatorow-i-akcesoriow-ogrodowych?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_4lkF&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_4lkF_delta=20&_101_INSTANCE_4lkF_keywords=&_101_INSTANCE_4lkF_advancedSearch=false&_101_INSTANCE_4lkF_andOperator=true&cur=2"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
-      "city": "Drugi Urząd Skarbowy w Zielonej Górze",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Drugim Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/drugi-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/liX0/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-drugim-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_liX0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/drugi-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Lubuski Urząd Skarbowy w Zielonej Górze",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/lubuski-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/vOi8/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Flubuski-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_vOi8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "city": "Zielona Góra",
+      "title": "Ruszył portal eLicytacje KAS",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/ruszyl-portal-elicytacje-kas-4?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/lubuski-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Lubuskie",
+      "city": "Zielona Góra",
+      "title": "Czytaj więcejo Ruszył portal eLicytacje KAS",
+      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/ruszyl-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -2155,32 +1985,12 @@
     {
       "region": "Lubuskie",
       "city": "Pierwszy Urząd Skarbowy w Zielonej Górze",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Pierwszym Urzędzie Skarbowym w Zielonej Górze",
-      "url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-pierwszym-urzedzie-skarbowym-w-zielonej-gorze?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Pierwszy Urząd Skarbowy w Zielonej Górze",
       "title": "Czytaj więcejo Pierwsza licytacja ruchomości: wentylatorów i akcesoriów ogrodowych",
       "url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/pierwsza-licytacja-ruchomosci-wentylatorow-i-akcesoriow-ogrodowych?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Drezdenku",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Drezdenku",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-drezdenku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/F6vU/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-drezdenku?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-drezdenku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_F6vU%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-drezdenku/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubuskie",
@@ -2199,16 +2009,6 @@
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/zY7t/content/trzecia-licytacja-nieruchomosci-polozonej-w-miejscowosci-wysoka?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-gorzowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_zY7t%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "III licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Gorzowie Wielkopolskim",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Gorzowie Wielkopolskim",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/zY7t/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-gorzowie-wielkopolskim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-gorzowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_zY7t%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
     },
@@ -2244,76 +2044,6 @@
     },
     {
       "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Krośnie Odrzańskim",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Krośnie Odrzańskim",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-krosnie-odrzanskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/8wL9/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-krosnie-odrzanskim?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-krosnie-odrzanskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_8wL9%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-krosnie-odrzanskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Międzyrzeczu",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Międzyrzeczu",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-miedzyrzeczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/j1OZ/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-miedzyrzeczu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-miedzyrzeczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_j1OZ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-miedzyrzeczu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Nowej Soli",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Nowej Soli",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-nowej-soli/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/DnE8/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-nowej-soli?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-nowej-soli%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_DnE8%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-nowej-soli/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Słubicach",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Słubicach",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-slubicach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xL0k/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-slubicach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-slubicach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xL0k%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-slubicach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Sulęcinie",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Sulęcinie",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-sulecinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Pkl5/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-sulecinie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-sulecinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Pkl5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-sulecinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Świebodzinie",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Świebodzinie",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-swiebodzinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/pV7s/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-swiebodzinie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-swiebodzinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_pV7s%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-swiebodzinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy we Wschowie",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym we Wschowie",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-we-wschowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ea0L/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-we-wschowie?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-we-wschowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ea0L%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-we-wschowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
       "city": "Urząd Skarbowy w Żaganiu",
       "title": "Czytaj więcejo Druga licytacja nieruchomości niezabudowanej, położonej w miejscowości Brzeźnica",
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zaganiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/h5ZW/content/druga-licytacja-nieruchomosci-niezabudowanej-polozonej-w-miejscowosci-brzeznica?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zaganiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_h5ZW%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -2324,31 +2054,11 @@
     },
     {
       "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żaganiu",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Żaganiu",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zaganiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/h5ZW/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-zaganiu?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zaganiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_h5ZW%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zaganiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
       "city": "Urząd Skarbowy w Żarach",
       "title": "Czytaj więcejo Zmiana terminu opisu i oszacowania wartości nieruchomości: lokalu mieszkalnego położonego w Łęknicy przy ul. Dworcowej 3A/1",
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/zmiana-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-lokalu-mieszkalnego-polozonego-w-leknicy-przy-ul-dworcowej-3a-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żarach",
-      "title": "Czytaj więcejo Informacja o aktualizacji obwieszczeń o licytacjach w Urzędzie Skarbowym w Żarach",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-urzedzie-skarbowym-w-zarach?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
     },
@@ -2665,31 +2375,11 @@
     {
       "region": "Małopolskie",
       "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji nieruchomości położonej w Siemiechowie, 17.07.2026r.  o godz. 11.00 w Tarnowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-siemiechowie-17-07-2026r-o-godz-11-00-w-tarnowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
       "title": "Obwieszczenie o II licytacji nieruchomości położonej w miejscowości Witów, 21.07.2026 r. o godz. 10.00 w Zakopanem",
       "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-polozonej-w-miejscowosci-witow-21-07-2026-r-o-godz-10-00-w-zakopanem?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "21.07.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Ogólna informacja dla uczestników licytacji ruchomości",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/ogolna-informacja-dla-uczestnikow-licytacji-ruchomosci?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
       "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -4625,16 +4315,6 @@
     {
       "region": "Opolskie",
       "city": "Opole",
-      "title": "Obwieszczenie Pierwszego Urzędu Skarbowego w Opolu o odwołaniu zakończenia opisu i oszacowania nieruchomości nr OP1O/00085358/8) termin 15 lipca 2026 r. godz. 13.00",
-      "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-pierwszego-urzedu-skarbowego-w-opolu-o-odwolaniu-zakonczenia-opisu-i-oszacowania-nieruchomosci-nr-op1o-00085358-8-termin-15-lipca-2026-r-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Odwołanie",
-      "date": "15.07.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Opole",
       "title": "Obwieszczenie Urzędu Skarbowego w Głubczycach o terminie opisu i oszacowania nieruchomości (KW nr OP1G/00033613/7 położonej we wsi Wódka, gmina Branice) termin od 29 lipca 2026 r. godz. 10.00 do 6...",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-urzedu-skarbowego-w-glubczycach-o-terminie-opisu-i-oszacowania-nieruchomosci-kw-nr-op1g-00033613-7-polozonej-we-wsi-wodka-gmina-branice-termin-od-29-lipca-2026-r-godz-10-00-do-6-sierpnia-2026-r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -4650,16 +4330,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "31.07.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Opole",
-      "title": "Obwieszczenie Pierwszego Urzędu Skarbowego w Opolu o terminie zakończenia opisu i oszacowania wartości 1/2 udziału w nieruchomości (KW OP1O/00085358/8) termin 15 lipca 2026 r. godz. 13.00",
-      "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-pierwszego-urzedu-skarbowego-w-opolu-o-terminie-zakonczenia-opisu-i-oszacowania-wartosci-1-2-udzialu-w-nieruchomosci-kw-op1o-00085358-8-termin-15-lipca-2026-r-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "15.07.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -4710,16 +4380,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "09.06.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Opole",
-      "title": "Obwieszczenie Urzędu Skarbowego w Krapkowicach o terminie opisu i oszacowania wartości nieruchomości (KW OP1S/00069349/7), termin od 3 czerwca 2026 r. o godz. 10:00 do 7 lipca 2026 r. o godz. 13:00",
-      "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-urzedu-skarbowego-w-krapkowicach-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-kw-op1s-00069349-7-termin-od-3-czerwca-2026-r-o-godz-10-00-do-7-lipca-2026-r-o-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "03.06.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -4845,26 +4505,6 @@
     {
       "region": "Opolskie",
       "city": "Pierwszy Urząd Skarbowy w Opolu",
-      "title": "Czytaj więcejo Obwieszczenie Pierwszego Urzędu Skarbowego w Opolu o odwołaniu zakończenia opisu i oszacowania nieruchomości nr OP1O/00085358/8) termin 15 lipca 2026 r. godz. 13.00",
-      "url": "https://www.opolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/f4MM/content/obwieszczenie-pierwszego-urzedu-skarbowego-w-opolu-o-odwolaniu-zakonczenia-opisu-i-oszacowania-nieruchomosci-nr-op1o-00085358-8-termin-15-lipca-2026-r-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_f4MM%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Odwołanie",
-      "date": "15.07.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Pierwszy Urząd Skarbowy w Opolu",
-      "title": "Czytaj więcejo Obwieszczenie Pierwszego Urzędu Skarbowego w Opolu o terminie zakończenia opisu i oszacowania wartości 1/2 udziału w nieruchomości (KW OP1O/00085358/8) termin 15 lipca 2026 r. godz. 13.00",
-      "url": "https://www.opolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/f4MM/content/obwieszczenie-pierwszego-urzedu-skarbowego-w-opolu-o-terminie-zakonczenia-opisu-i-oszacowania-wartosci-1-2-udzialu-w-nieruchomosci-kw-op1o-00085358-8-termin-15-lipca-2026-r-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_f4MM%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "15.07.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Pierwszy Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenie Pierwszego Urzędu Skarbowego w Opolu o rozpoczęciu opisu i oszacowania wartości nieruchomości KW OP1O_00093424_1, termin 9 kwietnia 2026 roku godz. 10.00",
       "url": "https://www.opolskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/f4MM/content/obwieszczenie-pierwszego-urzedu-skarbowego-w-opolu-o-rozpoczeciu-opisu-i-oszacowania-wartosci-nieruchomosci-kw-op1o_00093424_1-termin-9-kwietnia-2026-roku-godz-10-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_f4MM%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -4901,16 +4541,6 @@
       "type": "Ogłoszenie",
       "date": "29.07.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-glubczycach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Opolskie",
-      "city": "Urząd Skarbowy w Krapkowicach",
-      "title": "Czytaj więcejo Obwieszczenie Urzędu Skarbowego w Krapkowicach o terminie opisu i oszacowania wartości nieruchomości (KW OP1S/00069349/7), termin od 3 czerwca 2026 r. o godz. 10:00 do 7 lipca 2026 r. o godz. 13:00",
-      "url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-krapkowicach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/j3nE/content/obwieszczenie-urzedu-skarbowego-w-krapkowicach-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-kw-op1s-00069349-7-termin-od-3-czerwca-2026-r-o-godz-10-00-do-7-lipca-2026-r-o-godz-13-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Furzad-skarbowy-w-krapkowicach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_j3nE%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "03.06.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-krapkowicach/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
@@ -5315,6 +4945,16 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia produkcyjne",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-produkcyjne",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Węgierskiej Górce, ul. Ogrodowa 5 (działka nr 1155)",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-wegierskiej-gorce-ul-ogrodowa-5-dzialka-nr-1155",
       "category": "Nieruchomości",
@@ -5375,12 +5015,22 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - quad Hytrack Exlusive",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---quad-hytrack-exlusive",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "I licytacja - samochód osobowy Opel Corsa",
       "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-corsa",
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Śląskie",
@@ -5389,6 +5039,16 @@
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-krasickiego-1655",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Honda Accord",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-honda-accord",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
@@ -5460,7 +5120,7 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -5470,7 +5130,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -5480,7 +5140,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -5497,6 +5157,16 @@
       "city": "Katowice",
       "title": "Sprzedaż z wolnej ręki - samochód ciężarowy Fiat Fiorino",
       "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-ciezarowy-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A4",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a5",
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
@@ -5540,17 +5210,7 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A4",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a4",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -5560,7 +5220,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -5570,7 +5230,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -5640,7 +5300,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -5650,7 +5310,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -5660,7 +5320,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -5670,25 +5330,25 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I licytacja - samochód ciężarowy Renault Trafic",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-ciezarowy-renault-trafic",
-      "category": "Pojazdy",
-      "type": "Licytacja",
+      "title": "Sprzedaż po cenie oszacowania podmiotom prowadzącym działalność handlową - Waga TCS",
+      "url": "https://www.gov.pl/web/ias-katowice/oferta-sprzedaz-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa---waga-tcs",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "II licytacja - samochód osobowy sedan Volvo S40",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-sedan-volvo-s40",
-      "category": "Pojazdy",
-      "type": "Licytacja",
+      "title": "Sprzedaż po cenie oszacowania podmiotom prowadzącym działalność handlową - kompresory różnych marek",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa---kompresory-roznych-marek",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
@@ -5740,7 +5400,7 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -5750,7 +5410,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -5760,7 +5420,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -5770,7 +5430,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -5840,7 +5500,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -5850,7 +5510,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -5860,7 +5520,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -5870,7 +5530,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -5940,7 +5600,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -5950,7 +5610,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -5960,7 +5620,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -5970,7 +5630,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
     },
     {
       "region": "Śląskie",
@@ -6040,7 +5700,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6050,7 +5710,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6060,7 +5720,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6070,7 +5730,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
     },
     {
       "region": "Śląskie",
@@ -6140,7 +5800,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
     },
     {
       "region": "Śląskie",
@@ -6150,7 +5810,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
     },
     {
       "region": "Śląskie",
@@ -6160,7 +5820,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
     },
     {
       "region": "Śląskie",
@@ -6170,7 +5830,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=11&size=10"
     },
     {
       "region": "Śląskie",
@@ -6229,16 +5889,6 @@
       "url": "https://www.gov.pl/web/ias-kielce/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-miejscowosci-ubyszow",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
-      "title": "FORD MONDEO - II Licytacja",
-      "url": "https://www.gov.pl/web/ias-kielce/ford-mondeo---ii-licytacja3",
-      "category": "Pojazdy",
-      "type": "II licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
     },
@@ -6934,25 +6584,25 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 31,
-    "Kujawsko-Pomorskie": 38,
+    "Dolnośląskie": 30,
+    "Kujawsko-Pomorskie": 36,
     "Lubelskie": 117,
-    "Lubuskie": 49,
+    "Lubuskie": 23,
     "Łódzkie": 19,
-    "Małopolskie": 15,
+    "Małopolskie": 13,
     "Mazowieckie": 193,
-    "Opolskie": 35,
+    "Opolskie": 29,
     "Podkarpackie": 9,
     "Podlaskie": 12,
     "Pomorskie": 1,
-    "Śląskie": 99,
-    "Świętokrzyskie": 7,
+    "Śląskie": 102,
+    "Świętokrzyskie": 6,
     "Wielkopolskie": 51,
     "Zachodniopomorskie": 17
   },
   "by_category": {
-    "Nieruchomości": 472,
-    "Pojazdy": 84,
-    "Inne ruchomości": 137
+    "Nieruchomości": 465,
+    "Inne ruchomości": 114,
+    "Pojazdy": 79
   }
 }
