@@ -1,7 +1,17 @@
 {
-  "scraped_at": "2026-07-26T08:09:31.784324",
-  "total": 588,
+  "scraped_at": "2026-07-27T09:29:50.824065",
+  "total": 587,
   "listings": [
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Zniesienie opłaty elektronicznej w systemie e-TOLL za przejazdy pojazdów lekkich wraz z przyczepą",
+      "url": "https://www.gov.pl/web/ias-wroclaw/zniesienie-oplaty-elektronicznej-w-systemie-e-toll-za-przejazdy-pojazdow-lekkich-wraz-z-przyczepa",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
@@ -335,16 +345,6 @@
     {
       "region": "Kujawsko-Pomorskie",
       "city": "Bydgoszcz",
-      "title": "Obwieszczenie o pierwszej licytacji 30 lipca 2026 roku samochodu SKODA OKTAVIA 1,4 TSI E6 oraz samochodu CITROEN BERLINGO II MULTISPACE 1,6 16V",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-pierwszej-licytacji-30-lipca-2026-roku-samochodu-skoda-oktavia-1-4-tsi-e6-oraz-samochodu-citroen-berlingo-ii-multispace-1-6-16v?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej  stanowiącej działkę ewidencyjną numer nr 132/1 , 337/1, 342 , obręb Morgi                                           o powierzchni 2,9210...",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-ewidencyjna-numer-nr-132-1-337-1-342-obreb-morgi-o-powierzchni-2-9210-ha-wyznaczonej-na-25-wrzesnia-2026-roku?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -491,16 +491,6 @@
       "type": "I licytacja",
       "date": "03.09.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/drugi-urzad-skarbowy-w-toruniu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Pierwszy Urząd Skarbowy w Bydgoszczy",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji 30 lipca 2026 roku samochodu SKODA OKTAVIA 1,4 TSI E6 oraz samochodu CITROEN BERLINGO II MULTISPACE 1,6 16V",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Cc8Y/content/obwieszczenie-o-pierwszej-licytacji-30-lipca-2026-roku-samochodu-skoda-oktavia-1-4-tsi-e6-oraz-samochodu-citroen-berlingo-ii-multispace-1-6-16v?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Cc8Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Kujawsko-Pomorskie",
@@ -5884,8 +5874,8 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 28,
-    "Kujawsko-Pomorskie": 36,
+    "Dolnośląskie": 29,
+    "Kujawsko-Pomorskie": 34,
     "Lubelskie": 119,
     "Lubuskie": 19,
     "Łódzkie": 17,
@@ -5901,8 +5891,8 @@
     "Zachodniopomorskie": 11
   },
   "by_category": {
+    "Pojazdy": 49,
     "Nieruchomości": 423,
-    "Inne ruchomości": 115,
-    "Pojazdy": 50
+    "Inne ruchomości": 115
   }
 }
