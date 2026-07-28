@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-07-27T09:29:50.824065",
-  "total": 587,
+  "scraped_at": "2026-07-28T08:17:41.559483",
+  "total": 585,
   "listings": [
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Zniesienie opłaty elektronicznej w systemie e-TOLL za przejazdy pojazdów lekkich wraz z przyczepą",
-      "url": "https://www.gov.pl/web/ias-wroclaw/zniesienie-oplaty-elektronicznej-w-systemie-e-toll-za-przejazdy-pojazdow-lekkich-wraz-z-przyczepa",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
@@ -305,6 +295,16 @@
     {
       "region": "Kujawsko-Pomorskie",
       "city": "Bydgoszcz",
+      "title": "Odwołanie licytacji wyznaczonej na 30 lipca 2026 roku ruchomości - samochodów osobowych SKODA OKTAVIA 1,4 TSI E6, rok produkcji 2017 CITROEN BERLINGO II MULTISPACE 1,6 16V, rok produkcji 2009",
+      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/odwolanie-licytacji-wyznaczonej-na-30-lipca-2026-roku-ruchomosci-samochodow-osobowych-skoda-oktavia-1-4-tsi-e6-rok-produkcji-2017-citroen-berlingo-ii-multispace-1-6-16v-rok-produkcji-2009?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Odwołanie",
+      "date": "30.07.2026",
+      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Kujawsko-Pomorskie",
+      "city": "Bydgoszcz",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki od 3 lipca do 1 września 2026 roku maszyn i urządzeń (wyciąg trocin, piła panelowa, wielopiła)  Pozycja nr 6 - strugarka czterostronna WEINIG PROFIMAT 23 E jest...",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-od-3-lipca-do-1-wrzesnia-2026-roku-maszyn-i-urzadzen-wyciag-trocin-pila-panelowa-wielopila-pozycja-nr-6-strugarka-czterostronna-weinig-profimat-23-e-jest-pozycja-nieaktualna?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -491,6 +491,16 @@
       "type": "I licytacja",
       "date": "03.09.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/drugi-urzad-skarbowy-w-toruniu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Kujawsko-Pomorskie",
+      "city": "Pierwszy Urząd Skarbowy w Bydgoszczy",
+      "title": "Czytaj więcejo Odwołanie licytacji wyznaczonej na 30 lipca 2026 roku ruchomości - samochodów osobowych SKODA OKTAVIA 1,4 TSI E6, rok produkcji 2017 CITROEN BERLINGO II MULTISPACE 1,6 16V, rok produkcji 2009",
+      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Cc8Y/content/odwolanie-licytacji-wyznaczonej-na-30-lipca-2026-roku-ruchomosci-samochodow-osobowych-skoda-oktavia-1-4-tsi-e6-rok-produkcji-2017-citroen-berlingo-ii-multispace-1-6-16v-rok-produkcji-2009?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Cc8Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Odwołanie",
+      "date": "30.07.2026",
+      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Kujawsko-Pomorskie",
@@ -1915,16 +1925,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Pierwsza licytacja ruchomości: wentylatorów i akcesoriów ogrodowych",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/pierwsza-licytacja-ruchomosci-wentylatorow-i-akcesoriow-ogrodowych?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "Ruszył portal eLicytacje KAS",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/ruszyl-portal-elicytacje-kas-4?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -1949,16 +1949,6 @@
       "url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/druga-licytacja-udzialow-w-nieruchomosci-polozonej-w-zielonej-gorze-przy-ul-braci-gierymskich-25?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Pierwszy Urząd Skarbowy w Zielonej Górze",
-      "title": "Czytaj więcejo Pierwsza licytacja ruchomości: wentylatorów i akcesoriów ogrodowych",
-      "url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/pierwsza-licytacja-ruchomosci-wentylatorow-i-akcesoriow-ogrodowych?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
     },
@@ -4105,26 +4095,6 @@
     {
       "region": "Podkarpackie",
       "city": "Rzeszów",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki 27 lipca 2026 r. w godz. od 9:30 do 11:30 - ciągnik rolniczy kołowy MTZ 82",
-      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-27-lipca-2026-r-w-godz-od-930-do-1130---ciagnik-rolniczy-kolowy-mtz-83",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "27.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki 27 lipca 2026 r. w godz. od 10:00 do 12:00 - żuraw HFS HYDROFAST Sp. z o.o.",
-      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-27-lipca-2026-r-w-godz-od-1000-do-1200---zuraw-hfs-hydrofast-sp-z-oo",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "27.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
       "title": "Obwieszczenie o drugiej licytacji nieruchomości 29 lipca 2026 r. o godz. 10:00 - nieruchomość gruntowa o powierzchni 0,1929 ha zabudowana drewnianym budynkiem niemieszkalnym, położona w Stalowej Woli (księga wieczysta nr TB1S/00019467/7)",
       "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-nieruchomosci-29-lipca-2026-r-o-godz-1000--nieruchomosc-gruntowa-o-powierzchni-01929-ha-zabudowana-drewnianym-budynkiem-niemieszkalnym-polozona-w-stalowej-woli-ksiega-wieczysta-nr-tb1s000194677",
       "category": "Nieruchomości",
@@ -4261,6 +4231,16 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Pomorskie",
+      "city": "Gdańsk",
+      "title": "Zniesienie opłaty elektronicznej w systemie e-TOLL za przejazdy pojazdów lekkich wraz z przyczepą",
+      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/zniesienie-oplaty-elektronicznej-w-systemie-e-toll-za-przejazdy-pojazdow-lekkich-wraz-z-przyczepa",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Pomorskie",
@@ -5874,25 +5854,25 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 29,
-    "Kujawsko-Pomorskie": 34,
+    "Dolnośląskie": 28,
+    "Kujawsko-Pomorskie": 36,
     "Lubelskie": 119,
-    "Lubuskie": 19,
+    "Lubuskie": 17,
     "Łódzkie": 17,
     "Małopolskie": 11,
     "Mazowieckie": 151,
     "Opolskie": 29,
-    "Podkarpackie": 9,
+    "Podkarpackie": 7,
     "Podlaskie": 8,
-    "Pomorskie": 2,
+    "Pomorskie": 3,
     "Śląskie": 96,
     "Świętokrzyskie": 5,
     "Wielkopolskie": 47,
     "Zachodniopomorskie": 11
   },
   "by_category": {
-    "Pojazdy": 49,
     "Nieruchomości": 423,
-    "Inne ruchomości": 115
+    "Inne ruchomości": 112,
+    "Pojazdy": 50
   }
 }
