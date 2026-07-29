@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-28T08:17:41.559483",
-  "total": 585,
+  "scraped_at": "2026-07-29T08:21:29.525237",
+  "total": 582,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -395,16 +395,6 @@
     {
       "region": "Kujawsko-Pomorskie",
       "city": "Bydgoszcz",
-      "title": "Obwieszczenie o trzeciej licytacji publicznej ½ prawa własności nieruchomości  gruntowej, stanowiącej grunty orne - działka ewidencyjna nr 45/83 o powierzchni 0,1049 ha,  położonej w miejscowości...",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-trzeciej-licytacji-publicznej-%C2%BD-prawa-wlasnosci-nieruchomosci-gruntowej-stanowiacej-grunty-orne-dzialka-ewidencyjna-nr-45-83-o-powierzchni-0-1049-ha-polozonej-w-miejscowosci-niwy-gmina-osielsko-powiat-bydgoski-wyznaczonej-na-28-lipca-2026-roku?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki od 15 lipca do 26 sierpnia 2026 roku ruchomości (meble, naczynia kuchenne, sztućce, sprzęt)",
       "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/zawiadomienie-o-sprzedazy-z-wolnej-reki-od-15-lipca-do-26-sierpnia-2026-roku-ruchomosci-meble-naczynia-kuchenne-sztucce-sprzet?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -510,16 +500,6 @@
       "category": "Nieruchomości",
       "type": "III licytacja",
       "date": "29.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Pierwszy Urząd Skarbowy w Bydgoszczy",
-      "title": "Czytaj więcejo Obwieszczenie o trzeciej licytacji publicznej ½ prawa własności nieruchomości  gruntowej, stanowiącej grunty orne - działka ewidencyjna nr 45/83 o powierzchni 0,1049 ha,  położonej w miejscowości Niwy, gmina Osielsko powiat bydgoski, wyznaczonej na 28 lipca 2026 roku.",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Cc8Y/content/obwieszczenie-o-trzeciej-licytacji-publicznej-%C2%BD-prawa-wlasnosci-nieruchomosci-gruntowej-stanowiacej-grunty-orne-dzialka-ewidencyjna-nr-45-83-o-powierzchni-0-1049-ha-polozonej-w-miejscowosci-niwy-gmina-osielsko-powiat-bydgoski-wyznaczonej-na-28-lipca-2026-roku?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Cc8Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "28.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -641,6 +621,16 @@
       "type": "II licytacja",
       "date": "30.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/urzad-skarbowy-w-zninie/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Lublin",
+      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o odwołaniu terminu opisu i oszacowania wartości nieruchomości w dniu 13 października 2026 r. (działka, Żabia Wola)",
+      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-odwolaniu-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-w-dniu-13-pazdziernika-2026-r-dzialka-zabia-wola?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Odwołanie",
+      "date": "13.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubelskie",
@@ -1331,6 +1321,16 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Lubelskie",
+      "city": "Drugi Urząd Skarbowy w Lublinie",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o odwołaniu terminu opisu i oszacowania wartości nieruchomości w dniu 13 października 2026 r. (działka, Żabia Wola)",
+      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-odwolaniu-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-w-dniu-13-pazdziernika-2026-r-dzialka-zabia-wola?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Odwołanie",
+      "date": "13.10.2026",
+      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubelskie",
@@ -2095,22 +2095,12 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o I licytacji nieruchomości 28.07.2026 r. (1/4 udziału w lokalu mieszkalnym, Piotrków Trybunalski, ul. Pawlikowskiego 9 m 14).",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-28072026-r-14-udzialu-w-lokalu-mieszkalnym-piotrkow-trybunalski-ul-pawlikowskiego-9-m-14",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 4.09.2026 r. (Łódź, ul. Kosodrzewiny b.n.)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-4092026-r-lodz-ul-kosodrzewiny-bn",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Łódzkie",
@@ -2119,16 +2109,6 @@
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-2092026-r-rydzynki-gm-tuszyn",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Obwieszczenie o drugiej licytacji nieruchomości 28.07.2026 r. (1/2 nieruchomości gruntowej zabudowanej Byczyna 20A, gmina Poddębice)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-nieruchomosci-28072026-r-12-nieruchomosci-gruntowej-zabudowanej-byczyna-20a-gmina-poddebice",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
       "date": "28.07.2026",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -4575,16 +4555,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I Licytacja nieruchomości położonej w Żywcu przy ul. Poniatowskiego",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-zywcu-przy-ul-poniatowskiego",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Sprzedaż z wolnej ręki - motorower Junak 901F",
       "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---motorower-junak-901f",
       "category": "Pojazdy",
@@ -4608,6 +4578,16 @@
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Wodzisławska 12",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-wodzislawska-12",
       "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż po cenie oszacowania podmiotom prowadzącym działalność handlową - kompresor i betoniarka",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa",
+      "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
@@ -5275,6 +5255,16 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
+      "title": "Sprzedaż z wolnej ręki - motorower PIAGGIO LIBERTY 50 - od 5 sierpnia 2026 od 11:00 do 7 sierpnia 2026 r. do 12:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-motorower-piaggio-liberty-50-od-5-sierpnia-2026-od-11-00-do-7-sierpnia-2026-r-do-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "05.08.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
       "title": "Sprzedaż z wolnej ręki : VOLKSWAGEN PASSAT r. pr. 2006 - do 4 sierpnia do godz. 11:00",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-volkswagen-passat-r-pr-2006-do-4-sierpnia-do-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -5454,16 +5444,6 @@
     },
     {
       "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja nieruchomości : 30 LIPCA 2026 r. godz. 10:00, nieruchomości niezabudowanej położonej w obrębie Sądzia, gmina Włoszakowice, powiat leszczyński, województwo wielkopolskie, działka nr...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-nieruchomosci-30-lipca-2026-r-godz-10-00-nieruchomosci-niezabudowanej-polozonej-w-obrebie-sadzia-gmina-wloszakowice-powiat-leszczynski-wojewodztwo-wielkopolskie-dzialka-nr-119-5-o-powierzchni-0-2190-ha-dla-ktorej-sad-rejonowy-w-lesznie-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-po1l-00068523-6?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
       "city": "Drugi Urząd Skarbowy w Kaliszu",
       "title": "Czytaj więcejo AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
       "url": "https://www.wielkopolskie.kas.gov.pl/drugi-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/tf9Y/content/aktualne-obwieszczenia-od-1-07-2026-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-kaliszu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_tf9Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -5634,6 +5614,16 @@
     },
     {
       "region": "Wielkopolskie",
+      "city": "Urząd Skarbowy w Kole",
+      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - motorower PIAGGIO LIBERTY 50 - od 5 sierpnia 2026 od 11:00 do 7 sierpnia 2026 r. do 12:00.",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/SvS3/content/sprzedaz-z-wolnej-reki-motorower-piaggio-liberty-50-od-5-sierpnia-2026-od-11-00-do-7-sierpnia-2026-r-do-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kole%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_SvS3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "05.08.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Koninie",
       "title": "Czytaj więcejo Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul. Kardynała Stefana Wyszyńskiego 2/43 dla której Sąd Rejonowy w Koninie prowadzi księgę wieczystą  oznaczoną  nr KN1N/00075696/5.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3BJq/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koninie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3BJq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -5655,7 +5645,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Lesznie",
-      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości : 30 LIPCA 2026 r. godz. 10:00, nieruchomości niezabudowanej położonej w obrębie Sądzia, gmina Włoszakowice, powiat leszczyński, województwo wielkopolskie, działka nr 119/5 o powierzchni 0,2190 ha, dla której Sąd Rejonowy w Lesznie VI Wydział Ksiąg Wieczystych prowadzi Księgę Wieczystą nr PO1L/00068523/6.",
+      "title": "Pierwsza licytacja nieruchomości : 30 LIPCA 2026 r. godz. 10:00, nieruchomości niezabudowanej położonej w obrębie Sądzia, gmina Włoszakowice, powiat leszczyński, województwo wielkopolskie, działka nr...",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/sj2G/content/pierwsza-licytacja-nieruchomosci-30-lipca-2026-r-godz-10-00-nieruchomosci-niezabudowanej-polozonej-w-obrebie-sadzia-gmina-wloszakowice-powiat-leszczynski-wojewodztwo-wielkopolskie-dzialka-nr-119-5-o-powierzchni-0-2190-ha-dla-ktorej-sad-rejonowy-w-lesznie-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-po1l-00068523-6?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-lesznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_sj2G%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
@@ -5775,16 +5765,6 @@
     {
       "region": "Zachodniopomorskie",
       "city": "Szczecin",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości gruntowej zabudowanej położonej w Kołobrzegu przy ul. Wylotowej,   składająca się z działek nr 6/23 i 5/26 - zakończenie 28 lipca 2026 roku o...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-gruntowej-zabudowanej-polozonej-w-kolobrzegu-przy-ul-wylotowej-skladajaca-sie-z-dzialek-nr-6-23-i-5-26-zakonczenie-28-lipca-2026-roku-o-godz-12-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "28.07.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
       "title": "Obwieszczenie o terminie opisu  i oszacowania, Lokal mieszkalny o powierzchni 27,9000 m², położony w Grzybnie 45/7, gm. Chojna,  rozpocznie się:  24 czerwca 2026 roku, o godz. 10.30 w miejscu...",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-o-powierzchni-27-9000-m%C2%B2-polozony-w-grzybnie-45-7-gm-chojna-rozpocznie-sie-24-czerwca-2026-roku-o-godz-10-30-w-miejscu-polozenia-nieruchomosci-tj-grzybno-45-7-gm-chojna-zakonczy-sie-12-sierpnia-2026-roku-godz-10-30-w-urzedzie-skarbowym-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pok-101?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -5841,24 +5821,14 @@
       "type": "Ogłoszenie",
       "date": "24.06.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Kołobrzegu",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania nieruchomości gruntowej zabudowanej położonej w Kołobrzegu przy ul. Wylotowej,   składająca się z działek nr 6/23 i 5/26 - zakończenie 28 lipca 2026 roku o godz. 12:00 Urząd Skarbowy w Kołobrzegu",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/G4dA/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-gruntowej-zabudowanej-polozonej-w-kolobrzegu-przy-ul-wylotowej-skladajaca-sie-z-dzialek-nr-6-23-i-5-26-zakonczenie-28-lipca-2026-roku-o-godz-12-00-urzad-skarbowy-w-kolobrzegu?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-kolobrzegu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_G4dA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "28.07.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-kolobrzegu/ogloszenia/obwieszczenia-o-licytacji"
     }
   ],
   "by_region": {
     "Dolnośląskie": 28,
-    "Kujawsko-Pomorskie": 36,
-    "Lubelskie": 119,
+    "Kujawsko-Pomorskie": 34,
+    "Lubelskie": 121,
     "Lubuskie": 17,
-    "Łódzkie": 17,
+    "Łódzkie": 15,
     "Małopolskie": 11,
     "Mazowieckie": 151,
     "Opolskie": 29,
@@ -5867,12 +5837,12 @@
     "Pomorskie": 3,
     "Śląskie": 96,
     "Świętokrzyskie": 5,
-    "Wielkopolskie": 47,
-    "Zachodniopomorskie": 11
+    "Wielkopolskie": 48,
+    "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Nieruchomości": 423,
-    "Inne ruchomości": 112,
-    "Pojazdy": 50
+    "Nieruchomości": 417,
+    "Inne ruchomości": 113,
+    "Pojazdy": 52
   }
 }
