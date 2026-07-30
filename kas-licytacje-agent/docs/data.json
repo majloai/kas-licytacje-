@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-29T08:21:29.525237",
-  "total": 582,
+  "scraped_at": "2026-07-30T08:09:42.507547",
+  "total": 577,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -100,7 +100,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -170,7 +170,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -270,7 +270,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -360,16 +360,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "03.09.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Bydgoszcz",
-      "title": "Obwieszczenie o trzeciej licytacji 29 lipca 2026 roku nieruchomości gruntowej o powierzchni działki 0,0816 ha zabudowanej budynkiem mieszkalno-usługowym o powierzchni 236,80 m², w tym pow. części...",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Sg9I/content/obwieszczenie-o-trzeciej-licytacji-29-lipca-2026-roku-nieruchomosci-gruntowej-o-powierzchni-dzialki-0-0816-ha-zabudowanej-budynkiem-mieszkalno-uslugowym-o-powierzchni-236-80-m%C2%B2-w-tym-pow-czesci-mieszkalnej-142-24-m%C2%B2-czesci-uslugowej-131-97-m%C2%B2-polozonej-w-miejscowosci-stronno-przy-ulicy-krotkiej-gmina-dobrcz?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Sg9I%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "29.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -490,16 +480,6 @@
       "category": "Pojazdy",
       "type": "Odwołanie",
       "date": "30.07.2026",
-      "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Kujawsko-Pomorskie",
-      "city": "Pierwszy Urząd Skarbowy w Bydgoszczy",
-      "title": "Czytaj więcejo Obwieszczenie o trzeciej licytacji 29 lipca 2026 roku nieruchomości gruntowej o powierzchni działki 0,0816 ha zabudowanej budynkiem mieszkalno-usługowym o powierzchni 236,80 m², w tym pow. części mieszkalnej 142,24 m², części usługowej 131,97 m², położonej w miejscowości Stronno przy ulicy Krótkiej, gmina Dobrcz",
-      "url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Cc8Y/content/obwieszczenie-o-trzeciej-licytacji-29-lipca-2026-roku-nieruchomosci-gruntowej-o-powierzchni-dzialki-0-0816-ha-zabudowanej-budynkiem-mieszkalno-uslugowym-o-powierzchni-236-80-m%C2%B2-w-tym-pow-czesci-mieszkalnej-142-24-m%C2%B2-czesci-uslugowej-131-97-m%C2%B2-polozonej-w-miejscowosci-stronno-przy-ulicy-krotkiej-gmina-dobrcz?redirect=https%3A%2F%2Fwww.kujawsko-pomorskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-bydgoszczy%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Cc8Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "29.07.2026",
       "source_url": "https://www.kujawsko-pomorskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-bydgoszczy/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -1946,11 +1926,11 @@
       "region": "Lubuskie",
       "city": "Pierwszy Urząd Skarbowy w Zielonej Górze",
       "title": "Czytaj więcejo Druga licytacja udziałów w nieruchomości, położonej w Zielonej Górze przy ul. Braci Gierymskich 25",
-      "url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/druga-licytacja-udzialow-w-nieruchomosci-polozonej-w-zielonej-gorze-przy-ul-braci-gierymskich-25?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.lubuskie.kas.gov.pl/pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Dcp5/content/druga-licytacja-udzialow-w-nieruchomosci-polozonej-w-zielonej-gorze-przy-ul-braci-gierymskich-25?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fpl%2Fpierwszy-urzad-skarbowy-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Dcp5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.lubuskie.kas.gov.pl/pl/pierwszy-urzad-skarbowy-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubuskie",
@@ -2119,16 +2099,6 @@
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-24092026-r-sianokosy-8-lodz",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 28.07.2026 r. -29.07.2026 r (torebki)",
-      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-28072026-r--29072026-r-torebki",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
       "date": "28.07.2026",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -4075,26 +4045,6 @@
     {
       "region": "Podkarpackie",
       "city": "Rzeszów",
-      "title": "Obwieszczenie o drugiej licytacji nieruchomości 29 lipca 2026 r. o godz. 10:00 - nieruchomość gruntowa o powierzchni 0,1929 ha zabudowana drewnianym budynkiem niemieszkalnym, położona w Stalowej Woli (księga wieczysta nr TB1S/00019467/7)",
-      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-nieruchomosci-29-lipca-2026-r-o-godz-1000--nieruchomosc-gruntowa-o-powierzchni-01929-ha-zabudowana-drewnianym-budynkiem-niemieszkalnym-polozona-w-stalowej-woli-ksiega-wieczysta-nr-tb1s000194677",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "29.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 29 lipca 2026 r. o godz. 11:00 położonej w miejscowości Wiązownica (księga wieczysta nr PR1J/00067135/6)",
-      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-29-lipca-2026-r-o-godz-1100---polozonej-w-miejscowosci-wiazownica-ksiega-wieczysta-nr-pr1j000671356",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "29.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
       "title": "Zawiadomienie o sprzedaży z wolnej ręki 5 sierpnia 2026 r. w godz. od 10:00 do 12:00 - samochód marki Opel Tigra kabriolet",
       "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-5-sierpnia-2026-r---samochod-marki-opel-tigra-kabriolet",
       "category": "Pojazdy",
@@ -5825,14 +5775,14 @@
   ],
   "by_region": {
     "Dolnośląskie": 28,
-    "Kujawsko-Pomorskie": 34,
+    "Kujawsko-Pomorskie": 32,
     "Lubelskie": 121,
     "Lubuskie": 17,
-    "Łódzkie": 15,
+    "Łódzkie": 14,
     "Małopolskie": 11,
     "Mazowieckie": 151,
     "Opolskie": 29,
-    "Podkarpackie": 7,
+    "Podkarpackie": 5,
     "Podlaskie": 8,
     "Pomorskie": 3,
     "Śląskie": 96,
@@ -5841,8 +5791,8 @@
     "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Nieruchomości": 417,
-    "Inne ruchomości": 113,
+    "Nieruchomości": 413,
+    "Inne ruchomości": 112,
     "Pojazdy": 52
   }
 }
