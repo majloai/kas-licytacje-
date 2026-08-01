@@ -1,7 +1,287 @@
 {
-  "scraped_at": "2026-07-31T08:38:17.850736",
-  "total": 384,
+  "scraped_at": "2026-08-01T08:03:28.106298",
+  "total": 531,
   "listings": [
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,3725 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-nieruchomosci9",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,4650 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
+      "url": "https://www.gov.pl/web/ias-wroclaw/ii-licytacja-ulamkowej-czesci-12-nieruchomosci-gruntowej-o-powierzchni-04650-ha-polozonej-w-gminie-stronie-slaskie-dz-nr-2493-obreb-0013-stary-gieraltow",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci---samochod87",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci13",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci10",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o III licytacji nieruchomości (gruntowej niezabudowanej o powierzchni 9893 m2 położonej w gminie Legnickie Pole)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci-polozonej-w",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania 1/3 udziału nieruchomości położonej w Lubinie przy ul. Armii Krajowej 33",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości (nieruchomość gruntowa, zabudowana położona w Jaworze, KW nr LE1J/00018499/7)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-nieruchomosc-gruntowa-zabudowana-polozona-w-jaworze-kw-nr-le1j000184997",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości położonej w Stroniu Śląskim",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci8",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości - samochód",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci---samochod44",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o II licytacji ruchomości (Waga elektroniczna x 2 szt.)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci37",
+      "category": "Inne ruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o I licytacji ruchomości (namioty do uprawy roślin, lampa)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-namioty-do-uprawy-roslin-lampa",
+      "category": "Inne ruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Obwieszczenie o terminie opisu i szacowania nieruchomości gruntowej położonej w Trójcy gm. Zgorzelec",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-szacowania-nieruchomosci-polozonej-w",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Świdnica)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-swidnica2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (I US Wrocław)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-i-us-wroclaw",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Bolesławiec)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-boleslawiec",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Oława)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-olawa2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o ruchomościach sprzedanych przez Naczelnika Urzędu Skarbowego Głogów w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
+      "url": "https://www.gov.pl/web/ias-wroclaw/in",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław - Krzyki)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw---krzyki",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Ząbkowice Śląskie)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-zabkowice-slaskie2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a.(US Dzierżoniów)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Jawor)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-jawor",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lwówek Śląski)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-lwowek-slaski2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wołów)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wolow2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław-Śródmieście)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw-srodmiescie2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Środa Śląska)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-sroda-slaska",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Dolnośląskie",
+      "city": "Wrocław",
+      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Strzelin)",
+      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-strzelin2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
     {
       "region": "Lubelskie",
       "city": "Lublin",
@@ -1403,6 +1683,136 @@
       "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Rusza portal eLicytacje KAS",
+      "url": "https://www.gov.pl/web/ias-lodz/rusza-portal-elicytacje-kas2",
+      "category": "Inne ruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o drugiej licytacji nieruchomości 15.09.2026 r. (nmieruchomość gruntowa zabudowana Sanie, działka nr 14/6)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-nieruchomosci-15092026-r-nmieruchomosc-gruntowa-zabudowana-sanie-dzialka-nr-146",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "15.09.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 8.09.2026 r. (Podole, gmina Zgierz, pow. 1,0407 ha)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-8092026-r-podole-gmina-zgierz-pow-10407-ha",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "08.09.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o I licytacji nieruchomości 27.08.2026 r. (zabudowana nieruchomość gruntowa, Piotrków Trybunalski u zbiegu ul. Budki 57 i ul. Sportowej 2).",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-27082026-r-zabudowana-nieruchomosc-gruntowa-piotrkow-trybunalski-u-zbiegu-ul-budki-57-i-ul-sportowej-2",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "27.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 18.08.2026 do 30.09.2026 r. (ul. Astrowa 4, Kalonka)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-18082026-do-30092026-r-ul-astrowa-4-kalonka",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "18.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 10.08.2026 r. -13.08.2026 r (samochód ciężarowy Scania P94 rok prod. 2002)",
+      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-10082026-r--13082026-r-samochod-ciezarowy-scania-p94-rok-prod-2002",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "10.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 5.08.2026 r. (nieruchomość gruntowa Śliwniki Nowe, Zgierz)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-5082026-r-niezabudowana-nieruchomosci-gruntowej-kaszewice-gmina-kluki",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "05.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 5.08.2026 r. (1/2 udziału w nieruchomości lokalowej, Łódź, ul. Sprinterów 6)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-5082026-r-12-udzialu-w-nieruchomosci-lokalowej-lodz-ul-sprinterow-6",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "05.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 30.07.2026 do 30.09.2026 r. (Łódź, ul. Kolumny 242)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-30072026-do-30092026-r-lodz-ul-kolumny-242",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "30.07.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 4.09.2026 r. (Łódź, ul. Kosodrzewiny b.n.)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-4092026-r-lodz-ul-kosodrzewiny-bn",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "28.07.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 2.09.2026 r. (Rydzynki, gm. Tuszyn)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-2092026-r-rydzynki-gm-tuszyn",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "28.07.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 24.09.2026 r. (Sianokosy 8, Łódź)",
+      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-24092026-r-sianokosy-8-lodz",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "28.07.2026",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Łódzkie",
+      "city": "Łódź",
+      "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
+      "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
       "region": "Małopolskie",
       "city": "Kraków",
       "title": "Obwieszczenie o II licytacji nieruchomości położonej w Woli Filipowskiej, 15.09.2026 o godz. 10.00 w Krakowie",
@@ -1705,22 +2115,12 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o terminie opisu i oszacowania - Nieruchomość gruntowa położona w miejscowości Nowosiółki, powiat płoński, gm. Nowe Miasto - termin: 16-30 lipca 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-nowosiolki-powiat-plonski-gm-nowe-miasto-termin-16-30-lipca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "30.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o trzeciej licytacji nieruchomości gruntowych położonych w miejscowości Rogóźno, gmina Rząśnik, powiat wyszkowski - termin: 26 sierpnia 2026 roku, godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-gruntowych-polozonych-w-miejscowosci-rogozno-gmina-rzasnik-powiat-wyszkowski-termin-26-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-gruntowych-polozonych-w-miejscowosci-rogozno-gmina-rzasnik-powiat-wyszkowski-termin-26-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "III licytacja",
       "date": "26.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -1865,16 +2265,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o trzeciej licytacji ½ w prawie własności nieruchomości gruntowej położonej w miejscowości Krzesk Królowa Niwa, gmina Zbuczyn - termin: 29 lipca 2026 r., godz. 10.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-trzeciej-licytacji-%C2%BD-w-prawie-wlasnosci-nieruchomosci-gruntowej-polozonej-w-miejscowosci-krzesk-krolowa-niwa-gmina-zbuczyn-termin-29-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "29.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenia o pierwszej licytacji nieruchomości gruntowej położonej przy drodze wojewódzkiej nr 587, w pobliżu drogi krajowej nr 7 - termin: 01.09.2026r. godz. 10:00.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-przy-drodze-wojewodzkiej-nr-587-w-poblizu-drogi-krajowej-nr-7-termin-01-09-2026r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
@@ -1916,21 +2306,21 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania - spółdzielcze własnościowe prawo do lokalu nr 30 położone w budynku przy ul. Aleja Róż 1 w Radomiu - termin: 16 lipca 2026 r. - 3 września 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-spoldzielcze-wlasnosciowe-prawo-do-lokalu-nr-30-polozone-w-budynku-przy-ul-aleja-roz-1-w-radomiu-termin-16-lipca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-spoldzielcze-wlasnosciowe-prawo-do-lokalu-nr-30-polozone-w-budynku-przy-ul-aleja-roz-1-w-radomiu-termin-16-lipca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "16.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenia o pierwszej licytacji nieruchomości położonej w Wyszkowie - lokal mieszkalny nr 29 przy ul. Chopina 4 - termin: 19 sierpnia 2026 roku, godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-polozonej-w-wyszkowie-lokal-mieszkalny-nr-29-przy-ul-chopina-4-termin-19-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-polozonej-w-wyszkowie-lokal-mieszkalny-nr-29-przy-ul-chopina-4-termin-19-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "19.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
@@ -1990,16 +2380,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "13.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o terminie opisu i oszacowania - Nieruchomość gruntowa, położona w miejscowości Żurawin, gmina Mochowo, powiat sierpecki - termin: 24 czerwca 2026 roku - 29 lipca 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-zurawin-gmina-mochowo-powiat-sierpecki-termin-24-czerwca-2026-roku-29-lipca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
@@ -2116,21 +2496,21 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny nr 29 położony w Warszawie przy ul. Adama Branickiego 18 - termin: 28 sierpnia 2026 roku, godz. 12.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-nr-29-polozony-w-warszawie-przy-ul-adama-branickiego-18-termin-28-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-nr-29-polozony-w-warszawie-przy-ul-adama-branickiego-18-termin-28-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "28.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości - ½ części nieruchomości gruntowej położonej w miejscowości Słup, Gmina Parysów, powiat garwoliński - termin: 16 września 2026 roku, godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-%C2%BD-czesci-nieruchomosci-gruntowej-polozonej-w-miejscowosci-slup-gmina-parysow-powiat-garwolinski-termin-16-wrzesnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-%C2%BD-czesci-nieruchomosci-gruntowej-polozonej-w-miejscowosci-slup-gmina-parysow-powiat-garwolinski-termin-16-wrzesnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "16.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
@@ -2266,11 +2646,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Ogłoszenie o przetargu publicznym na sprzedaż samochodów służbowych należących do Izby Administracji Skarbowej w Warszawie",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-publicznym-na-sprzedaz-samochodow-sluzbowych-nalezacych-do-izby-administracji-skarbowej-w-warszawie-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D6%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/ogloszenie-o-przetargu-publicznym-na-sprzedaz-samochodow-sluzbowych-nalezacych-do-izby-administracji-skarbowej-w-warszawie-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Pojazdy",
       "type": "Przetarg",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=6"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
     },
     {
       "region": "Mazowieckie",
@@ -2594,16 +2974,6 @@
     },
     {
       "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Płońsku",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Nieruchomość gruntowa położona w miejscowości Nowosiółki, powiat płoński, gm. Nowe Miasto - termin: 16-30 lipca 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-plonsku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/n4DR/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-nowosiolki-powiat-plonski-gm-nowe-miasto-termin-16-30-lipca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-plonsku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_n4DR%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "30.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-plonsku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
       "city": "Urząd Skarbowy w Siedlcach",
       "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - nieruchomość gruntowe położone w Siedlcach przy ul. Żwirowej, Wiejskiej, Targowej i Spacerowej - termin: 5 sierpnia 2026 r. - 5 listopada 2026 r.",
       "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-siedlcach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/9hLX/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowe-polozone-w-siedlcach-przy-ul-zwirowej-wiejskiej-targowej-i-spacerowej-termin-5-sierpnia-2026-r-5-listopada-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-siedlcach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_9hLX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -2655,16 +3025,6 @@
     {
       "region": "Mazowieckie",
       "city": "Urząd Skarbowy w Siedlcach",
-      "title": "Czytaj więcejo Obwieszczenie o trzeciej licytacji ½ w prawie własności nieruchomości gruntowej położonej w miejscowości Krzesk Królowa Niwa, gmina Zbuczyn - termin: 29 lipca 2026 r., godz. 10.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-siedlcach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/9hLX/content/obwieszczenie-o-trzeciej-licytacji-%C2%BD-w-prawie-wlasnosci-nieruchomosci-gruntowej-polozonej-w-miejscowosci-krzesk-krolowa-niwa-gmina-zbuczyn-termin-29-lipca-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-siedlcach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_9hLX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "29.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-siedlcach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Siedlcach",
       "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Siedlcach, przy ul. 3-go Maja 37/5 + garaż - termin: 18 czerwca 2026 r. - 3 września 2026 r.",
       "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-siedlcach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/9hLX/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-siedlcach-przy-ul-3-go-maja-37-5-garaz-termin-18-czerwca-2026-r-3-wrzesnia-2026-r?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-siedlcach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_9hLX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -2681,16 +3041,6 @@
       "type": "Ogłoszenie",
       "date": "06.05.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-siedlcach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Sierpcu",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Nieruchomość gruntowa, położona w miejscowości Żurawin, gmina Mochowo, powiat sierpecki - termin: 24 czerwca 2026 roku - 29 lipca 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-sierpcu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3mOP/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosc-gruntowa-polozona-w-miejscowosci-zurawin-gmina-mochowo-powiat-sierpecki-termin-24-czerwca-2026-roku-29-lipca-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-sierpcu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3mOP%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-sierpcu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Mazowieckie",
@@ -3273,6 +3623,1126 @@
       "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-prudniku/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o terminie opisu i oszacowania wartości nieruchomości w miejscowości Żołynia, woj. podkarpackie od 1 lipca 2026 r. o godz. 10:00 do 10 sierpnia 2026 r. do godz. 10:00 (księga wieczysta nr RZ1A/00059448/4)",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-w-miejscowosci-zolynia-woj-podkarpackie-od-1-lipca-2026-r-o-godz-1000-do-10-sierpnia-2026-r-do-godz-1000-ksiega-wieczysta-nr-rz1a000594484",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "01.07.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Zawiadomienie o sprzedaży z wolnej ręki 5 sierpnia 2026 r. w godz. od 10:00 do 12:00 - samochód marki Opel Tigra kabriolet",
+      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-5-sierpnia-2026-r---samochod-marki-opel-tigra-kabriolet",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "05.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji nieruchomości 10 sierpnia 2026 r. o godz. 11:00 - nieruchomość gruntowa położona w miejscowości Dąbrowa, gmina Świlcza, woj. podkarpackie o powierzchni 1,17 ha (księga wieczysta nr RZ1Z/00261804/9)",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-nieruchomosci-10-sierpnia-2026-r-o-godz-1100--nieruchomosc-gruntowa-polozona-w-miejscowosci-dabrowa-gmina-swilcza-woj-podkarpackie-o-powierzchni-117-ha-ksiega-wieczysta-nr-rz1z002618049",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "10.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji nieruchomości 11 sierpnia 2026 r. o godz. 11:00 - nieruchomość gruntowa położona w miejscowości Dąbrowa, gmina Świlcza, woj. podkarpackie o powierzchni 0,26 ha (księga wieczysta nr RZ1Z/00261402/1)",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-nieruchomosci-11-sierpnia-2026-r-o-godz-1100--nieruchomosc-gruntowa-polozona-w-miejscowosci-dabrowa-gmina-swilcza-woj-podkarpackie-o-powierzchni-026-ha-ksiega-wieczysta-nr-rz1z002614021",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "11.08.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Obwieszczenie o drugiej licytacji ruchomości 3 września 2026 r. - samochód marki Toyota Avensis",
+      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-3-wrzesnia-2026-r---samochod-marki-toyota-avensis",
+      "category": "Pojazdy",
+      "type": "II licytacja",
+      "date": "03.09.2026",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość gruntowa, 3 działki, Bagnówka, Białystok - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-gruntowa-3-dzialki-bagnowka-bialystok---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość gruntowa, 2 działki, Bagnówka, Białystok - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-gruntowa-2-dzialki-bagnowka-bialystok---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Udział w nieruchomości, działka zabudowana, Koźliki, gm. Zabłudów - pierwsza licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/udzial-w-nieruchomosc-dzialka-zabudowana-kozliki-gm-zabludow---pierwsza-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Nieruchomość rolna zabudowana, Ostrówek gm. Szudziałowo - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-rolna-zabudowana-ostrowek-gm-szudzialowo---druga-licytacja-12082026",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Lokal mieszkalny, udział 35/147 części, ul. Zachodnia, Białystok - druga licytacja.",
+      "url": "https://www.gov.pl/web/ias-bialystok/lokal-mieszkalny-udzial-35147-czesci-ul-zachodnia-bialystok---druga-licytacja",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
+      "url": "https://www.gov.pl/web/ias-bialystok/informacja-roczna-za-2025-rok-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podlaskie",
+      "city": "Białystok",
+      "title": "Informacja o ruchomościach sprzedanych w 2024 r. w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
+      "url": "https://www.gov.pl/web/ias-bialystok/informacja-o-ruchomosciach-sprzedanych-w-2024-r-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Pomorskie",
+      "city": "Gdańsk",
+      "title": "Zniesienie opłaty elektronicznej w systemie e-TOLL za przejazdy pojazdów lekkich wraz z przyczepą",
+      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/zniesienie-oplaty-elektronicznej-w-systemie-e-toll-za-przejazdy-pojazdow-lekkich-wraz-z-przyczepa",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Pomorskie",
+      "city": "Gdańsk",
+      "title": "Portal eLicytacje KAS - ogłoszenia o sprzedażach egzekucyjnych, licytacje i sprzedaż ruchomości, które przepadły na rzecz Skarbu Państwa",
+      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/portal-elicytacje-kas---ogloszenia-o-sprzedazach-egzekucyjnych-licytacje-i-sprzedaz-ruchomosci-ktore-przepadly-na-rzecz-skarbu-panstwa",
+      "category": "Inne ruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Pomorskie",
+      "city": "Gdańsk",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Lędzinach przy ul. Kolonia Piast 2/5",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-ledzinach-przy-ul-kolonia-piast-25",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Babiogórska",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-babiogorska",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Łaziskach Górnych przy ul. Stromej (działka 1562/20)",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-laziskach-gornych-przy-ul-stromej-dzialka-156220",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja ułamkowej części nieruchomości położonej w Kłobucku przy ul. Wyszyńskiego",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-ulamkowej-czesci-nieruchomosci-polozonej-w-klobucku-przy-ul-wyszynskiego",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja nieruchomości położonej w Bielsku-Białej przy ul. Braterskiej 17",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-braterskiej-17",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pisarzowicach przy ul. Krakowskiej (działka nr 432/3)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pisarzowicach-przy-ul-krakowskiej-dzialka-nr-4323",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pisarzowicach przy ul. Krakowskiej (działka nr 432/2)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pisarzowicach-przy-ul-krakowskiej-dzialka-nr-4322",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Panoszów",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-panoszow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód wielozadaniowy Mercedes-Benz Viano",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-wielozadaniowy-mercedes-benz-viano",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Chorzowie, ul. Powstańców 9",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-chorzowie-ul-powstancow-9",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żywcu (działka nr 813)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zywcu-dzialka-nr-813",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Lipowej (działka nr 2862/4)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-lipowej-dzialka-nr-28624",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Astrów 6A",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-astrow-6a",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia produkcyjne",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-produkcyjne",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Węgierskiej Górce, ul. Ogrodowa 5 (działka nr 1155)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-wegierskiej-gorce-ul-ogrodowa-5-dzialka-nr-1155",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Chorzowie, ul. Dąbrowskiego 64A",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-chorzowie-ul-dabrowskiego-64a",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Konopiska przy ul. Śląskiej (nr KW CZ1C/00056177/0)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-konopiska",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Konopiska przy ul. Śląskiej (nr KW CZ1C/00182504/4)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-konopiska-przy-ul-slaskiej-nr-kw-cz1c001825044",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości położonej w Bielsku-Białej przy ul. Szczygłów",
+      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-szczyglow",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy wielozadaniowy Opel Corsa",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-wielozadaniowy-opel-corsa",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - quad Hytrack Exlusive",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---quad-hytrack-exlusive",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Opel Corsa",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-corsa",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej przy ul. Krasickiego 16/55",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-krasickiego-1655",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Honda Accord",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-honda-accord",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy VW Polo",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-vw-polo2",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki w drodze konkursu ofert - waga",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki-w-drodze-konkursu-ofert---waga",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Raciborzu przy ulicy Słowackiego 44/5",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-raciborzu-przy-ulicy-slowackiego-445",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki w drodze konkursu ofert - wełna mineralna",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki-w-drodze-konkursu-ofert---welna-mineralna",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki w drodze konkursu ofert - urządzenia diagnostyczne",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki-w-drodze-konkursu-ofert---urzadzenia-diagnostyczne",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki w drodze konkursu ofert - różne urządzenia",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki-w-drodze-konkursu-ofert---rozne-urzadzenia",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki w drodze konkursu ofert - kompresory",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki-w-drodze-konkursu-ofert---kompresory",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód dostawczy Ford Transit",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-dostawczy-ford-transit",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - torebki i plecaki damskie",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---torebki-damskie",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Ks. Ludwika Tunkla 131, 131A",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-ks-ludwika-tunkla-131-131a",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - motorower Junak 901F",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---motorower-junak-901f",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Rybnicka (działki nr 3884/220, 2345/244, 2676/44)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-rybnicka-dzialki-nr-3884220-2345244-267644",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Wodzisławska 12",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-wodzislawska-12",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż po cenie oszacowania podmiotom prowadzącym działalność handlową - kompresor i betoniarka",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód ciężarowy Fiat Fiorino",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-ciezarowy-fiat-fiorino",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A4",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a5",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja nieruchomości położonej w Bielsku-Białej, ul. Deszczowa (działka nr 1434/11)",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-ul-deszczowa-dzialka-nr-143411",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Fiat Panda",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-panda",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A6",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a6",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - pojazd Mini Motorbike Cross",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---pojazd-mini-motorbike-cross",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochody ciężarowe oraz przyczepa",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochody-ciezarowe-oraz-przyczepa",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Opel Insignia",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-opel-insignia",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Renault Megane",
+      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "II licytacja - samochód osobowy Chevrolet Spark",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-chevrolet-spark",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Obwieszczenie o odwołaniu I licytacji nieruchomości położonej w Harbutowicach przy ul. Stara Droga",
+      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-odwolaniu-i-licytacji-nieruchomosci-polozonej-w-harbutowicach-przy-ul-stara-droga",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "I licytacja - samochód osobowy Audi A6",
+      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-audi-a6",
+      "category": "Pojazdy",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Rajdowa (działka nr 2221/11)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-rajdowa-dzialka-nr-222111",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Odwołanie niedoszłego terminu opisu i oszacowania wartości nieruchomości - grunty położone na ul. Rajdowej w Bielsku-Białej",
+      "url": "https://www.gov.pl/web/ias-katowice/odwolanie-niedoszlego-terminu-opisu-i-oszacowania-wartosci-nieruchomosci",
+      "category": "Nieruchomości",
+      "type": "Odwołanie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - samochód osobowy Toyota Avensis",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-toyota-avensis",
+      "category": "Pojazdy",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pyskowicach, przy ul. Hutniczej 7",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pyskowicach-przy-ul-hutniczej-7",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Knurowie, przy ul. Szkolnej 7",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-knurowie-przy-ul-szkolnej-7",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pyskowicach (działki nr 110, 99, 192/73, 193/73, 196/71, 197/71)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pyskowicach-dzialki-nr-110-99-19273-19373-19671-19771",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Paczyna (działka nr 150/19 )",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-paczyna-dzialka-nr-15019-",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bytomiu przy ul. Gabriela Narutowicza (działka nr 1163/15)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bytomiu-przy-ul-gabriela-narutowicza-dzialka-nr-116315",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bytomiu przy ul. Gabriela Narutowicza (działka nr 1154/15)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bytomiu-przy-ul-gabriela-narutowicza-dzialka-nr-115415",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bytomiu przy ul. Gabriela Narutowicza (działka nr 1153/15)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bytomiu-przy-ul-gabriela-narutowicza-dzialka-nr-115315",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Oferta sprzedaży po cenie oszacowania podmiotom prowadzącym działalność handlową generatora prądotwórczego i innych towarów",
+      "url": "https://www.gov.pl/web/ias-katowice/oferta-sprzedazy-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa-generatora-pradotworczego-i-innych-towarow",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Głównej 20d/13",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-glownej-20d13",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Tychach przy ul. Dunikowskiego 34/44",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-tychach-przy-ul-dunikowskiego-3444",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bytomiu, ul. Bolesława Chrobrego 16/2",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bytomiu-ul-boleslawa-chrobrego-162",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Ślęzanach (gm. Lelów) (działki nr 612/2 i 290/2)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-slezanach-gm-lelow-dzialki-nr-6122-i-2902",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości udziału 82/120 w nieruchomości położonej w Mysłowicach, ul. PCK",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-udzialu-82120-w-nieruchomosci-polozonej-w-myslowicach-ul-pck",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Jaworznie przy ul. Chrzanowskiej 59 B",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-jaworznie-przy-ul-chrzanowskiej-59-b",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Blachowni, ul Podlaska 7A (działka nr 1157)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-blachowni-ul-podlaska-7a-dzialka-nr-1157",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości 1/2 udziału w nieruchomości położonej w Dąbrowie Górniczej, ul. Łącząca",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-12-udzialu-w-nieruchomosci-polozonej-w-dabrowie-gorniczej-ul-laczaca",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Huta Stara A, przy ul. Tkackiej 88 i Tkackiej 88A (działka nr 255)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-huta-stara-a-przy-ul-tkackiej-88-i-tkackiej-88a-dzialka-nr-255",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej przy ulicy Szczygłów 2/2",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ulicy-szczyglow-22",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Świętochłowicach, ul. Węglowa 8 (działki nr 962/187, 2525/329)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-swietochlowicach-ul-weglowa-8-dzialki-nr-962187-2525329",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Świętochłowicach, ul. Węglowa 6 (działka nr 3095)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-swietochlowicach-ul-weglowa-6-dzialka-nr-3095",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Czechowicach-Dziedzicach, ulica Norwida 52",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czechowicach-dziedzicach-ulica-norwida-52",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Akademii Umiejętności 68/3",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-akademii-umiejetnosci-683",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Katowicach przy rzece Ślepiotka (działka nr 58/2)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-katowicach-przy-rzece-slepiotka-dzialka-nr-582",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości gruntowej położonej w Żorach Rogoźnej",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-gruntowej-polozonej-w-zorach-rogoznej",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 27/112 w nieruchomości położonej w Kłobucku Niwa Skrzeszów (działki Nr 241 i 242)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-27112-w-nieruchomosci-polozonej-w-klobucku-niwa-skrzeszow-dzialki-nr-241-i-242",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku, ul. 3 Maja (działka nr 986)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-ul-3-maja-dzialka-nr-986",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku Niwa Skrzeszów (działki Nr 35/5 i 34/5)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-niwa-skrzeszow-dzialki-nr-355-i-345",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Kłobucku (działki nr 1645/3, 1646/1 i 1648/4)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-klobucku-dzialki-nr-16453-16461-i-16484",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Kłobucku (działka nr 1649/2)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-klobucku-dzialka-nr-16492",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku (działka nr 4619)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-dzialka-nr-4619",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku (działki Nr 1650/2 i 1651/2)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-dzialki-nr-16502-i-16512",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku Niwa Skrzeszów (działki Nr 29 i 30)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-niwa-skrzeszow-dzialki-nr-29-i-30",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości części 1/4 w nieruchomości położonej w Kłobucku, ul. Cmentarna (działka Nr 1644/3)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-14-w-nieruchomosci-polozonej-w-klobucku-ul-cmentarna-dzialka-nr-16443",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonych w miejscowości Jastrząb, gmina: Poraj (działki nr 1456/2, 1456/6 oraz 1456/4, 1456/5)",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonych-w-miejscowosci-jastrzab-gmina-poraj-dzialki-nr-14562-14566-oraz-14564-14565",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Energetyków 5/33",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-energetykow-533",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie, Grabówka",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-grabowka",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 47",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-47",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Częstochowie przy ul. Ikara 34",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-czestochowie-przy-ul-ikara-34",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
+      "url": "https://www.gov.pl/web/ias-katowice/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji---rok-2025",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=10&size=10"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "NIERUCHOMOŚĆ STANOWIĄCA DZIAŁKI, POŁOŻONE W OSTROWCU ŚWIĘTOKRZYSKIM PRZY UL. 11 LISTOPADA - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/nieruchomosc-stanowiaca-dzialki-polozona-w-ostrowcu-swietokrzyskim-przy-ul-11-listopada",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "OBWIESZCZENIE O TERMINIE OPISU I OSZACOWANIA NIERUCHOMOŚCI GRUNTOWEJ POŁ. W MIEJSCOWOŚCI WYKIEŃ GM. MIEDZIANA GÓRA",
+      "url": "https://www.gov.pl/web/ias-kielce/obweiszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-gruntowej-pol-w-miejscowosci-wykien-gm-miedziana-gora",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "1/6 UDZIAŁU W NIERUCHOMOŚCI POŁOŻONEJ W MIEJSCOWOŚCI JĘDRZEJÓW - I licytacja",
+      "url": "https://www.gov.pl/web/ias-kielce/16-udzialu-w-nieruchomosci-polozonej-w-miejscowosci-jedrzejow---i-licytacja",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Świętokrzyskie",
+      "city": "Kielce",
+      "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
+      "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+    },
+    {
       "region": "Wielkopolskie",
       "city": "Poznań",
       "title": "Sprzedaż z wolnej ręki - motorower PIAGGIO LIBERTY 50 - od 5 sierpnia 2026 od 11:00 do 7 sierpnia 2026 r. do 12:00.",
@@ -3844,17 +5314,24 @@
     }
   ],
   "by_region": {
+    "Dolnośląskie": 28,
     "Lubelskie": 123,
     "Lubuskie": 17,
+    "Łódzkie": 13,
     "Małopolskie": 11,
-    "Mazowieckie": 147,
+    "Mazowieckie": 141,
     "Opolskie": 29,
+    "Podkarpackie": 5,
+    "Podlaskie": 7,
+    "Pomorskie": 3,
+    "Śląskie": 93,
+    "Świętokrzyskie": 4,
     "Wielkopolskie": 48,
     "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Inne ruchomości": 75,
-    "Nieruchomości": 294,
-    "Pojazdy": 15
+    "Nieruchomości": 382,
+    "Inne ruchomości": 110,
+    "Pojazdy": 39
   }
 }
