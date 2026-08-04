@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-02T08:05:29.867999",
-  "total": 531,
+  "scraped_at": "2026-08-04T08:20:00.448162",
+  "total": 512,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -49,16 +49,6 @@
       "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci10",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o III licytacji nieruchomości (gruntowej niezabudowanej o powierzchni 9893 m2 położonej w gminie Legnickie Pole)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci-polozonej-w",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
@@ -180,7 +170,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -280,7 +270,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Lubelskie",
@@ -370,36 +360,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "13.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka 169, Popkowice)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-169-popkowice?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka 728, Popkowice )",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-728-popkowice?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka, Zadworze)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-zadworze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -565,16 +525,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Trzeciego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 29 maja do 29 lipca 2026 r. (lokal mieszkalny, Lublin, ul.Domeyki)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-trzeciego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-29-maja-do-29-lipca-2026-r-lokal-mieszkalny-lublin-ul-domeyki?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "29.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Opolu Lubelskim o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (sady, Kolonia Wrzelów, gmina Wilków i (łąki trwałe, grunty orne, grunty pod...",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-opolu-lubelskim-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-sady-kolonia-wrzelow-gmina-wilkow-i-laki-trwale-grunty-orne-grunty-pod-rowami-zmijowiska-gmina-wilkow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -615,31 +565,11 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Lubartowie o pierwszej licytacji nieruchomości gruntowej 21 lipca 2026 r. (działki ewidencyjne w obrębie Kozłówka, gm. Kamionka)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-lubartowie-o-pierwszej-licytacji-nieruchomosci-gruntowej-21-lipca-2026-r-dzialki-ewidencyjne-w-obrebie-kozlowka-gm-kamionka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "21.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Radzyniu Podlaskim o terminie opisu i oszacowania wartości nieruchomości od 9 czerwca do 23 lipca 2026 r. (grunt orny,  gmina Komarówka Podlaska,...",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-radzyniu-podlaskim-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-9-czerwca-do-23-lipca-2026-r-grunt-orny-gmina-komarowka-podlaska-miejscowosc-kolembrody?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "23.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji nieruchomości 9 lipca 2026 r. (1/5 udziału, działki, Radawczyk II)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-nieruchomosci-9-lipca-2026-r-1-5-udzialu-dzialki-radawczyk-ii?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "09.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1114,16 +1044,6 @@
     },
     {
       "region": "Lubelskie",
-      "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o pierwszej licytacji nieruchomości 9 lipca 2026 r. (1/5 udziału, działki, Radawczyk II)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-pierwszej-licytacji-nieruchomosci-9-lipca-2026-r-1-5-udzialu-dzialki-radawczyk-ii?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "09.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
       "city": "Pierwszy Urząd Skarbowy w Lublinie",
       "title": "Czytaj więcejo Zawiadomienie Naczelnika Pierwszego Urzędu Skarbowego w Lublinie o sprzedaży ruchomości (moduł sensor AIRBAG i moduł sterownik GATEWAY)",
       "url": "https://www.lubelskie.kas.gov.pl/pierwszy-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Lxg4/content/zawiadomienie-naczelnika-pierwszego-urzedu-skarbowego-w-lublinie-o-sprzedazy-ruchomosci-modul-sensor-airbag-i-modul-sterownik-gateway?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Lxg4%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -1305,16 +1225,6 @@
     {
       "region": "Lubelskie",
       "city": "Trzeci Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Trzeciego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 29 maja do 29 lipca 2026 r. (lokal mieszkalny, Lublin, ul.Domeyki)",
-      "url": "https://www.lubelskie.kas.gov.pl/trzeci-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/LL8x/content/obwieszczenie-naczelnika-trzeciego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-29-maja-do-29-lipca-2026-r-lokal-mieszkalny-lublin-ul-domeyki?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Ftrzeci-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_LL8x%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "29.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/trzeci-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Trzeci Urząd Skarbowy w Lublinie",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Trzeciego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości 2 września 2026 r. (dom jednorodzinny, Lublin, ul. Daktylowa)",
       "url": "https://www.lubelskie.kas.gov.pl/trzeci-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/LL8x/content/obwieszczenie-naczelnika-trzeciego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-2-wrzesnia-2026-r-dom-jednorodzinny-lublin-ul-daktylowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Ftrzeci-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_LL8x%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1395,36 +1305,6 @@
     {
       "region": "Lubelskie",
       "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka 169, Popkowice)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-169-popkowice?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka 728, Popkowice )",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-728-popkowice?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o trzeciej licytacji nieruchomości 30 lipca 2026 r. (działka, Zadworze)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-trzeciej-licytacji-nieruchomosci-30-lipca-2026-r-dzialka-zadworze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
       "title": "Czytaj więcejo Obwieszczenia Naczelnika Urzędu Skarbowego w Kraśniku o pierwszych licytacjach nieruchomości 19 sierpnia 2026 r. (działki, Szczecyn)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenia-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszych-licytacjach-nieruchomosci-19-sierpnia-2026-r-dzialki-szczecyn?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1451,16 +1331,6 @@
       "type": "I licytacja",
       "date": "18.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Lubartowie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Lubartowie o pierwszej licytacji nieruchomości gruntowej 21 lipca 2026 r. (działki ewidencyjne w obrębie Kozłówka, gm. Kamionka)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-lubartowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p4Uo/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-lubartowie-o-pierwszej-licytacji-nieruchomosci-gruntowej-21-lipca-2026-r-dzialki-ewidencyjne-w-obrebie-kozlowka-gm-kamionka?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-lubartowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p4Uo%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "21.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-lubartowie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubelskie",
@@ -2025,16 +1895,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki samochód osobowy LEXUS RX450H Termin: od 28.07.2026 roku od godz. 11:00 do 31.07.2026 roku do godz. 12:00",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-lexus-rx450h-termin-od-28-07-2026-roku-od-godz-11-00-do-31-07-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "28.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania wartości zajętej nieruchomości w postaci prawa użytkowania wieczystego nieruchomości o pow. 2467 m² składającej się z działki nr 976/104, oraz prawa...",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wartosci-zajetej-nieruchomosci-w-postaci-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-2467-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-104-oraz-prawa-uzytkowania-wieczystego-nieruchomosci-o-pow-3440-m%C2%B2-skladajacej-sie-z-dzialki-nr-976-132-polozonych-w-sochaczewie-przy-ul-chodakowskiej-termin-25-sierpnia-2026-r-o-godz-10-00-1-pazdziernika-2026-r-o-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -2126,11 +1986,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji ½ części udziału nieruchomości położonej w Warszawie przy ul. Pozytywki 18A - termin: 16 października 2026 roku, godz. 12.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-%C2%BD-czesci-udzialu-nieruchomosci-polozonej-w-warszawie-przy-ul-pozytywki-18a-termin-16-pazdziernika-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-%C2%BD-czesci-udzialu-nieruchomosci-polozonej-w-warszawie-przy-ul-pozytywki-18a-termin-16-pazdziernika-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "16.10.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -2326,11 +2186,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenia o pierwszej licytacji nieruchomości położonych w miejscowości Wygoda, gmina Policzna, powiat zwoleński - termin: 29 września 2026 r., godz. 10.00 - 10.30.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-polozonych-w-miejscowosci-wygoda-gmina-policzna-powiat-zwolenski-termin-29-wrzesnia-2026-r-godz-10-00-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-polozonych-w-miejscowosci-wygoda-gmina-policzna-powiat-zwolenski-termin-29-wrzesnia-2026-r-godz-10-00-10-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "29.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
@@ -2516,11 +2376,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości - ½ części nieruchomości gruntowej leśnej położonej w miejscowości Słup, Gmina Parysów, powiat garwoliński - termin: 17 września 2026 roku, godz....",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-%C2%BD-czesci-nieruchomosci-gruntowej-lesnej-polozonej-w-miejscowosci-slup-gmina-parysow-powiat-garwolinski-termin-17-wrzesnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-%C2%BD-czesci-nieruchomosci-gruntowej-lesnej-polozonej-w-miejscowosci-slup-gmina-parysow-powiat-garwolinski-termin-17-wrzesnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "17.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
@@ -2575,26 +2435,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości: miejsca postojowego nr 96 garaż G, stanowiącą odrębną nieruchomość, położoną w Warszawie przy ul. Rzepichy 2B - termin: 4 sierpnia 2026 roku, godz....",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-miejsca-postojowego-nr-96-garaz-g-stanowiaca-odrebna-nieruchomosc-polozona-w-warszawie-przy-ul-rzepichy-2b-termin-4-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny położony w Warszawie przy ul. Rzepichy 2B/81 - termin: 4 sierpnia 2026 roku, godz. 10:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-polozony-w-warszawie-przy-ul-rzepichy-2b-81-termin-4-sierpnia-2026-roku-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o terminie opisu i oszacowania: niezabudowana nieruchomość rolna położona w Wierzbicy, powiat radomski - termin: 26 marca 2026 r. - 19 maja 2026 r.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-niezabudowana-nieruchomosc-rolna-polozona-w-wierzbicy-powiat-radomski-termin-26-marca-2026-r-19-maja-2026-r-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
@@ -2626,11 +2466,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-10?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-10?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
     },
     {
       "region": "Mazowieckie",
@@ -2671,16 +2511,6 @@
       "type": "Ogłoszenie",
       "date": "26.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/drugi-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Pierwszy Urząd Skarbowy w Radomiu",
-      "title": "Czytaj więcejo Zawiadomienie o sprzedaży ruchomości z wolnej ręki samochód osobowy LEXUS RX450H Termin: od 28.07.2026 roku od godz. 11:00 do 31.07.2026 roku do godz. 12:00",
-      "url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/j6pN/content/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-samochod-osobowy-lexus-rx450h-termin-od-28-07-2026-roku-od-godz-11-00-do-31-07-2026-roku-do-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-radomiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_j6pN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "28.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Mazowieckie",
@@ -3254,26 +3084,6 @@
     },
     {
       "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Targówek",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości: miejsca postojowego nr 96 garaż G, stanowiącą odrębną nieruchomość, położoną w Warszawie przy ul. Rzepichy 2B - termin: 4 sierpnia 2026 roku, godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/CXf6/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-miejsca-postojowego-nr-96-garaz-g-stanowiaca-odrebna-nieruchomosc-polozona-w-warszawie-przy-ul-rzepichy-2b-termin-4-sierpnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-targowek%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_CXf6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Targówek",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny położony w Warszawie przy ul. Rzepichy 2B/81 - termin: 4 sierpnia 2026 roku, godz. 10:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/CXf6/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-polozony-w-warszawie-przy-ul-rzepichy-2b-81-termin-4-sierpnia-2026-roku-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-targowek%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_CXf6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "04.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-targowek/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
       "city": "Urząd Skarbowy Warszawa-Ursynów",
       "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Własnościowe spółdzielcze prawo do lokalu mieszkalnego położonego przy ul. Wąwozowej 35 /36 w Warszawie - termin: 7 września 2026 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Q4Yp/content/obwieszczenie-o-terminie-opisu-i-oszacowania-wlasnosciowe-spoldzielcze-prawo-do-lokalu-mieszkalnego-polozonego-przy-ul-wawozowej-35-36-w-warszawie-termin-7-wrzesnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-ursynow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Q4Yp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -3476,51 +3286,51 @@
       "region": "Opolskie",
       "city": "Drugi Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenie Drugiego Urzędu Skarbowego w Opolu o opisie i oszacowaniu nieruchomości KW OP1O/00099061/0, termin od 25 czerwca 2026 roku godz. 11.00 do 3 września 2026 roku godz. 12.00",
-      "url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-opisie-i-oszacowaniu-nieruchomosci-kw-op1o-00099061-0-termin-od-25-czerwca-2026-roku-godz-11-00-do-3-wrzesnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-opisie-i-oszacowaniu-nieruchomosci-kw-op1o-00099061-0-termin-od-25-czerwca-2026-roku-godz-11-00-do-3-wrzesnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "25.06.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
       "city": "Drugi Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenie Drugiego Urzędu Skarbowego  w Opolu o terminie opisu i oszacowania nieruchomości KW OP1O/00070405/5, termin od 18 czerwca 2026r. godz. 11:00 do 27 sierpnia 2026r. godz. 12:00",
-      "url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-terminie-opisu-i-oszacowania-nieruchomosci-kw-op1o-00070405-5-termin-od-18-czerwca-2026r-godz-11-00-do-27-sierpnia-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-terminie-opisu-i-oszacowania-nieruchomosci-kw-op1o-00070405-5-termin-od-18-czerwca-2026r-godz-11-00-do-27-sierpnia-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
       "city": "Drugi Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Opolu o opisie i oszacowaniu nieruchomości KW OP1O_00105887_2, termin od 9 czerwca 2026 roku godz. 11.30 do 21 sierpnia 2026 roku godz. 12.00",
-      "url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-opolu-o-opisie-i-oszacowaniu-nieruchomosci-kw-op1o_00105887_2-termin-od-9-czerwca-2026-roku-godz-11-30-do-21-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-opolu-o-opisie-i-oszacowaniu-nieruchomosci-kw-op1o_00105887_2-termin-od-9-czerwca-2026-roku-godz-11-30-do-21-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "09.06.2026",
-      "source_url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
       "city": "Drugi Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenie Drugiego Urzędu Skarbowego w Opolu o terminie opisu i oszacowania wartości nieruchomości (KW OP1O/00109867/4), termin od 27 maja 2026r. godz. 11.30 do 27 lipca 2026r. godz. 12.00",
-      "url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-kw-op1o-00109867-4-termin-od-27-maja-2026r-godz-11-30-do-27-lipca-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenie-drugiego-urzedu-skarbowego-w-opolu-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-kw-op1o-00109867-4-termin-od-27-maja-2026r-godz-11-30-do-27-lipca-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
       "city": "Drugi Urząd Skarbowy w Opolu",
       "title": "Czytaj więcejo Obwieszczenia o licytacji",
-      "url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenia-o-licytacji?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fpl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Nz7W/content/obwieszczenia-o-licytacji?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Nz7W%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.opolskie.kas.gov.pl/pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
+      "source_url": "https://www.opolskie.kas.gov.pl/drugi-urzad-skarbowy-w-opolu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
@@ -5314,12 +5124,12 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 28,
-    "Lubelskie": 123,
+    "Dolnośląskie": 27,
+    "Lubelskie": 111,
     "Lubuskie": 17,
     "Łódzkie": 13,
     "Małopolskie": 11,
-    "Mazowieckie": 141,
+    "Mazowieckie": 135,
     "Opolskie": 29,
     "Podkarpackie": 5,
     "Podlaskie": 7,
@@ -5330,8 +5140,8 @@
     "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Nieruchomości": 382,
+    "Nieruchomości": 365,
     "Inne ruchomości": 110,
-    "Pojazdy": 39
+    "Pojazdy": 37
   }
 }
