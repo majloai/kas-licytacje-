@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-05T08:17:50.041306",
-  "total": 510,
+  "scraped_at": "2026-08-06T08:17:49.720834",
+  "total": 498,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -47,16 +47,6 @@
       "city": "Wrocław",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości",
       "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci10",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania 1/3 udziału nieruchomości położonej w Lubinie przy ul. Armii Krajowej 33",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
@@ -180,7 +170,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -405,16 +395,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o pierwszej licytacji ruchomości 16 lipca 2026 r. (samochód osobowy Renault Magane Scenic Van, 1.6 benzyna)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-pierwszej-licytacji-ruchomosci-16-lipca-2026-r-samochod-osobowy-renault-magane-scenic-van-1-6-benzyna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Krasnymstawie o pierwszej licytacji nieruchomości 12 października 2026 r. (działka, Siedliska Pierwsze)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasnymstawie-o-pierwszej-licytacji-nieruchomosci-12-pazdziernika-2026-r-dzialka-siedliska-pierwsze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -560,16 +540,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "02.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Radzyniu Podlaskim o terminie opisu i oszacowania wartości nieruchomości od 9 czerwca do 23 lipca 2026 r. (grunt orny,  gmina Komarówka Podlaska,...",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-radzyniu-podlaskim-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-9-czerwca-do-23-lipca-2026-r-grunt-orny-gmina-komarowka-podlaska-miejscowosc-kolembrody?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "23.07.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1274,16 +1244,6 @@
     },
     {
       "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Chełmie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o pierwszej licytacji ruchomości 16 lipca 2026 r. (samochód osobowy Renault Magane Scenic Van, 1.6 benzyna)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-pierwszej-licytacji-ruchomosci-16-lipca-2026-r-samochod-osobowy-renault-magane-scenic-van-1-6-benzyna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "I licytacja",
-      "date": "16.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
       "city": "Urząd Skarbowy w Krasnymstawie",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Krasnymstawie o pierwszej licytacji nieruchomości 12 października 2026 r. (działka, Siedliska Pierwsze)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasnymstawie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/cBi2/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasnymstawie-o-pierwszej-licytacji-nieruchomosci-12-pazdziernika-2026-r-dzialka-siedliska-pierwsze?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasnymstawie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_cBi2%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -1341,16 +1301,6 @@
       "type": "I licytacja",
       "date": "18.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-opolu-lubelskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Radzyniu Podlaskim",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Radzyniu Podlaskim o terminie opisu i oszacowania wartości nieruchomości od 9 czerwca do 23 lipca 2026 r. (grunt orny,  gmina Komarówka Podlaska, miejscowość Kolembrody)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-radzyniu-podlaskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2EuW/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-radzyniu-podlaskim-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-9-czerwca-do-23-lipca-2026-r-grunt-orny-gmina-komarowka-podlaska-miejscowosc-kolembrody?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-radzyniu-podlaskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2EuW%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "23.07.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-radzyniu-podlaskim/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubelskie",
@@ -1615,26 +1565,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 5.08.2026 r. (nieruchomość gruntowa Śliwniki Nowe, Zgierz)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-5082026-r-niezabudowana-nieruchomosci-gruntowej-kaszewice-gmina-kluki",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "05.08.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości 5.08.2026 r. (1/2 udziału w nieruchomości lokalowej, Łódź, ul. Sprinterów 6)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-5082026-r-12-udzialu-w-nieruchomosci-lokalowej-lodz-ul-sprinterow-6",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "05.08.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 30.07.2026 do 30.09.2026 r. (Łódź, ul. Kolumny 242)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-30072026-do-30092026-r-lodz-ul-kolumny-242",
       "category": "Nieruchomości",
@@ -1660,7 +1590,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Łódzkie",
@@ -1670,7 +1600,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Łódzkie",
@@ -1684,113 +1614,113 @@
     },
     {
       "region": "Małopolskie",
-      "city": "Kraków",
+      "city": "Drugi Urząd Skarbowy Kraków",
       "title": "Obwieszczenie o II licytacji nieruchomości położonej w Woli Filipowskiej, 15.09.2026 o godz. 10.00 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-polozonej-w-woli-filipowskiej-15-09-2026-o-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/pA8y/content/obwieszczenie-o-ii-licytacji-nieruchomosci-polozonej-w-woli-filipowskiej-15-09-2026-o-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-krakow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_pA8y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "15.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji udziału w nieruchomości gruntowej poł. w Krakowie, 28.08.2026r. o godz. 13.00 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-udzialu-w-nieruchomosci-gruntowej-pol-w-krakowie-28-08-2026r-o-godz-13-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji lokalu mieszkalnego poł. w Krakowie, 28.08.2026r. o godz. 11.30 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-lokalu-mieszkalnego-pol-w-krakowie-28-08-2026r-o-godz-11-30-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji nieruchomości położonej w Binczarowej, 17.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-binczarowej-17-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "17.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o III licytacji udziału w nieruchomości lokalowej położonej w Nowym Sączu, 16.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-iii-licytacji-udzialu-w-nieruchomosci-lokalowej-polozonej-w-nowym-saczu-16-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "16.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o II licytacji nieruchomości 14 działek w Mochnaczce Niżnej, 15.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-14-dzialek-w-mochnaczce-niznej-15-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "15.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o II licytacji nieruchomości w Muszynie 23.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-w-muszynie-23-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "23.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji nieruchomości niezabudowanej działki w Nawojowej 10.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-niezabudowanej-dzialki-w-nawojowej-10-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "10.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o III licytacji nieruchomości położonej w Paszynie, 9.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-iii-licytacji-nieruchomosci-polozonej-w-paszynie-9-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "09.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
+      "city": "Drugi Urząd Skarbowy Kraków",
       "title": "Obwieszczenie o I licytacji nieruchomości położonej w Jerzmanowicach, 10.09.2026r. o godz. 10.00  w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-jerzmanowicach-10-09-2026r-o-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/pA8y/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-jerzmanowicach-10-09-2026r-o-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-krakow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_pA8y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Małopolskie",
-      "city": "Kraków",
+      "city": "Drugi Urząd Skarbowy Kraków",
       "title": "Obwieszczenie o I licytacji nieruchomości położonej w Owczarach w dniu 8.09.2026 r. w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-owczarach-w-dniu-8-09-2026-r-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/pA8y/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-owczarach-w-dniu-8-09-2026-r-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-krakow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_pA8y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "08.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.malopolskie.kas.gov.pl/drugi-urzad-skarbowy-krakow/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy Kraków-Stare Miasto",
+      "title": "Obwieszczenie o I licytacji udziału w nieruchomości gruntowej poł. w Krakowie, 28.08.2026r. o godz. 13.00 w Krakowie",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-stare-miasto/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/dFw3/content/obwieszczenie-o-i-licytacji-udzialu-w-nieruchomosci-gruntowej-pol-w-krakowie-28-08-2026r-o-godz-13-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-krakow-stare-miasto%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_dFw3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-stare-miasto/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy Kraków-Stare Miasto",
+      "title": "Obwieszczenie o I licytacji lokalu mieszkalnego poł. w Krakowie, 28.08.2026r. o godz. 11.30 w Krakowie",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-stare-miasto/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/dFw3/content/obwieszczenie-o-i-licytacji-lokalu-mieszkalnego-pol-w-krakowie-28-08-2026r-o-godz-11-30-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-krakow-stare-miasto%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_dFw3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-krakow-stare-miasto/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o I licytacji nieruchomości położonej w Binczarowej, 17.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-binczarowej-17-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "17.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o III licytacji udziału w nieruchomości lokalowej położonej w Nowym Sączu, 16.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-iii-licytacji-udzialu-w-nieruchomosci-lokalowej-polozonej-w-nowym-saczu-16-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "16.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o II licytacji nieruchomości 14 działek w Mochnaczce Niżnej, 15.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-ii-licytacji-nieruchomosci-14-dzialek-w-mochnaczce-niznej-15-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "15.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o II licytacji nieruchomości w Muszynie 23.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-ii-licytacji-nieruchomosci-w-muszynie-23-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "II licytacja",
+      "date": "23.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o I licytacji nieruchomości niezabudowanej działki w Nawojowej 10.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-i-licytacji-nieruchomosci-niezabudowanej-dzialki-w-nawojowej-10-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "I licytacja",
+      "date": "10.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Małopolskie",
+      "city": "Urząd Skarbowy w Nowym Sączu",
+      "title": "Obwieszczenie o III licytacji nieruchomości położonej w Paszynie, 9.09.2026 r. o godz. 9.00 w Nowym Sączu",
+      "url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/p5WA/content/obwieszczenie-o-iii-licytacji-nieruchomosci-polozonej-w-paszynie-9-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Furzad-skarbowy-w-nowym-saczu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_p5WA%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Licytacja",
+      "date": "09.09.2026",
+      "source_url": "https://www.malopolskie.kas.gov.pl/urzad-skarbowy-w-nowym-saczu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Mazowieckie",
@@ -1830,16 +1760,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "07.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Warszawie przy ul. Augustówka 8A/60 - termin: 5 sierpnia 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-warszawie-przy-ul-augustowka-8a-60-termin-5-sierpnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "05.08.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1996,11 +1916,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej położonej w miejscowości Wiśniew-Kolonia, gmina Wiśniew, powiat siedlecki - termin: 18 listopada 2026 r. godz. 10.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-w-miejscowosci-wisniew-kolonia-gmina-wisniew-powiat-siedlecki-termin-18-listopada-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-w-miejscowosci-wisniew-kolonia-gmina-wisniew-powiat-siedlecki-termin-18-listopada-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "18.11.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -2196,11 +2116,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenia o pierwszej licytacji nieruchomości gruntowej rolnej położonej we wsi Janów, gmina Tczów - termin: 30 września 2026 r., godz. 11.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-gruntowej-rolnej-polozonej-we-wsi-janow-gmina-tczow-termin-30-wrzesnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenia-o-pierwszej-licytacji-nieruchomosci-gruntowej-rolnej-polozonej-we-wsi-janow-gmina-tczow-termin-30-wrzesnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "30.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
@@ -2386,21 +2306,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej niezabudowanej, położonej w miejscowości Kozołupy, gmina Stoczek, powiat węgrowski - termin: 26 sierpnia 2026 r., godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-kozolupy-gmina-stoczek-powiat-wegrowski-termin-26-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-kozolupy-gmina-stoczek-powiat-wegrowski-termin-26-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "26.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji prawa użytkowania wieczystego gruntu i budynku transportu i łączności (do 05.12.2089 r.) stanowiącego odrębną nieruchomość położoną w miejscowości Pionki przy ulicy...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-prawa-uzytkowania-wieczystego-gruntu-i-budynku-transportu-i-lacznosci-do-05-12-2089-r-stanowiacego-odrebna-nieruchomosc-polozona-w-miejscowosci-pionki-przy-ulicy-przemyslowej-termin-5-sierpnia-2026-r-godz-9-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "05.12.2089",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
     },
     {
       "region": "Mazowieckie",
@@ -2466,11 +2376,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-8?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D5%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-8?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D4%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=5"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=4"
     },
     {
       "region": "Mazowieckie",
@@ -2540,16 +2450,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "02.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Pierwszy Urząd Skarbowy w Radomiu",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji prawa użytkowania wieczystego gruntu i budynku transportu i łączności (do 05.12.2089 r.) stanowiącego odrębną nieruchomość położoną w miejscowości Pionki przy ulicy Przemysłowej - termin: 5 sierpnia 2026 r., godz. 9:30.",
-      "url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/j6pN/content/obwieszczenie-o-pierwszej-licytacji-prawa-uzytkowania-wieczystego-gruntu-i-budynku-transportu-i-lacznosci-do-05-12-2089-r-stanowiacego-odrebna-nieruchomosc-polozona-w-miejscowosci-pionki-przy-ulicy-przemyslowej-termin-5-sierpnia-2026-r-godz-9-30?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fpierwszy-urzad-skarbowy-w-radomiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_j6pN%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "05.12.2089",
       "source_url": "https://www.mazowieckie.kas.gov.pl/pierwszy-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -3075,16 +2975,6 @@
     {
       "region": "Mazowieckie",
       "city": "Urząd Skarbowy Warszawa-Ursynów",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Warszawie przy ul. Augustówka 8A/60 - termin: 5 sierpnia 2026 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Q4Yp/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-warszawie-przy-ul-augustowka-8a-60-termin-5-sierpnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-ursynow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Q4Yp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "05.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Ursynów",
       "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania - Lokal mieszkalny położony w Warszawie przy ul. Sarmackiej 1B/93 - termin: 6 sierpnia 2026 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Q4Yp/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-polozony-w-warszawie-przy-ul-sarmackiej-1b-93-termin-6-sierpnia-2026-roku?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-ursynow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Q4Yp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -3420,16 +3310,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "01.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Zawiadomienie o sprzedaży z wolnej ręki 5 sierpnia 2026 r. w godz. od 10:00 do 12:00 - samochód marki Opel Tigra kabriolet",
-      "url": "https://www.gov.pl/web/ias-rzeszow/zawiadomienie-o-sprzedazy-z-wolnej-reki-5-sierpnia-2026-r---samochod-marki-opel-tigra-kabriolet",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "05.08.2026",
       "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
     },
     {
@@ -5104,14 +4984,14 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 27,
-    "Lubelskie": 111,
+    "Dolnośląskie": 26,
+    "Lubelskie": 107,
     "Lubuskie": 17,
-    "Łódzkie": 13,
+    "Łódzkie": 11,
     "Małopolskie": 11,
-    "Mazowieckie": 133,
+    "Mazowieckie": 129,
     "Opolskie": 29,
-    "Podkarpackie": 5,
+    "Podkarpackie": 4,
     "Podlaskie": 7,
     "Pomorskie": 3,
     "Śląskie": 93,
@@ -5120,8 +5000,8 @@
     "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Nieruchomości": 363,
+    "Nieruchomości": 354,
     "Inne ruchomości": 110,
-    "Pojazdy": 37
+    "Pojazdy": 34
   }
 }
