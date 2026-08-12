@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-11T06:48:58.528534",
-  "total": 459,
+  "scraped_at": "2026-08-12T07:09:23.859179",
+  "total": 458,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -3205,16 +3205,6 @@
     {
       "region": "Podkarpackie",
       "city": "Rzeszów",
-      "title": "Obwieszczenie o drugiej licytacji nieruchomości 11 sierpnia 2026 r. o godz. 11:00 - nieruchomość gruntowa położona w miejscowości Dąbrowa, gmina Świlcza, woj. podkarpackie o powierzchni 0,26 ha (księga wieczysta nr RZ1Z/00261402/1)",
-      "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-nieruchomosci-11-sierpnia-2026-r-o-godz-1100--nieruchomosc-gruntowa-polozona-w-miejscowosci-dabrowa-gmina-swilcza-woj-podkarpackie-o-powierzchni-026-ha-ksiega-wieczysta-nr-rz1z002614021",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "11.08.2026",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
       "title": "Obwieszczenie o drugiej licytacji ruchomości 3 września 2026 r. - samochód marki Toyota Avensis",
       "url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenie-o-drugiej-licytacji-ruchomosci-3-wrzesnia-2026-r---samochod-marki-toyota-avensis",
       "category": "Pojazdy",
@@ -4601,7 +4591,7 @@
     "Małopolskie": 11,
     "Mazowieckie": 121,
     "Opolskie": 29,
-    "Podkarpackie": 2,
+    "Podkarpackie": 1,
     "Podlaskie": 6,
     "Pomorskie": 2,
     "Śląskie": 84,
@@ -4610,7 +4600,7 @@
     "Zachodniopomorskie": 9
   },
   "by_category": {
-    "Nieruchomości": 334,
+    "Nieruchomości": 333,
     "Inne ruchomości": 100,
     "Pojazdy": 25
   }
