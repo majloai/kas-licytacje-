@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-12T07:09:23.859179",
-  "total": 458,
+  "scraped_at": "2026-08-13T07:12:42.166672",
+  "total": 452,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -3245,16 +3245,6 @@
     {
       "region": "Podlaskie",
       "city": "Białystok",
-      "title": "Nieruchomość rolna zabudowana, Ostrówek gm. Szudziałowo - druga licytacja.",
-      "url": "https://www.gov.pl/web/ias-bialystok/nieruchomosc-rolna-zabudowana-ostrowek-gm-szudzialowo---druga-licytacja-12082026",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
       "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
       "url": "https://www.gov.pl/web/ias-bialystok/informacja-roczna-za-2025-rok-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
       "category": "Inne ruchomości",
@@ -3445,16 +3435,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I licytacja nieruchomości położonej w Chorzowie, ul. Dąbrowskiego 64A",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-chorzowie-ul-dabrowskiego-64a",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Konopiska przy ul. Śląskiej (nr KW CZ1C/00056177/0)",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-konopiska",
       "category": "Nieruchomości",
@@ -3490,7 +3470,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -3590,7 +3570,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Śląskie",
@@ -3660,7 +3640,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -3760,7 +3740,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -3860,7 +3840,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -3960,7 +3940,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -4060,7 +4040,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -4524,26 +4504,6 @@
     },
     {
       "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o terminie opisu  i oszacowania, Lokal mieszkalny o powierzchni 27,9000 m², położony w Grzybnie 45/7, gm. Chojna,  rozpocznie się:  24 czerwca 2026 roku, o godz. 10.30 w miejscu...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-o-powierzchni-27-9000-m%C2%B2-polozony-w-grzybnie-45-7-gm-chojna-rozpocznie-sie-24-czerwca-2026-roku-o-godz-10-30-w-miejscu-polozenia-nieruchomosci-tj-grzybno-45-7-gm-chojna-zakonczy-sie-12-sierpnia-2026-roku-godz-10-30-w-urzedzie-skarbowym-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pok-101?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o terminie opisu i oszacowania, lokal mieszkalny o powierzchni 18,2000 m² ,położony w Grzybnie 45/1, gm. Chojna,  rozpocznie się:  24 czerwca 2026 roku, o godz. 10.00 w miejscu położenia...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-o-powierzchni-18-2000-m%C2%B2-polozony-w-grzybnie-45-1-gm-chojna-rozpocznie-sie-24-czerwca-2026-roku-o-godz-10-00-w-miejscu-polozenia-nieruchomosci-tj-grzybno-45-1-gm-chojna-zakonczy-sie-12-sierpnia-2026-roku-godz-10-00-w-urzedzie-skarbowym-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pok-101?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
       "city": "Urząd Skarbowy w Gryfinie",
       "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 410, o pow. 0,0356 ha, położoną w miejscowości Piaseczno, zachodniopomorskie, 20 sierpnia 2026 r. godz. 10:00 Urząd Skarbowy w Gryfinie",
       "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-410-o-pow-0-0356-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-10-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -4561,26 +4521,6 @@
       "type": "I licytacja",
       "date": "20.08.2026",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Gryfinie",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania, lokal mieszkalny o powierzchni 18,2000 m² ,położony w Grzybnie 45/1, gm. Chojna,  rozpocznie się:  24 czerwca 2026 roku, o godz. 10.00 w miejscu położenia nieruchomości, tj.  Grzybno 45/1, gm. Chojna,  zakończy się: 12 sierpnia 2026 roku, godz. 10.00 w Urzędzie Skarbowym w Gryfinie, ul. Szczecińska 24, 74-100 Gryfino, pok. 101",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-o-powierzchni-18-2000-m%C2%B2-polozony-w-grzybnie-45-1-gm-chojna-rozpocznie-sie-24-czerwca-2026-roku-o-godz-10-00-w-miejscu-polozenia-nieruchomosci-tj-grzybno-45-1-gm-chojna-zakonczy-sie-12-sierpnia-2026-roku-godz-10-00-w-urzedzie-skarbowym-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pok-101?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Gryfinie",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu  i oszacowania, Lokal mieszkalny o powierzchni 27,9000 m², położony w Grzybnie 45/7, gm. Chojna,  rozpocznie się:  24 czerwca 2026 roku, o godz. 10.30 w miejscu położenia nieruchomości, tj.  Grzybno 45/7, gm. Chojna,  zakończy się: 12 sierpnia 2026 roku, godz. 10.30 w Urzędzie Skarbowym w Gryfinie, ul. Szczecińska 24, 74-100 Gryfino, pok. 101",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-terminie-opisu-i-oszacowania-lokal-mieszkalny-o-powierzchni-27-9000-m%C2%B2-polozony-w-grzybnie-45-7-gm-chojna-rozpocznie-sie-24-czerwca-2026-roku-o-godz-10-30-w-miejscu-polozenia-nieruchomosci-tj-grzybno-45-7-gm-chojna-zakonczy-sie-12-sierpnia-2026-roku-godz-10-30-w-urzedzie-skarbowym-w-gryfinie-ul-szczecinska-24-74-100-gryfino-pok-101?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "24.06.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
     }
   ],
   "by_region": {
@@ -4592,15 +4532,15 @@
     "Mazowieckie": 121,
     "Opolskie": 29,
     "Podkarpackie": 1,
-    "Podlaskie": 6,
+    "Podlaskie": 5,
     "Pomorskie": 2,
-    "Śląskie": 84,
+    "Śląskie": 83,
     "Świętokrzyskie": 4,
     "Wielkopolskie": 32,
-    "Zachodniopomorskie": 9
+    "Zachodniopomorskie": 5
   },
   "by_category": {
-    "Nieruchomości": 333,
+    "Nieruchomości": 327,
     "Inne ruchomości": 100,
     "Pojazdy": 25
   }
