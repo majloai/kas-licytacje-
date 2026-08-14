@@ -1,267 +1,7 @@
 {
-  "scraped_at": "2026-08-13T07:12:42.166672",
-  "total": 452,
+  "scraped_at": "2026-08-14T07:09:13.790946",
+  "total": 421,
   "listings": [
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,3725 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-nieruchomosci9",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,4650 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/ii-licytacja-ulamkowej-czesci-12-nieruchomosci-gruntowej-o-powierzchni-04650-ha-polozonej-w-gminie-stronie-slaskie-dz-nr-2493-obreb-0013-stary-gieraltow",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji nieruchomości",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci---samochod87",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o III licytacji nieruchomości",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-iii-licytacji-nieruchomosci13",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci10",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości (nieruchomość gruntowa, zabudowana położona w Jaworze, KW nr LE1J/00018499/7)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-nieruchomosc-gruntowa-zabudowana-polozona-w-jaworze-kw-nr-le1j000184997",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości położonej w Stroniu Śląskim",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci8",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o II licytacji ruchomości - samochód",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci---samochod44",
-      "category": "Pojazdy",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o II licytacji ruchomości (Waga elektroniczna x 2 szt.)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-ruchomosci37",
-      "category": "Inne ruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji ruchomości (namioty do uprawy roślin, lampa)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci-namioty-do-uprawy-roslin-lampa",
-      "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i szacowania nieruchomości gruntowej położonej w Trójcy gm. Zgorzelec",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-szacowania-nieruchomosci-polozonej-w",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Świdnica)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-swidnica2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (I US Wrocław)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-i-us-wroclaw",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Bolesławiec)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-boleslawiec",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Oława)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-olawa2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o ruchomościach sprzedanych przez Naczelnika Urzędu Skarbowego Głogów w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
-      "url": "https://www.gov.pl/web/ias-wroclaw/in",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław - Krzyki)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw---krzyki",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Ząbkowice Śląskie)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-zabkowice-slaskie2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a.(US Dzierżoniów)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Jawor)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-jawor",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lwówek Śląski)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-lwowek-slaski2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wołów)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wolow2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław-Śródmieście)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw-srodmiescie2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Środa Śląska)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-sroda-slaska",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Strzelin)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-strzelin2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
     {
       "region": "Lubelskie",
       "city": "Lublin",
@@ -1315,26 +1055,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Trzecia licytacja udziału w nieruchomości, położonej Lipkach Wielkich",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/trzecia-licytacja-udzialu-w-nieruchomosci-polozonej-lipkach-wielkich?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Zmiana terminu opisu i oszacowania wartości nieruchomości: lokalu mieszkalnego położonego w Łęknicy przy ul. Dworcowej 3A/1",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/zmiana-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-lokalu-mieszkalnego-polozonego-w-leknicy-przy-ul-dworcowej-3a-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "Trzecia licytacja nieruchomości, położonej w miejscowości Wysoka",
       "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/trzecia-licytacja-nieruchomosci-polozonej-w-miejscowosci-wysoka?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1435,16 +1155,6 @@
     {
       "region": "Lubuskie",
       "city": "Urząd Skarbowy w Gorzowie Wielkopolskim",
-      "title": "Czytaj więcejo Trzecia licytacja udziału w nieruchomości, położonej Lipkach Wielkich",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/zY7t/content/trzecia-licytacja-udzialu-w-nieruchomosci-polozonej-lipkach-wielkich?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-gorzowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_zY7t%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Gorzowie Wielkopolskim",
       "title": "Czytaj więcejo Trzecia licytacja nieruchomości, położonej w miejscowości Wysoka",
       "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-gorzowie-wielkopolskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/zY7t/content/trzecia-licytacja-nieruchomosci-polozonej-w-miejscowosci-wysoka?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-gorzowie-wielkopolskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_zY7t%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1471,16 +1181,6 @@
       "type": "II licytacja",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-krosnie-odrzanskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Żarach",
-      "title": "Czytaj więcejo Zmiana terminu opisu i oszacowania wartości nieruchomości: lokalu mieszkalnego położonego w Łęknicy przy ul. Dworcowej 3A/1",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/doH0/content/zmiana-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-lokalu-mieszkalnego-polozonego-w-leknicy-przy-ul-dworcowej-3a-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-zarach%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_doH0%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-zarach/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Łódzkie",
@@ -1535,16 +1235,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Zawiadomienie o sprzedaży ruchomości z wolnej ręki w terminie 10.08.2026 r. -13.08.2026 r (samochód ciężarowy Scania P94 rok prod. 2002)",
-      "url": "https://www.gov.pl/web/ias-lodz/zawiadomienie-o-sprzedazy-ruchomosci-z-wolnej-reki-w-terminie-10082026-r--13082026-r-samochod-ciezarowy-scania-p94-rok-prod-2002",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "10.08.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 30.07.2026 do 30.09.2026 r. (Łódź, ul. Kolumny 242)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-30072026-do-30092026-r-lodz-ul-kolumny-242",
       "category": "Nieruchomości",
@@ -1590,7 +1280,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Małopolskie",
@@ -4524,10 +4214,9 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 26,
     "Lubelskie": 105,
-    "Lubuskie": 17,
-    "Łódzkie": 11,
+    "Lubuskie": 13,
+    "Łódzkie": 10,
     "Małopolskie": 11,
     "Mazowieckie": 121,
     "Opolskie": 29,
@@ -4540,8 +4229,8 @@
     "Zachodniopomorskie": 5
   },
   "by_category": {
-    "Nieruchomości": 327,
-    "Inne ruchomości": 100,
-    "Pojazdy": 25
+    "Inne ruchomości": 83,
+    "Nieruchomości": 315,
+    "Pojazdy": 23
   }
 }
