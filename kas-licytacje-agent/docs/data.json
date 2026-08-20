@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19T06:27:56.237584",
-  "total": 449,
+  "scraped_at": "2026-08-20T06:29:07.244867",
+  "total": 447,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -3345,16 +3345,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I licytacja nieruchomości położonej w Chorzowie, ul. Powstańców 9",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-chorzowie-ul-powstancow-9",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Żywcu (działka nr 813)",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zywcu-dzialka-nr-813",
       "category": "Nieruchomości",
@@ -3430,7 +3420,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -3530,7 +3520,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Śląskie",
@@ -3600,7 +3590,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -3700,7 +3690,7 @@
       "category": "Nieruchomości",
       "type": "Odwołanie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -3800,7 +3790,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -3900,7 +3890,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -4000,7 +3990,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -4099,16 +4089,6 @@
       "url": "https://www.gov.pl/web/ias-kielce/obweiszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-gruntowej-pol-w-miejscowosci-wykien-gm-miedziana-gora",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
-      "title": "1/6 UDZIAŁU W NIERUCHOMOŚCI POŁOŻONEJ W MIEJSCOWOŚCI JĘDRZEJÓW - I licytacja",
-      "url": "https://www.gov.pl/web/ias-kielce/16-udzialu-w-nieruchomosci-polozonej-w-miejscowosci-jedrzejow---i-licytacja",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
     },
@@ -4504,13 +4484,13 @@
     "Podkarpackie": 1,
     "Podlaskie": 5,
     "Pomorskie": 2,
-    "Śląskie": 85,
-    "Świętokrzyskie": 4,
+    "Śląskie": 84,
+    "Świętokrzyskie": 3,
     "Wielkopolskie": 32,
     "Zachodniopomorskie": 5
   },
   "by_category": {
-    "Nieruchomości": 325,
+    "Nieruchomości": 323,
     "Inne ruchomości": 100,
     "Pojazdy": 24
   }
