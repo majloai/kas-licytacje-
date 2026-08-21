@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-20T06:29:07.244867",
-  "total": 447,
+  "scraped_at": "2026-08-21T06:28:43.204984",
+  "total": 441,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -19,16 +19,6 @@
       "url": "https://www.gov.pl/web/ias-wroclaw/ii-licytacja-ulamkowej-czesci-12-nieruchomosci-gruntowej-o-powierzchni-04650-ha-polozonej-w-gminie-stronie-slaskie-dz-nr-2493-obreb-0013-stary-gieraltow",
       "category": "Nieruchomości",
       "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o I licytacji nieruchomości",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-i-licytacji-ruchomosci---samochod87",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
@@ -90,7 +80,7 @@
       "category": "Inne ruchomości",
       "type": "II licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -190,7 +180,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -3705,16 +3695,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Knurowie, przy ul. Szkolnej 7",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-knurowie-przy-ul-szkolnej-7",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Bytomiu przy ul. Gabriela Narutowicza (działka nr 1163/15)",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bytomiu-przy-ul-gabriela-narutowicza-dzialka-nr-116315",
       "category": "Nieruchomości",
@@ -3800,7 +3780,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -3900,7 +3880,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -4000,7 +3980,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -4431,50 +4411,10 @@
       "type": "Licytacja",
       "date": "",
       "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 410, o pow. 0,0356 ha, położoną w miejscowości Piaseczno, zachodniopomorskie, 20 sierpnia 2026...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-410-o-pow-0-0356-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-10-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "20.08.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 413, o pow. 0,1383 ha, położoną w miejscowości  Piaseczno,  zachodniopomorskie, 20 sierpnia...",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-413-o-pow-0-1383-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-11-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Gryfinie",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 410, o pow. 0,0356 ha, położoną w miejscowości Piaseczno, zachodniopomorskie, 20 sierpnia 2026 r. godz. 10:00 Urząd Skarbowy w Gryfinie",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-410-o-pow-0-0356-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-10-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "20.08.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Urząd Skarbowy w Gryfinie",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej stanowiącej działkę o numerze ewidencyjnym nr 413, o pow. 0,1383 ha, położoną w miejscowości  Piaseczno,  zachodniopomorskie, 20 sierpnia 2026 r. godz. 11:00 Urząd Skarbowy w Gryfinie",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/xS4r/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-stanowiacej-dzialke-o-numerze-ewidencyjnym-nr-413-o-pow-0-1383-ha-polozona-w-miejscowosci-piaseczno-zachodniopomorskie-20-sierpnia-2026-r-godz-11-00-urzad-skarbowy-w-gryfinie?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Furzad-skarbowy-w-gryfinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_xS4r%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "20.08.2026",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/urzad-skarbowy-w-gryfinie/ogloszenia/obwieszczenia-o-licytacji"
     }
   ],
   "by_region": {
-    "Dolnośląskie": 26,
+    "Dolnośląskie": 25,
     "Lubelskie": 103,
     "Lubuskie": 15,
     "Łódzkie": 10,
@@ -4484,13 +4424,13 @@
     "Podkarpackie": 1,
     "Podlaskie": 5,
     "Pomorskie": 2,
-    "Śląskie": 84,
+    "Śląskie": 83,
     "Świętokrzyskie": 3,
     "Wielkopolskie": 32,
-    "Zachodniopomorskie": 5
+    "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 323,
+    "Nieruchomości": 317,
     "Inne ruchomości": 100,
     "Pojazdy": 24
   }
