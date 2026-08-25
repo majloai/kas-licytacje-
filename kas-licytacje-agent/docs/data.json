@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-25T06:28:39.946626",
-  "total": 395,
+  "scraped_at": "2026-08-25T19:15:14.310777",
+  "total": 386,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -2715,16 +2715,6 @@
     {
       "region": "Podlaskie",
       "city": "Białystok",
-      "title": "Udział w nieruchomości, działka zabudowana, Koźliki, gm. Zabłudów - pierwsza licytacja.",
-      "url": "https://www.gov.pl/web/ias-bialystok/udzial-w-nieruchomosc-dzialka-zabudowana-kozliki-gm-zabludow---pierwsza-licytacja",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
       "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
       "url": "https://www.gov.pl/web/ias-bialystok/informacja-roczna-za-2025-rok-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
       "category": "Inne ruchomości",
@@ -3625,16 +3615,6 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
-      "title": "Sprzedaż z wolnej ręki - motorower PIAGGIO LIBERTY 50 - od 5 sierpnia 2026 od 11:00 do 7 sierpnia 2026 r. do 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/sprzedaz-z-wolnej-reki-motorower-piaggio-liberty-50-od-5-sierpnia-2026-od-11-00-do-7-sierpnia-2026-r-do-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "05.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
       "title": "AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/aktualne-obwieszczenia-od-1-07-2026-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -3720,36 +3700,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "02.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-polozonej-w-miejscowosci-niewolno-12-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "12.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja nieruchomości : 30 LIPCA 2026 r. godz. 10:00, nieruchomości niezabudowanej położonej w obrębie Sądzia, gmina Włoszakowice, powiat leszczyński, województwo wielkopolskie, działka nr...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-nieruchomosci-30-lipca-2026-r-godz-10-00-nieruchomosci-niezabudowanej-polozonej-w-obrebie-sadzia-gmina-wloszakowice-powiat-leszczynski-wojewodztwo-wielkopolskie-dzialka-nr-119-5-o-powierzchni-0-2190-ha-dla-ktorej-sad-rejonowy-w-lesznie-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-po1l-00068523-6?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Pierwsza licytacja nieruchomości - 20 SIERPNIA 2026 r. godz. 10:00 - udziału 1/2 prawa własności nieruchomości gruntowej, zabudowanej, położonej w miejscowości Biała, gm. Wieleń PO2T/00022285/5: 20...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/pierwsza-licytacja-nieruchomosci-20-sierpnia-2026-r-godz-10-00-udzialu-1-2-prawa-wlasnosci-nieruchomosci-gruntowej-zabudowanej-polozonej-w-miejscowosci-biala-gm-wielen-po2t-00022285-5-20-sierpnia-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "20.08.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -3864,36 +3814,6 @@
     },
     {
       "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Czarnkowie",
-      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości - 20 SIERPNIA 2026 r. godz. 10:00 - udziału 1/2 prawa własności nieruchomości gruntowej, zabudowanej, położonej w miejscowości Biała, gm. Wieleń PO2T/00022285/5: 20 SIERPNIA 2026 r. godz. 10:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/ezZ1/content/pierwsza-licytacja-nieruchomosci-20-sierpnia-2026-r-godz-10-00-udzialu-1-2-prawa-wlasnosci-nieruchomosci-gruntowej-zabudowanej-polozonej-w-miejscowosci-biala-gm-wielen-po2t-00022285-5-20-sierpnia-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-czarnkowie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_ezZ1%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "20.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-czarnkowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Gnieźnie",
-      "title": "Czytaj więcejo Obwieszczenie o trzeciej licytacji nieruchomości położonej w miejscowości NIEWOLNO - 12 sierpnia 2026 r. godz. 11:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/A0wb/content/obwieszczenie-o-trzeciej-licytacji-nieruchomosci-polozonej-w-miejscowosci-niewolno-12-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-gnieznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_A0wb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "III licytacja",
-      "date": "12.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-gnieznie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Kole",
-      "title": "Czytaj więcejo Sprzedaż z wolnej ręki - motorower PIAGGIO LIBERTY 50 - od 5 sierpnia 2026 od 11:00 do 7 sierpnia 2026 r. do 12:00.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/SvS3/content/sprzedaz-z-wolnej-reki-motorower-piaggio-liberty-50-od-5-sierpnia-2026-od-11-00-do-7-sierpnia-2026-r-do-12-00?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-kole%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_SvS3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "05.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-kole/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Koninie",
       "title": "Czytaj więcejo Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul. Kardynała Stefana Wyszyńskiego 2/43 dla której Sąd Rejonowy w Koninie prowadzi księgę wieczystą  oznaczoną  nr KN1N/00075696/5.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3BJq/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koninie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3BJq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -3901,16 +3821,6 @@
       "type": "Ogłoszenie",
       "date": "07.08.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Urząd Skarbowy w Lesznie",
-      "title": "Czytaj więcejo Pierwsza licytacja nieruchomości : 30 LIPCA 2026 r. godz. 10:00, nieruchomości niezabudowanej położonej w obrębie Sądzia, gmina Włoszakowice, powiat leszczyński, województwo wielkopolskie, działka nr 119/5 o powierzchni 0,2190 ha, dla której Sąd Rejonowy w Lesznie VI Wydział Ksiąg Wieczystych prowadzi Księgę Wieczystą nr PO1L/00068523/6.",
-      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/sj2G/content/pierwsza-licytacja-nieruchomosci-30-lipca-2026-r-godz-10-00-nieruchomosci-niezabudowanej-polozonej-w-obrebie-sadzia-gmina-wloszakowice-powiat-leszczynski-wojewodztwo-wielkopolskie-dzialka-nr-119-5-o-powierzchni-0-2190-ha-dla-ktorej-sad-rejonowy-w-lesznie-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-po1l-00068523-6?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-lesznie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_sj2G%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "30.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-lesznie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Wielkopolskie",
@@ -3962,16 +3872,16 @@
     "Mazowieckie": 83,
     "Opolskie": 29,
     "Podkarpackie": 1,
-    "Podlaskie": 5,
+    "Podlaskie": 4,
     "Pomorskie": 2,
     "Śląskie": 83,
     "Świętokrzyskie": 3,
-    "Wielkopolskie": 32,
+    "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 273,
+    "Nieruchomości": 266,
     "Inne ruchomości": 98,
-    "Pojazdy": 24
+    "Pojazdy": 22
   }
 }
