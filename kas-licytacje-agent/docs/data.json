@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-24T06:37:10.119075",
-  "total": 409,
+  "scraped_at": "2026-08-25T06:28:39.946626",
+  "total": 395,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -395,16 +395,6 @@
     {
       "region": "Lubelskie",
       "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Białej Podlaskiej o pierwszej licytacji nieruchomości 19 sierpnia 2026 r. (działki o łącznej pow. 2,2364 ha, Wiski, obręb 0013, gm. Tuczna).",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bialej-podlaskiej-o-pierwszej-licytacji-nieruchomosci-19-sierpnia-2026-r-dzialki-o-lacznej-pow-2-2364-ha-wiski-obreb-0013-gm-tuczna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "19.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
       "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości od 16 lipca do 15 października 2026 r. (działka, Skrzynice Kolonia)",
       "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-16-lipca-do-15-pazdziernika-2026-r-dzialka-skrzynice-kolonia?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -430,36 +420,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "10.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenia Naczelnika Urzędu Skarbowego w Kraśniku o pierwszych licytacjach nieruchomości 19 sierpnia 2026 r. (działki, Szczecyn)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenia-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszych-licytacjach-nieruchomosci-19-sierpnia-2026-r-dzialki-szczecyn?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "19.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (działka, Dąbrowa)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-dzialka-dabrowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (działki, Dąbrowa)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-dzialki-dabrowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1175,16 +1135,6 @@
     {
       "region": "Lubelskie",
       "city": "Urząd Skarbowy w Białej Podlaskiej",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Białej Podlaskiej o pierwszej licytacji nieruchomości 19 sierpnia 2026 r. (działki o łącznej pow. 2,2364 ha, Wiski, obręb 0013, gm. Tuczna).",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bialej-podlaskiej/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/h7jR/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bialej-podlaskiej-o-pierwszej-licytacji-nieruchomosci-19-sierpnia-2026-r-dzialki-o-lacznej-pow-2-2364-ha-wiski-obreb-0013-gm-tuczna?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-bialej-podlaskiej%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_h7jR%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "19.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bialej-podlaskiej/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Białej Podlaskiej",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Białej Podlaskiej o terminie opisu i oszacowania wartości nieruchomości od 8 lipca do 24 września 2026 r. (grunty orne, Kijowiec)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bialej-podlaskiej/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/h7jR/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bialej-podlaskiej-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-8-lipca-do-24-wrzesnia-2026-r-grunty-orne-kijowiec?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-bialej-podlaskiej%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_h7jR%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1231,36 +1181,6 @@
       "type": "I licytacja",
       "date": "10.09.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasnymstawie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenia Naczelnika Urzędu Skarbowego w Kraśniku o pierwszych licytacjach nieruchomości 19 sierpnia 2026 r. (działki, Szczecyn)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenia-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszych-licytacjach-nieruchomosci-19-sierpnia-2026-r-dzialki-szczecyn?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "19.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (działka, Dąbrowa)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-dzialka-dabrowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Kraśniku",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Kraśniku o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (działki, Dąbrowa)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/2Fkj/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-krasniku-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-dzialki-dabrowa?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-krasniku%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_2Fkj%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasniku/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Lubelskie",
@@ -1955,16 +1875,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o odwołaniu pierwszej licytacji nieruchomości gruntowej niezabudowanej położonej w miejscowości Stanisławów, powiat miński - wyznaczonej na 15 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-odwolaniu-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-stanislawow-powiat-minski-wyznaczonej-na-15-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "15.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej niezabudowanej (tereny rolne) położonej w miejscowości Kochów, Gmina Maciejowice, powiat garwoliński - termin: 6 października 2026 roku,...",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-tereny-rolne-polozonej-w-miejscowosci-kochow-gmina-maciejowice-powiat-garwolinski-termin-6-pazdziernika-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
@@ -1990,16 +1900,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny nr 29 położony w Warszawie przy ul. Adama Branickiego 18 - termin: 28 sierpnia 2026 roku, godz. 12.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-nr-29-polozony-w-warszawie-przy-ul-adama-branickiego-18-termin-28-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "28.08.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
@@ -2036,31 +1936,21 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej niezabudowanej, położonej w miejscowości Kozołupy, gmina Stoczek, powiat węgrowski - termin: 26 sierpnia 2026 r., godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-kozolupy-gmina-stoczek-powiat-wegrowski-termin-26-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-kozolupy-gmina-stoczek-powiat-wegrowski-termin-26-sierpnia-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "26.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej leśnej położonej w obrębie Kutyski, gmina Kosów Lacki, powiat sokołowski - termin: 10 września 2026 roku, godz. 12:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-lesnej-polozonej-w-obrebie-kutyski-gmina-kosow-lacki-powiat-sokolowski-termin-10-wrzesnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-lesnej-polozonej-w-obrebie-kutyski-gmina-kosow-lacki-powiat-sokolowski-termin-10-wrzesnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "10.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
-      "title": "Obwieszczenie o terminie opisu i oszacowania: niezabudowana nieruchomość rolna położona w Wierzbicy, powiat radomski - termin: 26 marca 2026 r. - 19 maja 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-terminie-opisu-i-oszacowania-niezabudowana-nieruchomosc-rolna-polozona-w-wierzbicy-powiat-radomski-termin-26-marca-2026-r-19-maja-2026-r-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D3%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "26.03.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=3"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
     },
     {
       "region": "Mazowieckie",
@@ -2120,16 +2010,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "15.07.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/drugi-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Drugi Urząd Skarbowy w Radomiu",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania: niezabudowana nieruchomość rolna położona w Wierzbicy, powiat radomski - termin: 26 marca 2026 r. - 19 maja 2026 r.",
-      "url": "https://www.mazowieckie.kas.gov.pl/drugi-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Jv1o/content/obwieszczenie-o-terminie-opisu-i-oszacowania-niezabudowana-nieruchomosc-rolna-polozona-w-wierzbicy-powiat-radomski-termin-26-marca-2026-r-19-maja-2026-r-1?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-radomiu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Jv1o%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "26.03.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/drugi-urzad-skarbowy-w-radomiu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -2220,16 +2100,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "06.08.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-minsku-mazowieckim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Mińsku Mazowieckim",
-      "title": "Czytaj więcejo Obwieszczenie o odwołaniu pierwszej licytacji nieruchomości gruntowej niezabudowanej położonej w miejscowości Stanisławów, powiat miński - wyznaczonej na 15 lipca 2026 r. godz. 11:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-minsku-mazowieckim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/svP5/content/obwieszczenie-o-odwolaniu-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-miejscowosci-stanislawow-powiat-minski-wyznaczonej-na-15-lipca-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-minsku-mazowieckim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_svP5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "15.07.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-minsku-mazowieckim/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -2520,16 +2390,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "16.10.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy Warszawa-Ursynów",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości - lokal mieszkalny nr 29 położony w Warszawie przy ul. Adama Branickiego 18 - termin: 28 sierpnia 2026 roku, godz. 12.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Q4Yp/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-lokal-mieszkalny-nr-29-polozony-w-warszawie-przy-ul-adama-branickiego-18-termin-28-sierpnia-2026-roku-godz-12-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-warszawa-ursynow%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Q4Yp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "28.08.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-warszawa-ursynow/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -4095,11 +3955,11 @@
   ],
   "by_region": {
     "Dolnośląskie": 25,
-    "Lubelskie": 103,
+    "Lubelskie": 95,
     "Lubuskie": 15,
     "Łódzkie": 10,
     "Małopolskie": 11,
-    "Mazowieckie": 89,
+    "Mazowieckie": 83,
     "Opolskie": 29,
     "Podkarpackie": 1,
     "Podlaskie": 5,
@@ -4110,7 +3970,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 287,
+    "Nieruchomości": 273,
     "Inne ruchomości": 98,
     "Pojazdy": 24
   }
