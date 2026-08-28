@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-27T17:02:29.453179",
-  "total": 369,
+  "scraped_at": "2026-08-28T17:52:40.468406",
+  "total": 365,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1345,16 +1345,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o I licytacji nieruchomości 27.08.2026 r. (zabudowana nieruchomość gruntowa, Piotrków Trybunalski u zbiegu ul. Budki 57 i ul. Sportowej 2).",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-27082026-r-zabudowana-nieruchomosc-gruntowa-piotrkow-trybunalski-u-zbiegu-ul-budki-57-i-ul-sportowej-2",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "27.08.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 18.08.2026 do 30.09.2026 r. (ul. Astrowa 4, Kalonka)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-18082026-do-30092026-r-ul-astrowa-4-kalonka",
       "category": "Nieruchomości",
@@ -1420,26 +1410,6 @@
       "category": "Nieruchomości",
       "type": "II licytacja",
       "date": "15.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji udziału w nieruchomości gruntowej poł. w Krakowie, 28.08.2026r. o godz. 13.00 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-udzialu-w-nieruchomosci-gruntowej-pol-w-krakowie-28-08-2026r-o-godz-13-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji lokalu mieszkalnego poł. w Krakowie, 28.08.2026r. o godz. 11.30 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-lokalu-mieszkalnego-pol-w-krakowie-28-08-2026r-o-godz-11-30-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
       "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -2935,16 +2905,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "I licytacja nieruchomości położonej w Bielsku-Białej, ul. Deszczowa (działka nr 1434/11)",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-ul-deszczowa-dzialka-nr-143411",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "II licytacja - samochód osobowy Fiat Panda",
       "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-panda",
       "category": "Pojazdy",
@@ -2960,7 +2920,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -3060,7 +3020,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -3160,7 +3120,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -3260,7 +3220,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -3360,7 +3320,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -3697,20 +3657,20 @@
     "Dolnośląskie": 25,
     "Lubelskie": 95,
     "Lubuskie": 11,
-    "Łódzkie": 10,
-    "Małopolskie": 11,
+    "Łódzkie": 9,
+    "Małopolskie": 9,
     "Mazowieckie": 73,
     "Opolskie": 29,
     "Podkarpackie": 1,
     "Podlaskie": 2,
     "Pomorskie": 2,
-    "Śląskie": 83,
+    "Śląskie": 82,
     "Świętokrzyskie": 2,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 249,
+    "Nieruchomości": 245,
     "Inne ruchomości": 98,
     "Pojazdy": 22
   }
