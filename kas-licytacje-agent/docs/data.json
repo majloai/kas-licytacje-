@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-28T17:52:40.468406",
-  "total": 365,
+  "scraped_at": "2026-08-29T11:57:15.928980",
+  "total": 363,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -35,16 +35,6 @@
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości (nieruchomość gruntowa, zabudowana położona w Jaworze, KW nr LE1J/00018499/7)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-nieruchomosc-gruntowa-zabudowana-polozona-w-jaworze-kw-nr-le1j000184997",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
       "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
       "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
       "category": "Inne ruchomości",
@@ -56,7 +46,7 @@
       "region": "Dolnośląskie",
       "city": "Wrocław",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości położonej w Stroniu Śląskim",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci8",
+      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej-w-stroniu-slaskim",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
@@ -90,7 +80,7 @@
       "category": "Inne ruchomości",
       "type": "I licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -100,7 +90,7 @@
       "category": "Nieruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -110,7 +100,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -190,7 +180,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -200,7 +190,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -210,7 +200,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -2625,16 +2615,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "II licytacja nieruchomości położonej w Bielsku-Białej przy ul. Braterskiej 17",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-braterskiej-17",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Pisarzowicach przy ul. Krakowskiej (działka nr 432/3)",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pisarzowicach-przy-ul-krakowskiej-dzialka-nr-4323",
       "category": "Nieruchomości",
@@ -2670,7 +2650,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Śląskie",
@@ -2760,7 +2740,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -2860,7 +2840,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Śląskie",
@@ -2930,7 +2910,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -3030,7 +3010,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -3130,7 +3110,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=6&size=10"
     },
     {
       "region": "Śląskie",
@@ -3230,7 +3210,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=7&size=10"
     },
     {
       "region": "Śląskie",
@@ -3330,7 +3310,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=9&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=8&size=10"
     },
     {
       "region": "Śląskie",
@@ -3654,7 +3634,7 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 25,
+    "Dolnośląskie": 24,
     "Lubelskie": 95,
     "Lubuskie": 11,
     "Łódzkie": 9,
@@ -3664,13 +3644,13 @@
     "Podkarpackie": 1,
     "Podlaskie": 2,
     "Pomorskie": 2,
-    "Śląskie": 82,
+    "Śląskie": 81,
     "Świętokrzyskie": 2,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 245,
+    "Nieruchomości": 243,
     "Inne ruchomości": 98,
     "Pojazdy": 22
   }
