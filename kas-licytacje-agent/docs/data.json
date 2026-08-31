@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-30T10:54:33.494395",
-  "total": 363,
+  "scraped_at": "2026-08-31T12:04:12.671643",
+  "total": 362,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -2535,16 +2535,6 @@
     {
       "region": "Pomorskie",
       "city": "Gdańsk",
-      "title": "Zniesienie opłaty elektronicznej w systemie e-TOLL za przejazdy pojazdów lekkich wraz z przyczepą",
-      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/zniesienie-oplaty-elektronicznej-w-systemie-e-toll-za-przejazdy-pojazdow-lekkich-wraz-z-przyczepa",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Pomorskie",
-      "city": "Gdańsk",
       "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
       "url": "https://etoll.gov.pl/",
       "category": "Pojazdy",
@@ -3643,7 +3633,7 @@
     "Opolskie": 29,
     "Podkarpackie": 1,
     "Podlaskie": 2,
-    "Pomorskie": 2,
+    "Pomorskie": 1,
     "Śląskie": 81,
     "Świętokrzyskie": 2,
     "Wielkopolskie": 24,
@@ -3652,6 +3642,6 @@
   "by_category": {
     "Nieruchomości": 243,
     "Inne ruchomości": 98,
-    "Pojazdy": 22
+    "Pojazdy": 21
   }
 }
