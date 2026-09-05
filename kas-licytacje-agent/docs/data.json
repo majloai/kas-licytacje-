@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-04T10:08:57.639257",
-  "total": 340,
+  "scraped_at": "2026-09-05T09:39:07.512803",
+  "total": 337,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -430,16 +430,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "08.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Opolu Lubelskim o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (sady, Kolonia Wrzelów, gmina Wilków i (łąki trwałe, grunty orne, grunty pod...",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-opolu-lubelskim-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-sady-kolonia-wrzelow-gmina-wilkow-i-laki-trwale-grunty-orne-grunty-pod-rowami-zmijowiska-gmina-wilkow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1174,16 +1164,6 @@
     },
     {
       "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Opolu Lubelskim",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Opolu Lubelskim o pierwszej licytacji nieruchomości 18 sierpnia 2026 r. (sady, Kolonia Wrzelów, gmina Wilków i (łąki trwałe, grunty orne, grunty pod rowami, Żmijowiska, gmina Wilków)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-opolu-lubelskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/Mp9R/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-opolu-lubelskim-o-pierwszej-licytacji-nieruchomosci-18-sierpnia-2026-r-sady-kolonia-wrzelow-gmina-wilkow-i-laki-trwale-grunty-orne-grunty-pod-rowami-zmijowiska-gmina-wilkow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-opolu-lubelskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_Mp9R%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "18.08.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-opolu-lubelskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
       "city": "Urząd Skarbowy we Włodawie",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego we Włodawie o pierwszej licytacji nieruchomości 2 września 2026 r. (nieruchomości gruntowe w obrębie Krasówka, pow. włodawski)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-we-wlodawie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/c9ID/content/obwieszczenie-naczelnika-urzedu-skarbowego-we-wlodawie-o-pierwszej-licytacji-nieruchomosci-2-wrzesnia-2026-r-nieruchomosci-gruntowe-w-obrebie-krasowka-pow-wlodawski?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-we-wlodawie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_c9ID%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -1330,16 +1310,6 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "30.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 4.09.2026 r. (Łódź, ul. Kosodrzewiny b.n.)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-4092026-r-lodz-ul-kosodrzewiny-bn",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "28.07.2026",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
@@ -3405,9 +3375,9 @@
   ],
   "by_region": {
     "Dolnośląskie": 24,
-    "Lubelskie": 95,
+    "Lubelskie": 93,
     "Lubuskie": 9,
-    "Łódzkie": 8,
+    "Łódzkie": 7,
     "Małopolskie": 9,
     "Mazowieckie": 59,
     "Opolskie": 29,
@@ -3419,7 +3389,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 224,
+    "Nieruchomości": 221,
     "Inne ruchomości": 98,
     "Pojazdy": 18
   }
