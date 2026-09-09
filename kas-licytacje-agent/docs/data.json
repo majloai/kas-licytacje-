@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-08T10:17:04.711992",
-  "total": 332,
+  "scraped_at": "2026-09-09T10:20:06.483035",
+  "total": 330,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1285,16 +1285,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "LICYTACJA ODWOŁANA Obwieszczenie o I licytacji nieruchomości 8.09.2026 r. (Podole, gmina Zgierz, pow. 1,0407 ha)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-i-licytacji-nieruchomosci-8092026-r-podole-gmina-zgierz-pow-10407-ha",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "08.09.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 18.08.2026 do 30.09.2026 r. (ul. Astrowa 4, Kalonka)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-18082026-do-30092026-r-ul-astrowa-4-kalonka",
       "category": "Nieruchomości",
@@ -1331,16 +1321,6 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "ODWOŁANIE I licytacji nieruchomości położonej w Owczarach wyznaczonej na 8.09.2026 r.",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/odwolanie-i-licytacji-nieruchomosci-polozonej-w-owczarach-wyznaczonej-na-8-09-2026-r?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "08.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Małopolskie",
@@ -3327,8 +3307,8 @@
     "Dolnośląskie": 24,
     "Lubelskie": 93,
     "Lubuskie": 9,
-    "Łódzkie": 7,
-    "Małopolskie": 9,
+    "Łódzkie": 6,
+    "Małopolskie": 8,
     "Mazowieckie": 53,
     "Opolskie": 29,
     "Podlaskie": 2,
@@ -3339,7 +3319,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 215,
+    "Nieruchomości": 213,
     "Inne ruchomości": 99,
     "Pojazdy": 18
   }
