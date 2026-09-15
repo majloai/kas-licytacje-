@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-14T11:10:44.732128",
-  "total": 311,
+  "scraped_at": "2026-09-15T10:40:45.184399",
+  "total": 313,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1685,6 +1685,16 @@
     {
       "region": "Opolskie",
       "city": "Opole",
+      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Nysie o zmianie terminu zakończenia dodatkowego opisu i oszacowania nieruchomości o numerze księgi wieczystej OP1N/00082600/8 położonej w Nysie przy ul....",
+      "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-nysie-o-zmianie-terminu-zakonczenia-dodatkowego-opisu-i-oszacowania-nieruchomosci-o-numerze-ksiegi-wieczystej-op1n-00082600-8-polozonej-w-nysie-przy-ul-wiosennej-25-nowy-termin-9-grudnia-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Opolskie",
+      "city": "Opole",
       "title": "Obwieszczenie Urzędu Skarbowego w Głubczycach o terminie opisu i oszacowania nieruchomości (KW nr OP1G/00033613/7 położonej we wsi Wódka, gmina Branice) termin od 29 lipca 2026 r. godz. 10.00 do 6...",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-urzedu-skarbowego-w-glubczycach-o-terminie-opisu-i-oszacowania-nieruchomosci-kw-nr-op1g-00033613-7-polozonej-we-wsi-wodka-gmina-branice-termin-od-29-lipca-2026-r-godz-10-00-do-6-sierpnia-2026-r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1911,6 +1921,16 @@
       "type": "Ogłoszenie",
       "date": "29.07.2026",
       "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-glubczycach/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Opolskie",
+      "city": "Urząd Skarbowy w Nysie",
+      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Nysie o zmianie terminu zakończenia dodatkowego opisu i oszacowania nieruchomości o numerze księgi wieczystej OP1N/00082600/8 położonej w Nysie przy ul. Wiosennej 25, nowy termin 9 grudnia 2026r. godz. 12:00",
+      "url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-nysie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/R7sa/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-nysie-o-zmianie-terminu-zakonczenia-dodatkowego-opisu-i-oszacowania-nieruchomosci-o-numerze-ksiegi-wieczystej-op1n-00082600-8-polozonej-w-nysie-przy-ul-wiosennej-25-nowy-termin-9-grudnia-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Furzad-skarbowy-w-nysie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_R7sa%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-nysie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
@@ -3120,7 +3140,7 @@
     "Łódzkie": 6,
     "Małopolskie": 5,
     "Mazowieckie": 41,
-    "Opolskie": 29,
+    "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
     "Śląskie": 84,
@@ -3129,7 +3149,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 197,
+    "Nieruchomości": 199,
     "Inne ruchomości": 97,
     "Pojazdy": 17
   }
