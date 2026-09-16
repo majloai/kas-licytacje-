@@ -1,27 +1,7 @@
 {
-  "scraped_at": "2026-09-15T10:40:45.184399",
-  "total": 313,
+  "scraped_at": "2026-09-16T10:29:14.091933",
+  "total": 305,
   "listings": [
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,3725 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-ii-licytacji-nieruchomosci9",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "II licytacja ułamkowej części 1/2 nieruchomości gruntowej o powierzchni 0,4650 ha, położonej w Gminie Stronie Śląskie, dz. nr 249/3, obręb 0013 Stary Gierałtów",
-      "url": "https://www.gov.pl/web/ias-wroclaw/ii-licytacja-ulamkowej-czesci-12-nieruchomosci-gruntowej-o-powierzchni-04650-ha-polozonej-w-gminie-stronie-slaskie-dz-nr-2493-obreb-0013-stary-gieraltow",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
@@ -110,7 +90,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -120,7 +100,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -210,7 +190,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -220,7 +200,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -1175,16 +1155,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o drugiej licytacji nieruchomości 15.09.2026 r. (nmieruchomość gruntowa zabudowana Sanie, działka nr 14/6)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-drugiej-licytacji-nieruchomosci-15092026-r-nmieruchomosc-gruntowa-zabudowana-sanie-dzialka-nr-146",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "15.09.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 18.08.2026 do 30.09.2026 r. (ul. Astrowa 4, Kalonka)",
       "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-18082026-do-30092026-r-ul-astrowa-4-kalonka",
       "category": "Nieruchomości",
@@ -1225,41 +1195,11 @@
     {
       "region": "Małopolskie",
       "city": "Kraków",
-      "title": "ODWOŁANIE licytacji nieruchomości w Mochnaczce Niżnej 15.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/odwolanie-licytacji-nieruchomosci-w-mochnaczce-niznej-15-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Odwołanie",
-      "date": "15.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o II licytacji nieruchomości położonej w Woli Filipowskiej, 15.09.2026 o godz. 10.00 w Krakowie",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-polozonej-w-woli-filipowskiej-15-09-2026-o-godz-10-00-w-krakowie?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "15.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
       "title": "Obwieszczenie o I licytacji nieruchomości położonej w Binczarowej, 17.09.2026 r. o godz. 9.00 w Nowym Sączu",
       "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-binczarowej-17-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "17.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o III licytacji udziału w nieruchomości lokalowej położonej w Nowym Sączu, 16.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-iii-licytacji-udzialu-w-nieruchomosci-lokalowej-polozonej-w-nowym-saczu-16-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Licytacja",
-      "date": "16.09.2026",
       "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1405,16 +1345,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej położonej w miejscowości Aleksandrów, gmina Czosnów, powiat nowodworski - termin: 15.09.2026 r. godz. 11.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-w-miejscowosci-aleksandrow-gmina-czosnow-powiat-nowodworski-termin-15-09-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "15.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej zabudowanej budynkiem mieszkalnym jednorodzinnym, położonej w miejscowości Niestum przy ul. Gruduskiej 27 - termin: 24 września 2026 roku,...",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-zabudowanej-budynkiem-mieszkalnym-jednorodzinnym-polozonej-w-miejscowosci-niestum-przy-ul-gruduskiej-27-termin-24-wrzesnia-2026-roku-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1541,16 +1471,6 @@
       "type": "I licytacja",
       "date": "15.10.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-kozienicach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Nowym Dworze Mazowieckim",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej położonej w miejscowości Aleksandrów, gmina Czosnów, powiat nowodworski - termin: 15.09.2026 r. godz. 11.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-nowym-dworze-mazowieckim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/6OdI/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-polozonej-w-miejscowosci-aleksandrow-gmina-czosnow-powiat-nowodworski-termin-15-09-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-nowym-dworze-mazowieckim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_6OdI%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "15.09.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-nowym-dworze-mazowieckim/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Mazowieckie",
@@ -3134,12 +3054,12 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 24,
+    "Dolnośląskie": 22,
     "Lubelskie": 85,
     "Lubuskie": 7,
-    "Łódzkie": 6,
-    "Małopolskie": 5,
-    "Mazowieckie": 41,
+    "Łódzkie": 5,
+    "Małopolskie": 2,
+    "Mazowieckie": 39,
     "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
@@ -3149,7 +3069,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 199,
+    "Nieruchomości": 191,
     "Inne ruchomości": 97,
     "Pojazdy": 17
   }
