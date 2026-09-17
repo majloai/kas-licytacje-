@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-16T10:29:14.091933",
-  "total": 305,
+  "scraped_at": "2026-09-17T10:38:29.630794",
+  "total": 300,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -350,16 +350,6 @@
       "category": "Nieruchomości",
       "type": "I licytacja",
       "date": "12.10.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Biłgoraju o terminie opisu i oszacowania wartości nieruchomości od 15 lipca do 15 września 2026 r. (działki, powiat biłgorajski, gmina Aleksandrów)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bilgoraju-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-15-lipca-do-15-wrzesnia-2026-r-dzialki-powiat-bilgorajski-gmina-aleksandrow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "15.09.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -1044,16 +1034,6 @@
     },
     {
       "region": "Lubelskie",
-      "city": "Urząd Skarbowy w Biłgoraju",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Biłgoraju o terminie opisu i oszacowania wartości nieruchomości od 15 lipca do 15 września 2026 r. (działki, powiat biłgorajski, gmina Aleksandrów)",
-      "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bilgoraju/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/H2Wc/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-bilgoraju-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-od-15-lipca-do-15-wrzesnia-2026-r-dzialki-powiat-bilgorajski-gmina-aleksandrow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-bilgoraju%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_H2Wc%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "15.09.2026",
-      "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-bilgoraju/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
       "city": "Urząd Skarbowy w Chełmie",
       "title": "Czytaj więcejo Obwieszczenie Naczelnika Urzędu Skarbowego w Chełmie o terminie opisu i oszacowania nieruchomości od 21 sierpnia do 21 października 2026 r. (grunt, Plisków, gm. Leśniowice)",
       "url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/L0mH/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-chelmie-o-terminie-opisu-i-oszacowania-nieruchomosci-od-21-sierpnia-do-21-pazdziernika-2026-r-grunt-pliskow-gm-lesniowice?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Furzad-skarbowy-w-chelmie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_L0mH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -1071,16 +1051,6 @@
       "type": "I licytacja",
       "date": "12.10.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-krasnymstawie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Druga licytacja nieruchomości, położonej w Krośnie Odrz. przy ul. Słubickiej 15",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/druga-licytacja-nieruchomosci-polozonej-w-krosnie-odrz-przy-ul-slubickiej-15?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Lubuskie",
@@ -1133,16 +1103,6 @@
       "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
-      "region": "Lubuskie",
-      "city": "Urząd Skarbowy w Krośnie Odrzańskim",
-      "title": "Czytaj więcejo Druga licytacja nieruchomości, położonej w Krośnie Odrz. przy ul. Słubickiej 15",
-      "url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-krosnie-odrzanskim/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/8wL9/content/druga-licytacja-nieruchomosci-polozonej-w-krosnie-odrz-przy-ul-slubickiej-15?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Furzad-skarbowy-w-krosnie-odrzanskim%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_8wL9%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/urzad-skarbowy-w-krosnie-odrzanskim/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
       "region": "Łódzkie",
       "city": "Łódź",
       "title": "Rusza portal eLicytacje KAS",
@@ -1191,16 +1151,6 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o I licytacji nieruchomości położonej w Binczarowej, 17.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-i-licytacji-nieruchomosci-polozonej-w-binczarowej-17-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "17.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Małopolskie",
@@ -3055,10 +3005,10 @@
   ],
   "by_region": {
     "Dolnośląskie": 22,
-    "Lubelskie": 85,
-    "Lubuskie": 7,
+    "Lubelskie": 83,
+    "Lubuskie": 5,
     "Łódzkie": 5,
-    "Małopolskie": 2,
+    "Małopolskie": 1,
     "Mazowieckie": 39,
     "Opolskie": 31,
     "Podlaskie": 2,
@@ -3069,7 +3019,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 191,
+    "Nieruchomości": 186,
     "Inne ruchomości": 97,
     "Pojazdy": 17
   }
