@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-20T10:17:03.527649",
-  "total": 258,
+  "scraped_at": "2026-09-21T11:20:10.510176",
+  "total": 259,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1875,6 +1875,16 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
+      "title": "Obwieszczenie o zmianie terminu opisu i oszacowania wartości nieruchomości położonej w Częstochowie (działka nr 244/16)",
+      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-czestochowie-dzialka-nr-24416",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
       "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00034189/4)",
       "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000341894",
       "category": "Nieruchomości",
@@ -1970,7 +1980,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -2160,7 +2170,7 @@
       "category": "Pojazdy",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
     },
     {
       "region": "Śląskie",
@@ -2230,7 +2240,7 @@
       "category": "Pojazdy",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
     },
     {
       "region": "Śląskie",
@@ -2593,13 +2603,13 @@
     "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
-    "Śląskie": 44,
+    "Śląskie": 45,
     "Świętokrzyskie": 2,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 145,
+    "Nieruchomości": 146,
     "Inne ruchomości": 97,
     "Pojazdy": 16
   }
