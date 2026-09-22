@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-21T11:20:10.510176",
-  "total": 259,
+  "scraped_at": "2026-09-22T10:33:10.521956",
+  "total": 243,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -2163,166 +2163,6 @@
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - motorower Junak 901F",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---motorower-junak-901f",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Wodzisławska 12",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-wodzislawska-12",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż po cenie oszacowania podmiotom prowadzącym działalność handlową - kompresor i betoniarka",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-po-cenie-oszacowania-podmiotom-prowadzacym-dzialalnosc-handlowa",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód ciężarowy Fiat Fiorino",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-ciezarowy-fiat-fiorino",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A4",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a5",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - samochód osobowy Fiat Panda",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-fiat-panda",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy Audi A6",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-audi-a6",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=4&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja - pojazd Mini Motorbike Cross",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---pojazd-mini-motorbike-cross",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochody ciężarowe oraz przyczepa",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochody-ciezarowe-oraz-przyczepa",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - samochód osobowy Opel Insignia",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy-opel-insignia",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - samochód osobowy Renault Megane",
-      "url": "https://www.gov.pl/web/ias-katowice/ii-licytacja---samochod-osobowy",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "II licytacja - samochód osobowy Chevrolet Spark",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-chevrolet-spark",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o odwołaniu I licytacji nieruchomości położonej w Harbutowicach przy ul. Stara Droga",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-odwolaniu-i-licytacji-nieruchomosci-polozonej-w-harbutowicach-przy-ul-stara-droga",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Odwołanie niedoszłego terminu opisu i oszacowania wartości nieruchomości - grunty położone na ul. Rajdowej w Bielsku-Białej",
-      "url": "https://www.gov.pl/web/ias-katowice/odwolanie-niedoszlego-terminu-opisu-i-oszacowania-wartosci-nieruchomosci",
-      "category": "Nieruchomości",
-      "type": "Odwołanie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
-      "url": "https://www.gov.pl/web/ias-katowice/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji---rok-2025",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=5&size=10"
-    },
-    {
       "region": "Świętokrzyskie",
       "city": "Kielce",
       "title": "ODWOŁANIE I LICYTACJI PRZEWIDZIANEJ NA 22.09.2026 R. GODZ. 9:00",
@@ -2603,14 +2443,14 @@
     "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
-    "Śląskie": 45,
+    "Śląskie": 29,
     "Świętokrzyskie": 2,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 146,
-    "Inne ruchomości": 97,
-    "Pojazdy": 16
+    "Nieruchomości": 143,
+    "Inne ruchomości": 94,
+    "Pojazdy": 6
   }
 }
