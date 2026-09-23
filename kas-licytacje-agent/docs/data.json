@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-22T10:33:10.521956",
-  "total": 243,
+  "scraped_at": "2026-09-23T10:28:25.977537",
+  "total": 233,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1153,16 +1153,6 @@
       "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
     },
     {
-      "region": "Małopolskie",
-      "city": "Kraków",
-      "title": "Obwieszczenie o II licytacji nieruchomości w Muszynie 23.09.2026 r. o godz. 9.00 w Nowym Sączu",
-      "url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4FbB/content/obwieszczenie-o-ii-licytacji-nieruchomosci-w-muszynie-23-09-2026-r-o-godz-9-00-w-nowym-saczu?redirect=https%3A%2F%2Fwww.malopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-krakowie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4FbB%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "II licytacja",
-      "date": "23.09.2026",
-      "source_url": "https://www.malopolskie.kas.gov.pl/izba-administracji-skarbowej-w-krakowie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej położonej w miejscowości Wiśniew-Kolonia, gmina Wiśniew, powiat siedlecki - termin: 18 listopada 2026 r. godz. 10.00.",
@@ -1995,26 +1985,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Wojkowicach Kościelnych, Podskale 28 (działka nr: 1027)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-wojkowicach-koscielnych-podskale-28-dzialka-nr-1027",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości części zajętej nieruchomości położonej w Wojkowicach Kościelnych, Zawodzie 44 (działka nr: 555/4)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-czesci-zajetej-nieruchomosci-polozonej-w-wojkowicach-koscielnych-zawodzie-44-dzialka-nr-5554",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Lędzinach przy ul. Kolonia Piast 2/5",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-ledzinach-przy-ul-kolonia-piast-25",
       "category": "Nieruchomości",
@@ -2055,16 +2025,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Panoszów",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-panoszow",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Astrów 6A",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-astrow-6a",
       "category": "Nieruchomości",
@@ -2075,102 +2035,42 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - urządzenia produkcyjne",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-produkcyjne",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Konopiska przy ul. Śląskiej (nr KW CZ1C/00056177/0)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-konopiska",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w miejscowości Konopiska przy ul. Śląskiej (nr KW CZ1C/00182504/4)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-miejscowosci-konopiska-przy-ul-slaskiej-nr-kw-cz1c001825044",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości położonej w Bielsku-Białej przy ul. Szczygłów",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-przy-ul-szczyglow",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - quad Hytrack Exlusive",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---quad-hytrack-exlusive",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "I licytacja - samochód osobowy Opel Corsa",
-      "url": "https://www.gov.pl/web/ias-katowice/i-licytacja---samochod-osobowy-opel-corsa",
-      "category": "Pojazdy",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy Honda Accord",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-honda-accord",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - samochód osobowy VW Polo",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---samochod-osobowy-vw-polo2",
-      "category": "Pojazdy",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Ks. Ludwika Tunkla 131, 131A",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-ks-ludwika-tunkla-131-131a",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Wodzisławska 12",
+      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-wodzislawska-12",
+      "category": "Nieruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
+    },
+    {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
+      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
+      "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
-      "title": "ODWOŁANIE I LICYTACJI PRZEWIDZIANEJ NA 22.09.2026 R. GODZ. 9:00",
-      "url": "https://www.gov.pl/web/ias-kielce/odwolanie-licytacji-przewidzianej-na-22092026-r-godz-900",
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
+      "url": "https://www.gov.pl/web/ias-katowice/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji---rok-2025",
       "category": "Inne ruchomości",
-      "type": "I licytacja",
-      "date": "22.09.2026",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
       "region": "Świętokrzyskie",
@@ -2438,19 +2338,18 @@
     "Lubelskie": 83,
     "Lubuskie": 5,
     "Łódzkie": 5,
-    "Małopolskie": 1,
     "Mazowieckie": 37,
     "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
-    "Śląskie": 29,
-    "Świętokrzyskie": 2,
+    "Śląskie": 21,
+    "Świętokrzyskie": 1,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 143,
-    "Inne ruchomości": 94,
-    "Pojazdy": 6
+    "Nieruchomości": 137,
+    "Inne ruchomości": 93,
+    "Pojazdy": 3
   }
 }
