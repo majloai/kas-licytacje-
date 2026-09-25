@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-24T10:42:36.395786",
-  "total": 233,
+  "scraped_at": "2026-09-25T10:45:39.390894",
+  "total": 231,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1135,16 +1135,6 @@
     {
       "region": "Łódzkie",
       "city": "Łódź",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości 28.07.2026 do 24.09.2026 r. (Sianokosy 8, Łódź)",
-      "url": "https://www.gov.pl/web/ias-lodz/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-28072026-do-24092026-r-sianokosy-8-lodz",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "28.07.2026",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
       "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
       "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
       "category": "Inne ruchomości",
@@ -1235,16 +1225,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej niezabudowanej, położonej w woj. mazowieckim, powiat ostrołęcki, Łęg Przedmiejski, gm. Lelis, oznaczonej według ewidencji gruntów jako...",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-woj-mazowieckim-powiat-ostrolecki-leg-przedmiejski-gm-lelis-oznaczonej-wedlug-ewidencji-gruntow-jako-dzialki-nr-120-i-139-o-lacznej-pow-2-5100-ha-stanowiacych-dzialki-rolne-dla-ktorej-sad-rejonowy-w-ostrolece-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-kw-os1o-00043346-1-termin-licytacji-1-10-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji niezabudowanej nieruchomości gruntowej rolnej, położonej w Magnuszew, gm. Magnuszew, powiat kozienicki, woj. mazowieckie, składającej się z działek nr 1646 i 1647,...",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-niezabudowanej-nieruchomosci-gruntowej-rolnej-polozonej-w-magnuszew-gm-magnuszew-powiat-kozienicki-woj-mazowieckie-skladajacej-sie-z-dzialek-nr-1646-i-1647-o-lacznej-pow-0-9800-ha-dla-ktorej-sad-rejonowy-w-kozienicach-v-wydzial-ksiag-wieczystych-prowadzi-kw-nr-ra1k-00029416-6-termin-15-10-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1316,11 +1296,11 @@
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-20?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1%26_101_INSTANCE_Uvm3_advancedSearch%3Dfalse%26_101_INSTANCE_Uvm3_keywords%3D%26_101_INSTANCE_Uvm3_delta%3D20%26_101_INSTANCE_Uvm3_cur%3D2%26_101_INSTANCE_Uvm3_andOperator%3Dtrue",
+      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-20?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach?p_p_id=101_INSTANCE_Uvm3&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&p_p_col_id=column-2&p_p_col_count=1&_101_INSTANCE_Uvm3_delta=20&_101_INSTANCE_Uvm3_keywords=&_101_INSTANCE_Uvm3_advancedSearch=false&_101_INSTANCE_Uvm3_andOperator=true&cur=2"
+      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Mazowieckie",
@@ -1391,16 +1371,6 @@
       "type": "I licytacja",
       "date": "15.10.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-kozienicach/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Ostrołęce",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej niezabudowanej, położonej w woj. mazowieckim, powiat ostrołęcki, Łęg Przedmiejski, gm. Lelis, oznaczonej według ewidencji gruntów jako działki nr 120 i 139 o łącznej pow. 2,5100 ha, stanowiących działki rolne, dla której Sąd Rejonowy w  Ostrołęce, VI Wydział Ksiąg Wieczystych prowadzi księgę wieczystą nr KW OS1O/00043346/1 - termin licytacji 1.10.2026 r. godz.10:00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-ostrolece/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/b1Td/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-niezabudowanej-polozonej-w-woj-mazowieckim-powiat-ostrolecki-leg-przedmiejski-gm-lelis-oznaczonej-wedlug-ewidencji-gruntow-jako-dzialki-nr-120-i-139-o-lacznej-pow-2-5100-ha-stanowiacych-dzialki-rolne-dla-ktorej-sad-rejonowy-w-ostrolece-vi-wydzial-ksiag-wieczystych-prowadzi-ksiege-wieczysta-nr-kw-os1o-00043346-1-termin-licytacji-1-10-2026-r-godz-10-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-ostrolece%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_b1Td%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "01.10.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-ostrolece/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Mazowieckie",
@@ -2073,6 +2043,16 @@
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
     },
     {
+      "region": "Śląskie",
+      "city": "Katowice",
+      "title": "Odwołanie opisu i oszacowania wartości nieruchomości położonej w Woźnikach przy ul. Słonecznej 11 (działka nr 2914)",
+      "url": "https://www.gov.pl/web/ias-katowice/odwolanie-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-woznikach-przy-ul-slonecznej-11-dzialka-nr-2914",
+      "category": "Nieruchomości",
+      "type": "Odwołanie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+    },
+    {
       "region": "Świętokrzyskie",
       "city": "Kielce",
       "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
@@ -2337,18 +2317,18 @@
     "Dolnośląskie": 22,
     "Lubelskie": 83,
     "Lubuskie": 5,
-    "Łódzkie": 5,
-    "Mazowieckie": 37,
+    "Łódzkie": 4,
+    "Mazowieckie": 35,
     "Opolskie": 31,
     "Podlaskie": 2,
     "Pomorskie": 1,
-    "Śląskie": 21,
+    "Śląskie": 22,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 137,
+    "Nieruchomości": 135,
     "Inne ruchomości": 93,
     "Pojazdy": 3
   }
