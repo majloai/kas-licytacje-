@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-09-28T12:14:27.950904",
-  "total": 232,
+  "scraped_at": "2026-09-29T11:46:07.568957",
+  "total": 229,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -18,16 +18,6 @@
       "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
       "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
       "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości położonej w Stroniu Śląskim",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-polozonej-w-stroniu-slaskim",
-      "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
@@ -110,7 +100,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -210,7 +200,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Dolnośląskie",
@@ -1055,8 +1045,18 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Informacja roczna o sprzedaży ruchomości w 2025 roku",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-roczna-o-sprzedazy-ruchomosci-w-2025-roku-1?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Obwieszczenia o licytacjach - eLicytacje KAS",
+      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/elicytacje-kas",
+      "category": "Inne ruchomości",
+      "type": "Licytacja",
+      "date": "",
+      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Lubuskie",
+      "city": "Zielona Góra",
+      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104-a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
@@ -1065,8 +1065,8 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Czytaj więcejo Informacja roczna o sprzedaży ruchomości w 2025 roku",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-roczna-o-sprzedazy-ruchomosci-w-2025-roku?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "title": "Lubuska KAS zapobiegła sprzedaży nielegalnej odzieży",
+      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/lubuska-kas-zapobiegla-sprzedazy-nielegalnej-odziezy",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
@@ -1075,30 +1075,10 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Informacja o aktualizacji obwieszczeń o licytacjach w Lubuskim Urzędzie Celno-Skarbowym",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/informacja-o-aktualizacji-obwieszczen-o-licytacjach-w-lubuskim-urzedzie-celno-skarbowym?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Ruszył portal eLicytacje KAS",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/ruszyl-portal-elicytacje-kas-4?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Czytaj więcejo Ruszył portal eLicytacje KAS",
-      "url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/4lkF/content/ruszyl-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.lubuskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-zielonej-gorze%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_4lkF%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
+      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
+      "url": "https://etoll.gov.pl/",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
     },
@@ -1495,6 +1475,16 @@
     {
       "region": "Opolskie",
       "city": "Opole",
+      "title": "Zawiadomienie Urzędu Skarbowego w Brzegu o sprzedaży samochodu osobowego marki Mercedes Benz A170 w trybie art. 108 § 2 ustawy o postępowaniu egzekucyjnym w administracji, termin 2 października 2026...",
+      "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/zawiadomienie-urzedu-skarbowego-w-brzegu-o-sprzedazy-samochodu-osobowego-marki-mercedes-benz-a170-w-trybie-art-108-%C2%A7-2-ustawy-o-postepowaniu-egzekucyjnym-w-administracji-termin-2-pazdziernika-2026-roku-w-godzinach-od-10-00-do-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "02.10.2026",
+      "source_url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Opolskie",
+      "city": "Opole",
       "title": "Obwieszczenie Naczelnika Urzędu Skarbowego w Nysie o zmianie terminu zakończenia dodatkowego opisu i oszacowania nieruchomości o numerze księgi wieczystej OP1N/00082600/8 położonej w Nysie przy ul....",
       "url": "https://www.opolskie.kas.gov.pl/izba-administracji-skarbowej-w-opolu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Y5Dq/content/obwieszczenie-naczelnika-urzedu-skarbowego-w-nysie-o-zmianie-terminu-zakonczenia-dodatkowego-opisu-i-oszacowania-nieruchomosci-o-numerze-ksiegi-wieczystej-op1n-00082600-8-polozonej-w-nysie-przy-ul-wiosennej-25-nowy-termin-9-grudnia-2026r-godz-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-opolu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Y5Dq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1715,6 +1705,16 @@
     {
       "region": "Opolskie",
       "city": "Urząd Skarbowy w Brzegu",
+      "title": "Czytaj więcejo Zawiadomienie Urzędu Skarbowego w Brzegu o sprzedaży samochodu osobowego marki Mercedes Benz A170 w trybie art. 108 § 2 ustawy o postępowaniu egzekucyjnym w administracji, termin 2 października 2026 roku w godzinach od 10:00 do 12:00",
+      "url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-brzegu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/5uEX/content/zawiadomienie-urzedu-skarbowego-w-brzegu-o-sprzedazy-samochodu-osobowego-marki-mercedes-benz-a170-w-trybie-art-108-%C2%A7-2-ustawy-o-postepowaniu-egzekucyjnym-w-administracji-termin-2-pazdziernika-2026-roku-w-godzinach-od-10-00-do-12-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Furzad-skarbowy-w-brzegu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_5uEX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Pojazdy",
+      "type": "Ogłoszenie",
+      "date": "02.10.2026",
+      "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-brzegu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Opolskie",
+      "city": "Urząd Skarbowy w Brzegu",
       "title": "Czytaj więcejo Obwieszczenie Urzędu Skarbowego w Brzegu o opisie i oszacowaniu nieruchomości położonej w Pisarzowicach nr KW OP1B/00046224/2, termin od 3 lipca 2026 r. godz. 9.00 do 3 września 2026 r. godz. 9.00",
       "url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-brzegu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/5uEX/content/obwieszczenie-urzedu-skarbowego-w-brzegu-o-opisie-i-oszacowaniu-nieruchomosci-polozonej-w-pisarzowicach-nr-kw-op1b-00046224-2-termin-od-3-lipca-2026-r-godz-9-00-do-3-wrzesnia-2026-r-godz-9-00?redirect=https%3A%2F%2Fwww.opolskie.kas.gov.pl%2Furzad-skarbowy-w-brzegu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_5uEX%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1821,16 +1821,6 @@
       "type": "Ogłoszenie",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Pomorskie",
-      "city": "Gdańsk",
-      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
-      "url": "https://etoll.gov.pl/",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Śląskie",
@@ -1985,26 +1975,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pisarzowicach przy ul. Krakowskiej (działka nr 432/3)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pisarzowicach-przy-ul-krakowskiej-dzialka-nr-4323",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Pisarzowicach przy ul. Krakowskiej (działka nr 432/2)",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-pisarzowicach-przy-ul-krakowskiej-dzialka-nr-4322",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Astrów 6A",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-astrow-6a",
       "category": "Nieruchomości",
@@ -2030,7 +2000,7 @@
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -2324,22 +2294,21 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 22,
+    "Dolnośląskie": 21,
     "Lubelskie": 83,
-    "Lubuskie": 5,
+    "Lubuskie": 4,
     "Łódzkie": 4,
     "Mazowieckie": 35,
-    "Opolskie": 31,
+    "Opolskie": 33,
     "Podlaskie": 2,
-    "Pomorskie": 1,
-    "Śląskie": 23,
+    "Śląskie": 21,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 24,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 135,
-    "Inne ruchomości": 94,
-    "Pojazdy": 3
+    "Nieruchomości": 132,
+    "Inne ruchomości": 92,
+    "Pojazdy": 5
   }
 }
