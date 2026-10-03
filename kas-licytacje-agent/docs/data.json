@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-02T11:32:22.608251",
-  "total": 210,
+  "scraped_at": "2026-10-03T10:48:47.071971",
+  "total": 209,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1925,16 +1925,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Oferta sprzedaży z wolnej ręki oleju opałowego",
-      "url": "https://www.gov.pl/web/ias-katowice/oferta-sprzedazy-z-wolnej-reki-oleju-opalowego",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Lędzinach przy ul. Kolonia Piast 2/5",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-ledzinach-przy-ul-kolonia-piast-25",
       "category": "Nieruchomości",
@@ -1990,7 +1980,7 @@
       "category": "Inne ruchomości",
       "type": "Wolna ręka",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Śląskie",
@@ -2111,14 +2101,14 @@
     "Mazowieckie": 35,
     "Opolskie": 33,
     "Podlaskie": 2,
-    "Śląskie": 20,
+    "Śląskie": 19,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 8,
     "Zachodniopomorskie": 1
   },
   "by_category": {
     "Nieruchomości": 113,
-    "Inne ruchomości": 92,
+    "Inne ruchomości": 91,
     "Pojazdy": 5
   }
 }
