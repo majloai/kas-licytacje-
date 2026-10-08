@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-07T12:16:00.214898",
-  "total": 200,
+  "scraped_at": "2026-10-08T12:25:08.701922",
+  "total": 201,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -975,16 +975,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Lubuska KAS zapobiegła sprzedaży nielegalnej odzieży",
-      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/lubuska-kas-zapobiegla-sprzedazy-nielegalnej-odziezy",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
       "url": "https://etoll.gov.pl/",
       "category": "Pojazdy",
@@ -1915,6 +1905,16 @@
     {
       "region": "Wielkopolskie",
       "city": "Poznań",
+      "title": "Kule ortopedyczne, materac, wózek dziecięcy, szafka RTV, regał - od 12 października 2026 r. od godz. 9:00 do 26 października do godz. 12:00 - sprzedaż jednostkom prowadzącym skup przedmiotów używanych...",
+      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/kule-ortopedyczne-materac-wozek-dzieciecy-szafka-rtv-regal-od-12-pazdziernika-2026-r-od-godz-9-00-do-26-pazdziernika-do-godz-12-00-sprzedaz-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "12.10.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Poznań",
       "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości w Cichowie, gm. Krzywiń, działki nr 6/19, pow. 0,0450 Ha, 23.09.2026 - 16.11.2026",
       "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-w-cichowie-gm-krzywin-dzialki-nr-6-19-pow-0-0450-ha-23-09-2026-16-11-2026?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
@@ -1974,6 +1974,16 @@
     },
     {
       "region": "Wielkopolskie",
+      "city": "Urząd Skarbowy Poznań-Wilda",
+      "title": "Czytaj więcejo Kule ortopedyczne, materac, wózek dziecięcy, szafka RTV, regał - od 12 października 2026 r. od godz. 9:00 do 26 października do godz. 12:00 - sprzedaż jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych",
+      "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/J7fp/content/kule-ortopedyczne-materac-wozek-dzieciecy-szafka-rtv-regal-od-12-pazdziernika-2026-r-od-godz-9-00-do-26-pazdziernika-do-godz-12-00-sprzedaz-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-wilda%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_J7fp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "12.10.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Koninie",
       "title": "Czytaj więcejo Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul. Kardynała Stefana Wyszyńskiego 2/43 dla której Sąd Rejonowy w Koninie prowadzi księgę wieczystą  oznaczoną  nr KN1N/00075696/5.",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3BJq/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koninie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3BJq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
@@ -2006,19 +2016,19 @@
   "by_region": {
     "Dolnośląskie": 16,
     "Lubelskie": 79,
-    "Lubuskie": 4,
+    "Lubuskie": 3,
     "Łódzkie": 2,
     "Mazowieckie": 35,
     "Opolskie": 33,
     "Podlaskie": 2,
     "Śląskie": 19,
     "Świętokrzyskie": 1,
-    "Wielkopolskie": 8,
+    "Wielkopolskie": 10,
     "Zachodniopomorskie": 1
   },
   "by_category": {
     "Nieruchomości": 107,
-    "Inne ruchomości": 89,
+    "Inne ruchomości": 90,
     "Pojazdy": 4
   }
 }
