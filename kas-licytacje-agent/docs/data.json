@@ -1,17 +1,7 @@
 {
-  "scraped_at": "2026-10-15T10:32:10.710417",
-  "total": 187,
+  "scraped_at": "2026-10-16T10:20:16.171975",
+  "total": 186,
   "listings": [
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości",
-      "url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci10",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
     {
       "region": "Dolnośląskie",
       "city": "Wrocław",
@@ -110,7 +100,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
+      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
     },
     {
       "region": "Dolnośląskie",
@@ -1874,7 +1864,7 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 16,
+    "Dolnośląskie": 15,
     "Lubelskie": 79,
     "Lubuskie": 3,
     "Łódzkie": 2,
@@ -1887,8 +1877,8 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Nieruchomości": 93,
     "Inne ruchomości": 90,
+    "Nieruchomości": 92,
     "Pojazdy": 4
   }
 }
