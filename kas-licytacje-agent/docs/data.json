@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-19T11:28:44.976845",
-  "total": 180,
+  "scraped_at": "2026-10-20T10:35:46.002593",
+  "total": 178,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1615,10 +1615,10 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Lędzinach przy ul. Kolonia Piast 2/5",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-ledzinach-przy-ul-kolonia-piast-25",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
+      "title": "Oferta sprzedaży z wolnej ręki oleju napędowego",
+      "url": "https://www.gov.pl/web/ias-katowice/oferta-sprzedazy-z-wolnej-reki-oleju-napedowego",
+      "category": "Inne ruchomości",
+      "type": "Wolna ręka",
       "date": "",
       "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
@@ -1627,26 +1627,6 @@
       "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Babiogórska",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-babiogorska",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Astrów 6A",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-astrow-6a",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Rudzie Śląskiej przy ul. Ks. Ludwika Tunkla 131, 131A",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-rudzie-slaskiej-przy-ul-ks-ludwika-tunkla-131-131a",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
       "date": "",
@@ -1680,7 +1660,7 @@
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
       "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=3&size=10"
+      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
     },
     {
       "region": "Świętokrzyskie",
@@ -1811,14 +1791,14 @@
     "Mazowieckie": 15,
     "Opolskie": 33,
     "Podlaskie": 2,
-    "Śląskie": 19,
+    "Śląskie": 17,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 10,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Inne ruchomości": 90,
-    "Nieruchomości": 86,
+    "Inne ruchomości": 91,
+    "Nieruchomości": 83,
     "Pojazdy": 4
   }
 }
