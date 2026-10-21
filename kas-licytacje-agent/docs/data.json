@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-20T10:35:46.002593",
-  "total": 178,
+  "scraped_at": "2026-10-21T10:47:59.100215",
+  "total": 176,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1035,16 +1035,6 @@
     {
       "region": "Mazowieckie",
       "city": "Warszawa",
-      "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej rolnej położonej we wsi Rawica - Józefatka, gmina Tczów, powiat zwoleński - termin: 26 października 2026 r. godz. 11.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-rolnej-polozonej-we-wsi-rawica-jozefatka-gmina-tczow-powiat-zwolenski-termin-26-pazdziernika-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "26.10.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Warszawa",
       "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a u.p.e.a w 2025 roku.",
       "url": "https://www.mazowieckie.kas.gov.pl/izba-administracji-skarbowej-w-warszawie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/Uvm3/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-u-p-e-a-w-2025-roku-20?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Fizba-administracji-skarbowej-w-warszawie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_Uvm3%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
@@ -1131,16 +1121,6 @@
       "type": "I licytacja",
       "date": "04.11.2026",
       "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-wyszkowie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Mazowieckie",
-      "city": "Urząd Skarbowy w Zwoleniu",
-      "title": "Czytaj więcejo Obwieszczenie o pierwszej licytacji nieruchomości gruntowej rolnej położonej we wsi Rawica - Józefatka, gmina Tczów, powiat zwoleński - termin: 26 października 2026 r. godz. 11.00.",
-      "url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-zwoleniu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/5zjJ/content/obwieszczenie-o-pierwszej-licytacji-nieruchomosci-gruntowej-rolnej-polozonej-we-wsi-rawica-jozefatka-gmina-tczow-powiat-zwolenski-termin-26-pazdziernika-2026-r-godz-11-00?redirect=https%3A%2F%2Fwww.mazowieckie.kas.gov.pl%2Furzad-skarbowy-w-zwoleniu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_5zjJ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "I licytacja",
-      "date": "26.10.2026",
-      "source_url": "https://www.mazowieckie.kas.gov.pl/urzad-skarbowy-w-zwoleniu/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
       "region": "Opolskie",
@@ -1788,7 +1768,7 @@
     "Lubelskie": 79,
     "Lubuskie": 3,
     "Łódzkie": 2,
-    "Mazowieckie": 15,
+    "Mazowieckie": 13,
     "Opolskie": 33,
     "Podlaskie": 2,
     "Śląskie": 17,
@@ -1798,7 +1778,7 @@
   },
   "by_category": {
     "Inne ruchomości": 91,
-    "Nieruchomości": 83,
+    "Nieruchomości": 81,
     "Pojazdy": 4
   }
 }
