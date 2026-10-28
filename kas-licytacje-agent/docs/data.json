@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-27T11:14:24.078236",
-  "total": 154,
+  "scraped_at": "2026-10-28T11:49:51.510340",
+  "total": 153,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1375,16 +1375,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Oferta sprzedaży z wolnej ręki oleju napędowego",
-      "url": "https://www.gov.pl/web/ias-katowice/oferta-sprzedazy-z-wolnej-reki-oleju-napedowego",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Babiogórska",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-babiogorska",
       "category": "Nieruchomości",
@@ -1551,13 +1541,13 @@
     "Mazowieckie": 11,
     "Opolskie": 33,
     "Podlaskie": 2,
-    "Śląskie": 17,
+    "Śląskie": 16,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 10,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Inne ruchomości": 91,
+    "Inne ruchomości": 90,
     "Nieruchomości": 59,
     "Pojazdy": 4
   }
