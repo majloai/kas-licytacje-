@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-10-30T11:51:30.330307",
-  "total": 153,
+  "scraped_at": "2026-10-31T11:23:57.856133",
+  "total": 152,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1521,16 +1521,6 @@
       "type": "Ogłoszenie",
       "date": "23.09.2026",
       "source_url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Zachodniopomorskie",
-      "city": "Szczecin",
-      "title": "Od 1 lipca ruszył portal eLicytacje KAS",
-      "url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/mKP7/content/od-1-lipca-ruszyl-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.zachodniopomorskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-szczecinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_mKP7%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.zachodniopomorskie.kas.gov.pl/izba-administracji-skarbowej-w-szczecinie/ogloszenia/obwieszczenia-o-licytacjach"
     }
   ],
   "by_region": {
@@ -1543,11 +1533,10 @@
     "Podlaskie": 2,
     "Śląskie": 16,
     "Świętokrzyskie": 1,
-    "Wielkopolskie": 10,
-    "Zachodniopomorskie": 1
+    "Wielkopolskie": 10
   },
   "by_category": {
-    "Inne ruchomości": 90,
+    "Inne ruchomości": 89,
     "Nieruchomości": 59,
     "Pojazdy": 4
   }
