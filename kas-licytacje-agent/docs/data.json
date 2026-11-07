@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-06T13:24:56.226317",
-  "total": 155,
+  "scraped_at": "2026-11-07T12:04:00.701613",
+  "total": 154,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1385,16 +1385,6 @@
     {
       "region": "Śląskie",
       "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości położonej w Konopiskach (KW CZ1C/00182504/4)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-konopiskach-kw-cz1c001825044",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
       "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Babiogórska",
       "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-babiogorska",
       "category": "Nieruchomości",
@@ -1561,14 +1551,14 @@
     "Mazowieckie": 11,
     "Opolskie": 35,
     "Podlaskie": 2,
-    "Śląskie": 15,
+    "Śląskie": 14,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 10,
     "Zachodniopomorskie": 1
   },
   "by_category": {
     "Inne ruchomości": 91,
-    "Nieruchomości": 60,
+    "Nieruchomości": 59,
     "Pojazdy": 4
   }
 }
