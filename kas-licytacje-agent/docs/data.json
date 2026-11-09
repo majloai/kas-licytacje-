@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-11-08T12:23:08.374816",
+  "scraped_at": "2026-11-09T14:35:02.798687",
   "total": 154,
   "listings": [
     {
@@ -765,16 +765,6 @@
     {
       "region": "Lubuskie",
       "city": "Zielona Góra",
-      "title": "Nowa unijna opłata manipulacyjna związana z obsługą zgłoszeń celnych przesyłek w sprzedaży na odległość",
-      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/nowa-unijna-oplata-manipulacyjna-zwiazana-z-obsluga-zgloszen-celnych-przesylek-w-sprzedazy-na-odleglosc",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
       "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
       "url": "https://etoll.gov.pl/",
       "category": "Pojazdy",
@@ -1283,6 +1273,16 @@
       "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
     },
     {
+      "region": "Pomorskie",
+      "city": "Gdańsk",
+      "title": "Nowa unijna opłata manipulacyjna związana z obsługą zgłoszeń celnych przesyłek w sprzedaży na odległość",
+      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/nowa-unijna-oplata-manipulacyjna-zwiazana-z-obsluga-zgloszen-celnych-przesylek-w-sprzedazy-na-odleglosc",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
+    },
+    {
       "region": "Śląskie",
       "city": "Katowice",
       "title": "Obwieszczenie o zmianie terminu opisu i oszacowania wartości nieruchomości położonej w Częstochowie (działka nr 244/16)",
@@ -1546,11 +1546,12 @@
   "by_region": {
     "Dolnośląskie": 15,
     "Lubelskie": 59,
-    "Lubuskie": 4,
+    "Lubuskie": 3,
     "Łódzkie": 2,
     "Mazowieckie": 11,
     "Opolskie": 35,
     "Podlaskie": 2,
+    "Pomorskie": 1,
     "Śląskie": 14,
     "Świętokrzyskie": 1,
     "Wielkopolskie": 10,
