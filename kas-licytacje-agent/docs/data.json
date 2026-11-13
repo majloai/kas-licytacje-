@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-12T14:10:18.250520",
-  "total": 154,
+  "scraped_at": "2026-11-13T13:36:06.584783",
+  "total": 158,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -1253,6 +1253,46 @@
       "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-prudniku/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Informacja roczna o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2025-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji2",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Informacja roczna o ruchomościach sprzedanych w 2024 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2024-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Informacja roczna o ruchomościach sprzedanych w 2023 roku trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2023-roku-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
+      "region": "Podkarpackie",
+      "city": "Rzeszów",
+      "title": "Informacja roczna o ruchomościach sprzedanych w 2022 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2022-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
+    },
+    {
       "region": "Podlaskie",
       "city": "Białystok",
       "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
@@ -1550,6 +1590,7 @@
     "Łódzkie": 2,
     "Mazowieckie": 11,
     "Opolskie": 35,
+    "Podkarpackie": 4,
     "Podlaskie": 2,
     "Pomorskie": 1,
     "Śląskie": 14,
@@ -1558,7 +1599,7 @@
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Inne ruchomości": 91,
+    "Inne ruchomości": 95,
     "Nieruchomości": 59,
     "Pojazdy": 4
   }
