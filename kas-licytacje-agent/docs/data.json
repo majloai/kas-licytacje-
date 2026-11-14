@@ -1,157 +1,7 @@
 {
-  "scraped_at": "2026-11-13T13:36:06.584783",
-  "total": 158,
+  "scraped_at": "2026-11-14T12:46:14.550240",
+  "total": 113,
   "listings": [
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lubań)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-luban",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Świdnica)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-swidnica2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (I US Wrocław)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-i-us-wroclaw",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Bolesławiec)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-boleslawiec",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Oława)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-olawa2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o ruchomościach sprzedanych przez Naczelnika Urzędu Skarbowego Głogów w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
-      "url": "https://www.gov.pl/web/ias-wroclaw/in",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław - Krzyki)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw---krzyki",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Ząbkowice Śląskie)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-zabkowice-slaskie2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a.(US Dzierżoniów)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Jawor)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-jawor",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Lwówek Śląski)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-lwowek-slaski2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wołów)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wolow2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Wrocław-Śródmieście)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-wroclaw-srodmiescie2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Środa Śląska)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-sroda-slaska",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Dolnośląskie",
-      "city": "Wrocław",
-      "title": "Informacja roczna o sprzedanych ruchomościach w trybie art. 104a u.p.e.a. (US Strzelin)",
-      "url": "https://www.gov.pl/web/ias-wroclaw/informacja-roczna-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea-us-strzelin2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-wroclaw/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
     {
       "region": "Lubelskie",
       "city": "Lublin",
@@ -743,56 +593,6 @@
       "source_url": "https://www.lubelskie.kas.gov.pl/urzad-skarbowy-w-chelmie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Obwieszczenia o licytacjach - eLicytacje KAS",
-      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/elicytacje-kas",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104 a ustawy o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.lubuskie.kas.gov.pl/web/ias-zielona-gora/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104-a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubuskie",
-      "city": "Zielona Góra",
-      "title": "e-TOLLChcesz opłacić swój przejazd pojazdem ciężkim na terenie kraju? Skorzystaj z systemu e-Toll!",
-      "url": "https://etoll.gov.pl/",
-      "category": "Pojazdy",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.lubuskie.kas.gov.pl/izba-administracji-skarbowej-w-zielonej-gorze/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Rusza portal eLicytacje KAS",
-      "url": "https://www.gov.pl/web/ias-lodz/rusza-portal-elicytacje-kas2",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Łódzkie",
-      "city": "Łódź",
-      "title": "Informacja roczna (o której mowa w art. 104e ustawy z dnia 17 czerwca 1966 roku o postępowaniu egzekucyjnym w administracji) o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ww. ustawy i uzyskanych z tego tytułu cenach sprzedaży",
-      "url": "https://www.gov.pl/web/ias-lodz/informacja-roczna-o-ktorej-mowa-w-art-104e-ustawy-z-dnia-17-czerwca-1966-roku-o-postepowaniu-egzekucyjnym-w-administracji-o-ruchomosciach-sprzedanych-w-2023-roku-w-trybie-art-104a-ww-ustawy-i-uzyskanych-z-tego-tytulu-cenach-sprzedazy",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-lodz/obwieszczenia-o-licytacjach"
-    },
-    {
       "region": "Mazowieckie",
       "city": "Warszawa",
       "title": "Obwieszczenie o pierwszej licytacji nieruchomości gruntowej położonej w miejscowości Wiśniew-Kolonia, gmina Wiśniew, powiat siedlecki - termin: 18 listopada 2026 r. godz. 10.00.",
@@ -1253,279 +1053,9 @@
       "source_url": "https://www.opolskie.kas.gov.pl/urzad-skarbowy-w-prudniku/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Informacja roczna o ruchomościach sprzedanych w 2025 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2025-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji2",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Informacja roczna o ruchomościach sprzedanych w 2024 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2024-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Informacja roczna o ruchomościach sprzedanych w 2023 roku trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2023-roku-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podkarpackie",
-      "city": "Rzeszów",
-      "title": "Informacja roczna o ruchomościach sprzedanych w 2022 roku w trybie art. 104a ustawy z 17 czerwca 1966 r. o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.gov.pl/web/ias-rzeszow/informacja-roczna-o-ruchomosciach-sprzedanych-w-2022-roku-w-trybie-art-104a-ustawy-z-17-czerwca-1966-r-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-rzeszow/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
-      "title": "Informacja roczna za 2025 rok o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
-      "url": "https://www.gov.pl/web/ias-bialystok/informacja-roczna-za-2025-rok-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Podlaskie",
-      "city": "Białystok",
-      "title": "Informacja o ruchomościach sprzedanych w 2024 r. w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji.",
-      "url": "https://www.gov.pl/web/ias-bialystok/informacja-o-ruchomosciach-sprzedanych-w-2024-r-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-bialystok/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Pomorskie",
-      "city": "Gdańsk",
-      "title": "Nowa unijna opłata manipulacyjna związana z obsługą zgłoszeń celnych przesyłek w sprzedaży na odległość",
-      "url": "https://www.pomorskie.kas.gov.pl/web/ias-gdansk/nowa-unijna-oplata-manipulacyjna-zwiazana-z-obsluga-zgloszen-celnych-przesylek-w-sprzedazy-na-odleglosc",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.pomorskie.kas.gov.pl/izba-administracji-skarbowej-w-gdansku/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu opisu i oszacowania wartości nieruchomości położonej w Częstochowie (działka nr 244/16)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-opisu-i-oszacowania-wartosci-nieruchomosci-polozonej-w-czestochowie-dzialka-nr-24416",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00034189/4)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000341895",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00036349/8)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000363499",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00034324/3)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000343244",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00037371/8)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000373719",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00012808/0)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000128081",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00020930/3)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000209304",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00043002/6)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00029592/4)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000295925",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Obwieszczenie o zmianie terminu zakończenia opisu i oszacowania wartości nieruchomości (nr kw.: CZ2C/00033471/1)",
-      "url": "https://www.gov.pl/web/ias-katowice/obwieszczenie-o-zmianie-terminu-zakonczenia-opisu-i-oszacowania-wartosci-nieruchomosci-nr-kw-cz2c000334712",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Bielsku-Białej, ul. Babiogórska",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-bielsku-bialej-ul-babiogorska",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Opis i oszacowanie wartości nieruchomości położonej w Żorach, ul. Wodzisławska 12",
-      "url": "https://www.gov.pl/web/ias-katowice/opis-i-oszacowanie-wartosci-nieruchomosci-polozonej-w-zorach-ul-wodzislawska-12",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Sprzedaż z wolnej ręki - urządzenia do ćwiczeń firmy MILON",
-      "url": "https://www.gov.pl/web/ias-katowice/sprzedaz-z-wolnej-reki---urzadzenia-do-cwiczen-firmy-milon",
-      "category": "Inne ruchomości",
-      "type": "Wolna ręka",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Śląskie",
-      "city": "Katowice",
-      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji - rok 2025",
-      "url": "https://www.gov.pl/web/ias-katowice/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji---rok-2025",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-katowice/obwieszczenia-o-licytacjach?page=2&size=10"
-    },
-    {
-      "region": "Świętokrzyskie",
-      "city": "Kielce",
-      "title": "ROCZNE INFORMACJE ORGANÓW EGZEKUCYJNYCH O SPRZEDANYCH RUCHOMOŚCIACH W TRYBIE ART. 104A UPEA",
-      "url": "https://www.gov.pl/web/ias-kielce/roczne-informacje-organow-egzekucyjnych-o-sprzedanych-ruchomosciach-w-trybie-art-104a-upea",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.gov.pl/web/ias-kielce/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Kule ortopedyczne, materac, wózek dziecięcy, szafka RTV, regał - od 12 października 2026 r. od godz. 9:00 do 26 października do godz. 12:00 - sprzedaż jednostkom prowadzącym skup przedmiotów używanych...",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/kule-ortopedyczne-materac-wozek-dzieciecy-szafka-rtv-regal-od-12-pazdziernika-2026-r-od-godz-9-00-do-26-pazdziernika-do-godz-12-00-sprzedaz-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "12.10.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości w Cichowie, gm. Krzywiń, działki nr 6/19, pow. 0,0450 Ha, 23.09.2026 - 16.11.2026",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-w-cichowie-gm-krzywin-dzialki-nr-6-19-pow-0-0450-ha-23-09-2026-16-11-2026?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "23.09.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/aktualne-obwieszczenia-od-1-07-2026-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Licytacja",
-      "date": "01.07.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul....",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "07.08.2026",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Wielkopolskie",
-      "city": "Poznań",
-      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
-      "url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/5TaH/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-poznaniu%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_5TaH%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Inne ruchomości",
-      "type": "Ogłoszenie",
-      "date": "",
-      "source_url": "https://www.wielkopolskie.kas.gov.pl/izba-administracji-skarbowej-w-poznaniu/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
       "region": "Wielkopolskie",
       "city": "Drugi Urząd Skarbowy w Kaliszu",
-      "title": "Czytaj więcejo AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
+      "title": "AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
       "url": "https://www.wielkopolskie.kas.gov.pl/drugi-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/tf9Y/content/aktualne-obwieszczenia-od-1-07-2026-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-kaliszu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_tf9Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Licytacja",
@@ -1535,7 +1065,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Drugi Urząd Skarbowy w Kaliszu",
-      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
+      "title": "Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
       "url": "https://www.wielkopolskie.kas.gov.pl/drugi-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/tf9Y/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-kaliszu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_tf9Y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -1544,8 +1074,28 @@
     },
     {
       "region": "Wielkopolskie",
+      "city": "Drugi Wielkopolski Urząd Skarbowy w Kaliszu",
+      "title": "Czytaj więcejo AKTUALNE OBWIESZCZENIA (OD 1.07.2026) - Portal eLicytacje KAS",
+      "url": "https://www.wielkopolskie.kas.gov.pl/drugi-wielkopolski-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/21Cb/content/aktualne-obwieszczenia-od-1-07-2026-portal-elicytacje-kas?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fdrugi-wielkopolski-urzad-skarbowy-w-kaliszu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_21Cb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Licytacja",
+      "date": "01.07.2026",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/drugi-wielkopolski-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Wielkopolskie",
+      "city": "Drugi Wielkopolski Urząd Skarbowy w Kaliszu",
+      "title": "Czytaj więcejo Informacja roczna o ruchomościach sprzedanych w trybie art. 104a ustawy o postępowaniu egzekucyjnym w administracji",
+      "url": "https://www.wielkopolskie.kas.gov.pl/drugi-wielkopolski-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/21Cb/content/informacja-roczna-o-ruchomosciach-sprzedanych-w-trybie-art-104a-ustawy-o-postepowaniu-egzekucyjnym-w-administracji?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Fdrugi-wielkopolski-urzad-skarbowy-w-kaliszu%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_21Cb%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
+      "category": "Inne ruchomości",
+      "type": "Ogłoszenie",
+      "date": "",
+      "source_url": "https://www.wielkopolskie.kas.gov.pl/drugi-wielkopolski-urzad-skarbowy-w-kaliszu/ogloszenia/obwieszczenia-o-licytacji"
+    },
+    {
+      "region": "Wielkopolskie",
       "city": "Urząd Skarbowy Poznań-Wilda",
-      "title": "Czytaj więcejo Kule ortopedyczne, materac, wózek dziecięcy, szafka RTV, regał - od 12 października 2026 r. od godz. 9:00 do 26 października do godz. 12:00 - sprzedaż jednostkom prowadzącym skup przedmiotów używanych lub surowców wtórnych",
+      "title": "Kule ortopedyczne, materac, wózek dziecięcy, szafka RTV, regał - od 12 października 2026 r. od godz. 9:00 do 26 października do godz. 12:00 - sprzedaż jednostkom prowadzącym skup przedmiotów używanych...",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-poznan-wilda/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/J7fp/content/kule-ortopedyczne-materac-wozek-dzieciecy-szafka-rtv-regal-od-12-pazdziernika-2026-r-od-godz-9-00-do-26-pazdziernika-do-godz-12-00-sprzedaz-jednostkom-prowadzacym-skup-przedmiotow-uzywanych-lub-surowcow-wtornych?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-poznan-wilda%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_J7fp%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Inne ruchomości",
       "type": "Ogłoszenie",
@@ -1555,7 +1105,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Koninie",
-      "title": "Czytaj więcejo Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul. Kardynała Stefana Wyszyńskiego 2/43 dla której Sąd Rejonowy w Koninie prowadzi księgę wieczystą  oznaczoną  nr KN1N/00075696/5.",
+      "title": "Opis i oszacowanie wartości nieruchomości - rozpocznie się 7 sierpnia 2026 r. o godz. 10:00 - zakończy się 16 października 2026 r. o godz. 10:00 - nieruchomość lokalowa  położona 62-510 Konin ul....",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koninie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/3BJq/content/opis-i-oszacowanie-wartosci-nieruchomosci-rozpocznie-sie-7-sierpnia-2026-r-o-godz-10-00-zakonczy-sie-16-pazdziernika-2026-r-o-godz-10-00-nieruchomosc-lokalowa-polozona-62-510-konin-ul-kardynala-stefana-wyszynskiego-2-43-dla-ktorej-sad-rejonowy-w-koninie-prowadzi-ksiege-wieczysta-oznaczona-nr-kn1n-00075696-5?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koninie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_3BJq%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -1565,7 +1115,7 @@
     {
       "region": "Wielkopolskie",
       "city": "Urząd Skarbowy w Kościanie",
-      "title": "Czytaj więcejo Obwieszczenie o terminie opisu i oszacowania nieruchomości w Cichowie, gm. Krzywiń, działki nr 6/19, pow. 0,0450 Ha, 23.09.2026 - 16.11.2026",
+      "title": "Obwieszczenie o terminie opisu i oszacowania nieruchomości w Cichowie, gm. Krzywiń, działki nr 6/19, pow. 0,0450 Ha, 23.09.2026 - 16.11.2026",
       "url": "https://www.wielkopolskie.kas.gov.pl/urzad-skarbowy-w-koscianie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/fIZ5/content/obwieszczenie-o-terminie-opisu-i-oszacowania-nieruchomosci-w-cichowie-gm-krzywin-dzialki-nr-6-19-pow-0-0450-ha-23-09-2026-16-11-2026?redirect=https%3A%2F%2Fwww.wielkopolskie.kas.gov.pl%2Furzad-skarbowy-w-koscianie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_fIZ5%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
       "category": "Nieruchomości",
       "type": "Ogłoszenie",
@@ -1584,23 +1134,15 @@
     }
   ],
   "by_region": {
-    "Dolnośląskie": 15,
     "Lubelskie": 59,
-    "Lubuskie": 3,
-    "Łódzkie": 2,
     "Mazowieckie": 11,
     "Opolskie": 35,
-    "Podkarpackie": 4,
-    "Podlaskie": 2,
-    "Pomorskie": 1,
-    "Śląskie": 14,
-    "Świętokrzyskie": 1,
-    "Wielkopolskie": 10,
+    "Wielkopolskie": 7,
     "Zachodniopomorskie": 1
   },
   "by_category": {
-    "Inne ruchomości": 95,
-    "Nieruchomości": 59,
-    "Pojazdy": 4
+    "Inne ruchomości": 65,
+    "Nieruchomości": 45,
+    "Pojazdy": 3
   }
 }
