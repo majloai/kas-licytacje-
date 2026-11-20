@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-11-19T14:52:53.675425",
-  "total": 151,
+  "scraped_at": "2026-11-20T14:33:46.862303",
+  "total": 149,
   "listings": [
     {
       "region": "Dolnośląskie",
@@ -160,16 +160,6 @@
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Lublin",
-      "title": "Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości w dniu 27 października 2026 r. ( Piotrkówek, gm. Krzczonów)",
-      "url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach/-/asset_publisher/rkN6/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-w-dniu-27-pazdziernika-2026-r-piotrkowek-gm-krzczonow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fizba-administracji-skarbowej-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacjach%3Fp_p_id%3D101_INSTANCE_rkN6%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "27.10.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/izba-administracji-skarbowej-w-lublinie/ogloszenia/obwieszczenia-o-licytacjach"
     },
     {
@@ -550,16 +540,6 @@
       "category": "Inne ruchomości",
       "type": "Licytacja",
       "date": "",
-      "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
-    },
-    {
-      "region": "Lubelskie",
-      "city": "Drugi Urząd Skarbowy w Lublinie",
-      "title": "Czytaj więcejo Obwieszczenie Naczelnika Drugiego Urzędu Skarbowego w Lublinie o terminie opisu i oszacowania wartości nieruchomości w dniu 27 października 2026 r. ( Piotrkówek, gm. Krzczonów)",
-      "url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji/-/asset_publisher/y7wQ/content/obwieszczenie-naczelnika-drugiego-urzedu-skarbowego-w-lublinie-o-terminie-opisu-i-oszacowania-wartosci-nieruchomosci-w-dniu-27-pazdziernika-2026-r-piotrkowek-gm-krzczonow?redirect=https%3A%2F%2Fwww.lubelskie.kas.gov.pl%2Fdrugi-urzad-skarbowy-w-lublinie%2Fogloszenia%2Fobwieszczenia-o-licytacji%3Fp_p_id%3D101_INSTANCE_y7wQ%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_count%3D1",
-      "category": "Nieruchomości",
-      "type": "Ogłoszenie",
-      "date": "27.10.2026",
       "source_url": "https://www.lubelskie.kas.gov.pl/drugi-urzad-skarbowy-w-lublinie/ogloszenia/obwieszczenia-o-licytacji"
     },
     {
@@ -1515,7 +1495,7 @@
   ],
   "by_region": {
     "Dolnośląskie": 15,
-    "Lubelskie": 59,
+    "Lubelskie": 57,
     "Lubuskie": 3,
     "Łódzkie": 2,
     "Mazowieckie": 5,
@@ -1529,7 +1509,7 @@
   },
   "by_category": {
     "Inne ruchomości": 94,
-    "Nieruchomości": 53,
+    "Nieruchomości": 51,
     "Pojazdy": 4
   }
 }
